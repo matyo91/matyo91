@@ -1,3 +1,5 @@
+![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/matyo91/matyo91/raw/master/assets/github.gif)
+
 <p align="center">
   <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
   <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
