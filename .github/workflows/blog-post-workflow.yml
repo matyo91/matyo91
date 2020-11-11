@@ -14,4 +14,4 @@ jobs:
         with:
           comment_tag_name: "BLOG-POST-LIST"
           commit_message: "Updated README with the latest Feedburner blog post"
-          feed_list: 'https://feeds.feedburner.com/darkwood-fr/blog'
+          feed_list: 'https://feeds.feedburner.com/darkwood-fr/blog,https://feeds.feedburner.com/uniflow-io/blog,https://feeds.feedburner.com/darkwaar-com/blog'
