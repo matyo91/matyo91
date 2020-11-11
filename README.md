@@ -7,6 +7,9 @@ I made my with https://codesandbox.io/s/github-profile-2ijk7
 Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
 -->
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
   <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
