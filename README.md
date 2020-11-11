@@ -7,7 +7,7 @@ I made my with https://codesandbox.io/s/github-profile-2ijk7
 Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
 -->
 
-## blog
+## Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Organiser son dossier de musique pour DJ sur le Cloud](https://blog.darkwood.fr/article/organiser-son-dossier-de-musique-pour-dj-sur-le-cloud)
