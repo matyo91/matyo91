@@ -10,11 +10,11 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Api refactor](https://uniflow.io/blog/2020-11-22-api-refactor)
 - [Organiser son dossier de musique pour DJ sur le Cloud](https://blog.darkwood.fr/article/organiser-son-dossier-de-musique-pour-dj-sur-le-cloud)
 - [Raccourci pour lire des vidéos 2X](https://blog.darkwood.fr/article/raccourci-pour-lire-des-videos-2x)
 - [Participer à une Game Jam](https://blog.darkwood.fr/article/participer-a-une-game-jam)
 - [Joplin](https://blog.darkwood.fr/article/joplin)
-- [Darkwood Opensource](https://blog.darkwood.fr/article/darkwood-opensource)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
