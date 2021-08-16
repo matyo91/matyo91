@@ -10,11 +10,11 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenApi](https://uniflow.io/blog/2021-08-15-openapi)
 - [Symfony Live Online 2021](https://blog.darkwood.fr/article/symfony-live-online-2021)
 - [PHP Railway Flow Based Programming](https://blog.darkwood.fr/article/php-railway-flow-based-programming)
 - [Ce que j'ai appris avec OBS](https://blog.darkwood.fr/article/ce-que-jai-appris-avec-obs)
 - [Export in CSV format](https://uniflow.io/blog/2020-12-11-export-in-csv-format)
-- [SymfonyWorld, quoi de neuf ?](https://blog.darkwood.fr/article/symfonyworld-quoi-de-neuf)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
