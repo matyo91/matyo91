@@ -13,5 +13,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.4.0
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          commit_message: "Updated README with the latest Feedburner blog post"
-          feed_list: 'https://feeds.feedburner.com/darkwood-fr/blog,https://feeds.feedburner.com/uniflow-io/blog,https://feeds.feedburner.com/darkwaar-com/blog'
+          commit_message: ":memo: Updated README with the latest Feedburner blog post"
+          feed_list: 'https://feeds.feedburner.com/darkwood-fr/blog,https://feeds.feedburner.com/uniflow-io/blog'
