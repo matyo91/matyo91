@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackathon no-code de la French Tech Grande Provence](https://blog.darkwood.fr/article/hackathon-no-code-de-la-french-tech-grande-provence)
 - [Typescript](https://uniflow.io/blog/2021-09-05-typescript)
 - [React Redux to React Context](https://uniflow.io/blog/2021-08-27-redux-to-context)
 - [Matomo](https://uniflow.io/blog/2021-08-25-matomo)
 - [OpenApi](https://uniflow.io/blog/2021-08-15-openapi)
-- [Symfony Live Online 2021](https://blog.darkwood.fr/article/symfony-live-online-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
