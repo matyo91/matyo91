@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-host n8n with AWS Lightsail, pm2 and caddy server](https://blog.darkwood.fr/article/self-host-n8n-with-aws-lightsail-pm2-and-caddy-server)
 - [Vie privée Numérique](https://blog.darkwood.fr/article/vie-privee-numerique)
 - [Les Monades et leur utilisation en PHP](https://blog.darkwood.fr/article/les-monades-et-leur-utilisation-en-php)
 - [Hackathon no-code de la French Tech Grande Provence](https://blog.darkwood.fr/article/hackathon-no-code-de-la-french-tech-grande-provence)
 - [Typescript](https://uniflow.io/blog/2021-09-05-typescript)
-- [React Redux to React Context](https://uniflow.io/blog/2021-08-27-redux-to-context)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
