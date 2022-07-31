@@ -52,35 +52,44 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 ## :wave: Mentions
 
-This repository was referred here
-- From [@abhisheknaiidu](https://github.com/abhisheknaiidu) at https://github.com/abhisheknaiidu/awesome-github-profile-readme#typing-mode-
-- From [@PamelaRondina](https://github.com/PamelaRondina) at https://github.com/PamelaRondina/step-by-step
-- From [@kterra](https://github.com/kterra) at https://www.youtube.com/watch?v=9RZblj1uQ_0&t=2715s
-- From [@Lima-Paloma](https://github.com/Lima-Paloma) at https://github.com/Lima-Paloma/Lima-Paloma
-- From [@mdLn1](https://github.com/mdLn1/mdLn1) at https://github.com/mdLn1/mdLn1
-- From [@RaFrancelino](https://github.com/RaFrancelino/RaFrancelino) at https://github.com/RaFrancelino/RaFrancelino
-- From [@EvanioLima](https://github.com/EvanioLima/EvanioLima) at https://github.com/EvanioLima/EvanioLima
-- From [@Thaisramos13](https://github.com/Thaisramos13/Thaisramos13) at https://github.com/Thaisramos13/Thaisramos13
-- From [@ronaldocosta1](https://github.com/ronaldocosta1/ronaldocosta1) at https://github.com/ronaldocosta1/ronaldocosta1
-- From [@jpazv](https://github.com/jpazv/jpazv) at https://github.com/jpazv/jpazv
-- From [@mmart8997](https://github.com/mmart8997/mmart8997) at https://github.com/mmart8997/mmart8997
-- From [@vngabriel](https://github.com/vngabriel/vngabriel) at https://github.com/vngabriel/vngabriel
-- From [@BrnCode](https://github.com/BrnCode/BrnCode) at https://github.com/BrnCode/BrnCode
-- From [@1998-sys](https://github.com/1998-sys/1998-sys) at https://github.com/1998-sys/1998-sys
-- From [@vagnereis](https://github.com/vagnereis/vagnereis) at https://github.com/vagnereis/vagnereis
-- From [@senthilvs7](https://github.com/senthilvs7/senthilvs7) at https://github.com/senthilvs7/senthilvs7
-- From [@gustavocargc](https://github.com/gustavocargc/gustavocargc) at https://github.com/gustavocargc/gustavocargc
-- From [@Andherline](https://github.com/Andherline/Andherline) at https://github.com/Andherline/Andherline
-- From [@Fernanda-Dantas](https://github.com/Fernanda-Dantas/Fernanda-Dantas) at https://github.com/Fernanda-Dantas/Fernanda-Dantas
-- From [@DhenSouza](https://github.com/DhenSouza/DhenSouza) at https://github.com/DhenSouza/DhenSouza
-- From [@babboe1](https://github.com/babboe1/babboe1) at https://github.com/babboe1/babboe1
-- From [@iurygoulart23](https://github.com/iurygoulart23/iurygoulart23) at https://github.com/iurygoulart23/iurygoulart23
-- From [@girishmallya123](https://github.com/girishmallya123/girishmallya123) at https://github.com/girishmallya123/girishmallya123
-- From [@alvaroreis](https://github.com/alvaroreis/alvaroreis) at https://github.com/alvaroreis/alvaroreis
-- From [@durgeshsamariya](https://github.com/durgeshsamariya) at https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/matyo91.md
-- From [@vikash5a7](https://github.com/vikash5a7) at https://github.com/vikash5a7/awesome-readMe/blob/main/matyo91.md
-- From [@mrSHAGGYboy](https://github.com/mrSHAGGYboy) at https://github.com/mrSHAGGYboy/Awesome-github-profiles/blob/master/matyo91.md
-- From [@minoveaz](https://github.com/minoveaz/github-perfil-readme-asombrosos) at https://github.com/minoveaz/github-perfil-readme-asombrosos
+Many thanks from people that referenced this repository here.
+
+<p align="center">
+<!-- MENTIONS-LIST:START -->
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img src="https://github.com/abhisheknaiidu.png?size=96" alt="abhisheknaiidu" width="96px" height="96px" /></a>
+<a href="https://github.com/PamelaRondina/step-by-step"><img src="https://github.com/PamelaRondina.png?size=96" alt="PamelaRondina" width="96px" height="96px" /></a>
+<a href="https://www.youtube.com/watch?v=9RZblj1uQ_0&t=2715s"><img src="https://github.com/kterra.png?size=96" alt="kterra" width="96px" height="96px" /></a>
+<a href="https://github.com/Lima-Paloma/Lima-Paloma"><img src="https://github.com/Lima-Paloma.png?size=96" alt="Lima-Paloma" width="96px" height="96px" /></a>
+<a href="https://github.com/mdLn1/mdLn1"><img src="https://github.com/mdLn1.png?size=96" alt="mdLn1" width="96px" height="96px" /></a>
+<a href="https://github.com/RaFrancelino/RaFrancelino"><img src="https://github.com/RaFrancelino.png?size=96" alt="RaFrancelino" width="96px" height="96px" /></a>
+<a href="https://github.com/EvanioLima/EvanioLima"><img src="https://github.com/EvanioLima.png?size=96" alt="EvanioLima" width="96px" height="96px" /></a>
+<a href="https://github.com/Thaisramos13/Thaisramos13"><img src="https://github.com/Thaisramos13.png?size=96" alt="Thaisramos13" width="96px" height="96px" /></a>
+<a href="https://github.com/ronaldocosta1/ronaldocosta1"><img src="https://github.com/ronaldocosta1.png?size=96" alt="ronaldocosta1" width="96px" height="96px" /></a>
+<a href="https://github.com/jpazv/jpazv"><img src="https://github.com/jpazv.png?size=96" alt="jpazv" width="96px" height="96px" /></a>
+<a href="https://github.com/mmart8997/mmart8997"><img src="https://github.com/mmart8997.png?size=96" alt="mmart8997" width="96px" height="96px" /></a>
+<a href="https://github.com/vngabriel/vngabriel"><img src="https://github.com/vngabriel.png?size=96" alt="vngabriel" width="96px" height="96px" /></a>
+<a href="https://github.com/BrnCode/BrnCode"><img src="https://github.com/BrnCode.png?size=96" alt="BrnCode" width="96px" height="96px" /></a>
+<a href="https://github.com/1998-sys/1998-sys"><img src="https://github.com/1998-sys.png?size=96" alt="1998-sys" width="96px" height="96px" /></a>
+<a href="https://github.com/vagnereis/vagnereis"><img src="https://github.com/vagnereis.png?size=96" alt="vagnereis" width="96px" height="96px" /></a>
+<a href="https://github.com/senthilvs7/senthilvs7"><img src="https://github.com/senthilvs7.png?size=96" alt="senthilvs7" width="96px" height="96px" /></a>
+<a href="https://github.com/gustavocargc/gustavocargc"><img src="https://github.com/gustavocargc.png?size=96" alt="gustavocargc" width="96px" height="96px" /></a>
+<a href="https://github.com/Andherline/Andherline"><img src="https://github.com/Andherline.png?size=96" alt="Andherline" width="96px" height="96px" /></a>
+<a href="https://github.com/Fernanda-Dantas/Fernanda-Dantas"><img src="https://github.com/Fernanda-Dantas.png?size=96" alt="Fernanda-Dantas" width="96px" height="96px" /></a>
+<a href="https://github.com/DhenSouza/DhenSouza"><img src="https://github.com/DhenSouza.png?size=96" alt="DhenSouza" width="96px" height="96px" /></a>
+<a href="https://github.com/babboe1/babboe1"><img src="https://github.com/babboe1.png?size=96" alt="babboe1" width="96px" height="96px" /></a>
+<a href="https://github.com/iurygoulart23/iurygoulart23"><img src="https://github.com/iurygoulart23.png?size=96" alt="iurygoulart23" width="96px" height="96px" /></a>
+<a href="https://github.com/girishmallya123/girishmallya123"><img src="https://github.com/girishmallya123.png?size=96" alt="girishmallya123" width="96px" height="96px" /></a>
+<a href="https://github.com/alvaroreis/alvaroreis"><img src="https://github.com/alvaroreis.png?size=96" alt="alvaroreis" width="96px" height="96px" /></a>
+<a href="https://github.com/minoveaz/github-perfil-readme-asombrosos"><img src="https://github.com/minoveaz.png?size=96" alt="minoveaz" width="96px" height="96px" /></a>
+<a href="https://github.com/Wendel-Andrade/Wendel-Andrade"><img src="https://github.com/Wendel-Andrade.png?size=96" alt="Wendel-Andrade" width="96px" height="96px" /></a>
+<a href="https://github.com/nivea-dantas/nivea-dantas"><img src="https://github.com/nivea-dantas.png?size=96" alt="nivea-dantas" width="96px" height="96px" /></a>
+<a href="https://github.com/IzabellaSouza/IzabellaSouza"><img src="https://github.com/IzabellaSouza.png?size=96" alt="IzabellaSouza" width="96px" height="96px" /></a>
+<a href="https://github.com/18-RAJAT/18-RAJAT"><img src="https://github.com/18-RAJAT.png?size=96" alt="18-RAJAT" width="96px" height="96px" /></a>
+<a href="https://github.com/Parafernalha/Parafernalha"><img src="https://github.com/Parafernalha.png?size=96" alt="Parafernalha" width="96px" height="96px" /></a>
+<a href="https://github.com/RahulParajuli/RahulParajuli"><img src="https://github.com/RahulParajuli.png?size=96" alt="RahulParajuli" width="96px" height="96px" /></a>
+<a href="https://github.com/Correia-jpv/fucking-awesome-github-profile-readme"><img src="https://github.com/Correia-jpv.png?size=96" alt="Correia-jpv" width="96px" height="96px" /></a>
+<!-- MENTIONS-LIST:END -->
+</p>
 
 Don't see your link ? Then create an [issue](https://github.com/matyo91/matyo91/issues/new?assignees=matyo91&labels=documentation&template=add_mention.md&title=Add%20a%20new%20mention%20to%20README.md)
 

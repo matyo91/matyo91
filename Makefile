@@ -8,6 +8,9 @@ generate-gif: ## generate-gif
 	convert -delay 10 -loop 0 assets/output/github*.png assets/github.gif
 	rm -rf assets/output
 
+generate-mentions: ## generate mentions
+	node mentions.js
+
 # DEFAULT
 .DEFAULT_GOAL := help
 help:
