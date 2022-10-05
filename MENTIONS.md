@@ -30,3 +30,4 @@ IzabellaSouza|https://github.com/IzabellaSouza/IzabellaSouza
 Parafernalha|https://github.com/Parafernalha/Parafernalha
 RahulParajuli|https://github.com/RahulParajuli/RahulParajuli
 Correia-jpv|https://github.com/Correia-jpv/fucking-awesome-github-profile-readme
+SabrinaLameiras|https://github.com/SabrinaLameiras
