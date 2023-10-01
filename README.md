@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Y-Combinator en PHP](https://blog.darkwood.fr/article/y-combinator-en-php)
-- [Changer de gestionnaire de mot de passe](https://blog.darkwood.fr/article/changer-de-gestionnaire-de-mot-de-passe)
-- [NoCode avec le projet Capsule Corp](https://blog.darkwood.fr/article/nocode-avec-le-projet-capsule-corp)
-- [Utiliser VSCode à distance](https://blog.darkwood.fr/article/utiliser-vscode-a-distance)
-- [Crypto Tracker](https://blog.darkwood.fr/article/crypto-tracker)
+- [Typescript](https://uniflow.io/blog/2021-09-05-typescript)
+- [React Redux to React Context](https://uniflow.io/blog/2021-08-27-redux-to-context)
+- [Matomo](https://uniflow.io/blog/2021-08-25-matomo)
+- [OpenApi](https://uniflow.io/blog/2021-08-15-openapi)
+- [Export in CSV format](https://uniflow.io/blog/2020-12-11-export-in-csv-format)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
