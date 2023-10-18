@@ -49,7 +49,17 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
   <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
   <a href="https://git-stars.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/star.png" alt="gitstars"/></a>
+  <a href="https://mastodon.social/@matyo91"><img src="https://img.icons8.com/windows/96/mastodon.png" alt="mastodon"/></a>
+  <a href="https://bsky.app/profile/matyo91.bsky.social"><img src="https://img.icons8.com/emoji/96/blue-square-emoji.png" alt="bluesky"/></a>
+  <a href="https://www.tiktok.com/@matyo91_"><img src="https://img.icons8.com/color/96/tiktok.png" alt="tiktok"/></a>
+  <a href="https://www.producthunt.com/@matyo91"><img src="https://img.icons8.com/ios-glyphs/96/product-hunt.png" alt="producthunt"/></a>
+  <a href="https://calendly.com/matyo91"><img src="https://img.icons8.com/ios-glyphs/96/calendar.png" alt="calendly"/></a>
+  <a href="https://www.indiehackers.com/matyo91"><img src="https://img.icons8.com/sf-regular-filled/96/bookmark.png" alt="indiehackers"/></a>
+  <a href="https://dev.to/matyo91"><img src="https://img.icons8.com/windows/96/dev.png" alt="devto"/></a>
+  <a href="https://webflow.com/@matyo91"><img src="https://img.icons8.com/color/96/webflow.png" alt="webflow"/></a>
 </p>
+
+Icons by [https://icons8.com](https://icons8.com)
 
 ## :wave: Mentions
 
