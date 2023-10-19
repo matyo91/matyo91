@@ -57,6 +57,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="https://www.indiehackers.com/matyo91"><img src="https://img.icons8.com/sf-regular-filled/96/bookmark.png" alt="indiehackers"/></a>
   <a href="https://dev.to/matyo91"><img src="https://img.icons8.com/windows/96/dev.png" alt="devto"/></a>
   <a href="https://webflow.com/@matyo91"><img src="https://img.icons8.com/color/96/webflow.png" alt="webflow"/></a>
+  <a href="https://www.polywork.com/matyo91"><img src="https://img.icons8.com/fluency-systems-filled/96/add-bookmark.png" alt="polywork"/></a>
 </p>
 
 Icons by [https://icons8.com](https://icons8.com)
