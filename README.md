@@ -110,7 +110,3 @@ Many thanks from people that referenced this repository here.
 </p>
 
 Don't see your link ? Then create an [issue](https://github.com/matyo91/matyo91/issues/new?assignees=matyo91&labels=documentation&template=add_mention.md&title=Add%20a%20new%20mention%20to%20README.md)
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
-</p>
