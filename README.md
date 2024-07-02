@@ -107,7 +107,6 @@ Many thanks from people that referenced this repository here.
 <a href="https://github.com/vngabriel/vngabriel"><img src="https://github.com/vngabriel.png?size=96" alt="vngabriel" width="96px" height="96px" /></a>
 <a href="https://github.com/Wendel-Andrade/Wendel-Andrade"><img src="https://github.com/Wendel-Andrade.png?size=96" alt="Wendel-Andrade" width="96px" height="96px" /></a>
 <a href="https://github.com/zacBkh/zacBkh"><img src="https://github.com/zacBkh.png?size=96" alt="zacBkh" width="96px" height="96px" /></a>
-<a href="undefined"><img src="https://github.com/.png?size=96" alt="" width="96px" height="96px" /></a>
 <!-- MENTIONS-LIST:END -->
 </p>
 
