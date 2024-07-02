@@ -28,6 +28,7 @@ RahulParajuli|https://github.com/RahulParajuli/RahulParajuli
 ronaldocosta1|https://github.com/ronaldocosta1/ronaldocosta1
 SabrinaLameiras|https://github.com/SabrinaLameiras
 senthilvs7|https://github.com/senthilvs7/senthilvs7
+sisyphusisstillcarrying|https://github.com/sisyphusisstillcarrying
 Thaisramos13|https://github.com/Thaisramos13/Thaisramos13
 vagnereis|https://github.com/vagnereis/vagnereis
 vngabriel|https://github.com/vngabriel/vngabriel
