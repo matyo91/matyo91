@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [J’ai comparé 38 outils d’automatisation : voici ce que vous devez savoir](https://blog.darkwood.com/article/jai-compare-38-outils-dautomatisation-voici-ce-que-vous-devez-savoir)
 - [Bienvenue dans l'ère de la Creator Economy](https://blog.darkwood.com/article/bienvenue-dans-lere-de-la-creator-economy)
 - [Scrape les sites de manière efficace](https://blog.darkwood.com/article/scrape-les-sites-de-maniere-efficace)
 - [Automatiser la Création de Screenshots de Code avec Carbon.now](https://blog.darkwood.com/article/automatiser-la-creation-de-screenshots-de-code-avec-carbon-now)
 - [Chunk computing en PHP](https://blog.darkwood.com/article/chunk-computing-en-php)
-- [Y-Combinator en PHP](https://blog.darkwood.com/article/y-combinator-en-php)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
