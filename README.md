@@ -104,6 +104,7 @@ Many thanks from people that referenced this repository here.
 <a href="https://github.com/ronaldocosta1/ronaldocosta1"><img src="https://github.com/ronaldocosta1.png?size=96" alt="ronaldocosta1" width="96px" height="96px" /></a>
 <a href="https://github.com/SabrinaLameiras"><img src="https://github.com/SabrinaLameiras.png?size=96" alt="SabrinaLameiras" width="96px" height="96px" /></a>
 <a href="https://github.com/senthilvs7/senthilvs7"><img src="https://github.com/senthilvs7.png?size=96" alt="senthilvs7" width="96px" height="96px" /></a>
+<a href="https://github.com/shawaizhaider"><img src="https://github.com/shawaizhaider.png?size=96" alt="shawaizhaider" width="96px" height="96px" /></a>
 <a href="https://github.com/sisyphusisstillcarrying"><img src="https://github.com/sisyphusisstillcarrying.png?size=96" alt="sisyphusisstillcarrying" width="96px" height="96px" /></a>
 <a href="https://github.com/Thaisramos13/Thaisramos13"><img src="https://github.com/Thaisramos13.png?size=96" alt="Thaisramos13" width="96px" height="96px" /></a>
 <a href="https://github.com/vagnereis/vagnereis"><img src="https://github.com/vagnereis.png?size=96" alt="vagnereis" width="96px" height="96px" /></a>
