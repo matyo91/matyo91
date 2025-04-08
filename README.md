@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [FrankenPHP](https://uniflow.io/blog/2025-04-07-frankenphp)
 - [Coder comme un DJ, mixer comme un dev](https://blog.darkwood.com/article/coder-comme-un-dj-mixer-comme-un-dev)
 - [Create a Lambda Interpreter in PHP](https://blog.darkwood.com/article/create-a-lambda-interpreter-in-php)
 - [Youtube timestamp looker](https://blog.darkwood.com/article/youtube-timestamp-looker)
 - [Attention is all you need](https://blog.darkwood.com/article/attention-is-all-you-need)
-- [Création d’un Projet Symfony avec IA : Utilisation de DTO, Flow et RapidAPI](https://blog.darkwood.com/article/creation-dun-projet-symfony-avec-ia-utilisation-de-dto-flow-et-rapidapi)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
