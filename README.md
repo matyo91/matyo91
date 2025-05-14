@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [DJ Matyo Live DJ Cotts selection](https://blog.darkwood.com/article/dj-matyo-live-dj-cotts-selection)
 - [Automating Gmail and Google Calendar with PHP Agents ?⚡](https://blog.darkwood.com/article/automating-gmail-and-google-calendar-with-php-agents)
 - [DJ Matyo Live](https://blog.darkwood.com/article/dj-matyo-live-3)
 - [Supercharge Your Job Search: Automate with MCP, Astra, Langflow and Arize](https://blog.darkwood.com/article/supercharge-your-job-search-automate-with-mcp-astra-langflow-and-arize)
 - [DJ Matyo Live](https://blog.darkwood.com/article/dj-matyo-live)
-- [Build a Game for the largest game dev competition in the world](https://blog.darkwood.com/article/build-a-game-for-the-largest-game-dev-competition-in-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
