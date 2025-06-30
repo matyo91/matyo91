@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Connected Cursor to Slack to Automate My AI Workflows](https://blog.darkwood.com/article/how-i-connected-cursor-to-slack-to-automate-my-ai-workflows)
 - [🔊 2025-06-23 DJMatyo Live](https://blog.darkwood.com/article/2025-06-23-djmatyo-live)
 - [▶️ 2025-06-16 DJMatyo Live reunion](https://blog.darkwood.com/article/2025-06-16-djmatyo-live-reunion)
 - [🎮 Créer un mini-jeu Discord avec VITE : un retour d'expérience](https://blog.darkwood.com/article/creer-un-mini-jeu-discord-avec-vite-un-retour-dexperience)
 - [🎶 Open Mic du Groover Club - Mai 🧡](https://blog.darkwood.com/article/open-mic-du-groover-club-mai)
-- [▶️ 2025-05-26 DjMatyo Soundcloud set with MC](https://blog.darkwood.com/article/2025-05-26-djmatyo-soundcloud-set-with-mc)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
