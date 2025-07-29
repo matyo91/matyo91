@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Je mixe sur Paris au Tennessee Mercredi  30 juillet](https://blog.darkwood.com/article/je-mixe-sur-paris-au-tennessee-mercredi-30-juillet-1-1)
 - [How I generate €10,000/month thanks to Symfony AI](https://blog.darkwood.com/article/how-i-generate-eur10-000-month-thanks-to-symfony-ai)
 - [📝 Retour sur le meetup AFUP Paris de juillet : IA, Recrutement & Élection](https://blog.darkwood.com/article/retour-sur-le-meetup-afup-paris-de-juillet-ia-recrutement-election-1-1)
 - [✈️ I'm going to code in Las Vegas on Symfony AI](https://blog.darkwood.com/article/im-going-to-code-in-las-vegas-on-symfony-ai)
 - [Symfony AI will change everything!](https://blog.darkwood.com/article/symfony-ai-will-change-everything)
-- [✨ PHP 8.5's new operator will change the way you code](https://blog.darkwood.com/article/php-8-5s-new-operator-will-change-the-way-you-code)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
