@@ -34,6 +34,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="https://www.snapchat.com/add/matyo91"><img src="https://img.icons8.com/color/96/000000/snapchat.png" alt="snapchat"/></a>
   <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
+  <a href="https://matyo91.substack.com"><img src="https://img.icons8.com/ios-filled/96/substack.png" alt="substack"/></a>
   <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
   <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
   <a href="https://soundcloud.com/djmatyo91"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
