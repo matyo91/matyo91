@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Automates note creation in Joplin](https://blog.darkwood.com/article/automates-note-creation-in-joplin)
 - [🔥 Les news tech PHP & IA de la semaine](https://blog.darkwood.com/article/les-news-tech-php-ia-de-la-semaine)
 - [🐘 Why Symfony AI will replace your intern developer](https://blog.darkwood.com/article/why-symfony-ai-will-replace-your-intern-developer)
 - [🔥 Le dancefloor en feu au Tennessee Club de Paris](https://blog.darkwood.com/article/le-dancefloor-en-feu-au-tennessee-club-de-paris)
 - [Je mixe sur Paris au Tennessee Mercredi  30 juillet](https://blog.darkwood.com/article/je-mixe-sur-paris-au-tennessee-mercredi-30-juillet-1-1)
-- [How I generate €10,000/month thanks to Symfony AI](https://blog.darkwood.com/article/how-i-generate-eur10-000-month-thanks-to-symfony-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
