@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Veille Tech – Semaine 36](https://blog.darkwood.com/article/veille-tech-semaine-36)
 - [🔊 2025-09-01 DJ Matyo Live - UK Hardcore / Happy Hardcore](https://blog.darkwood.com/article/2025-09-01-dj-matyo-live-uk-hardcore-happy-hardcore)
 - [✨ Uniflow v1.1.17 – Migration vers Symfony UX](https://blog.darkwood.com/article/uniflow-v1-1-17-migration-vers-symfony-ux)
 - [🚀 Veille Tech – Semaine 35](https://blog.darkwood.com/article/veille-tech-semaine-35)
 - [🤖 Panorama 2025 des plateformes freelances : 128 solutions pour trouver vos missions](https://blog.darkwood.com/article/panorama-2025-des-plateformes-freelances-128-solutions-pour-trouver-vos-missions)
-- [🖼️ Automatically remove the background from your images with Claude and RMBG](https://blog.darkwood.com/article/automatically-remove-the-background-from-your-images-with-claude-and-rmbg)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
