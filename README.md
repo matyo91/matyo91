@@ -65,6 +65,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="https://speakerdeck.com/matyo91"><img src="https://img.icons8.com/windows/96/speaker-deck.png" alt="huggingface"/></a>
   <a href="https://www.chess.com/member/matyo91"><img src="https://img.icons8.com/color/96/knight.png" alt="chess"/></a>
   <a href="mailto:@matyo91:matrix.org"><img src="https://img.icons8.com/ios/96/matrix-logo.png" alt="matrix"/></a>
+  <a href="https://matyo91.newgrounds.com"><img src="https://upload.wikimedia.org/wikipedia/en/8/85/Newgrounds_Tankman_logo.png" alt="Newgrounds" width="96" height="96" /></a>
 </p>
 
 Icons by [https://icons8.com](https://icons8.com)
