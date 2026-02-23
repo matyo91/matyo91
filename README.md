@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 I'm building a dictation engine in PHP (Flow + Symfony + Whisper.cpp)](https://blog.darkwood.com/article/i-m-building-a-dictation-engine-in-php-flow-symfony-whisper-cpp)
 - [⚔️ Discovering the Hearthstone Cataclysm expansion](https://blog.darkwood.com/article/discovering-the-hearthstone-cataclysm-expansion)
 - [🤖 Parallel AI Development with Cursor and Git Worktrees](https://blog.darkwood.com/article/parallel-ai-development-with-cursor-and-git-worktrees)
 - [🤖 Making Darkwood Agent-Ready](https://blog.darkwood.com/article/making-darkwood-agent-ready-2)
 - [🧑‍💻 Coder vs Vibe coder](https://blog.darkwood.com/article/coder-vs-vibe-coder)
-- [🚨 Darkwood IaExceptionBundle — When errors start explaining themselves](https://blog.darkwood.com/article/darkwood-iaexceptionbundle-when-errors-start-explaining-themselves)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
