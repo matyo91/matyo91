@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🗂️ Hellcats Over The Pacific - ouverture des archives](https://blog.darkwood.com/article/hellcats-over-the-pacific-ouverture-des-archives)
 - [🧠 Expose Nothing. Show Everything - Building Public Systems on Private Foundations](https://blog.darkwood.com/article/expose-nothing-show-everything-building-public-systems-on-private-foundations)
 - [🎬 The most expensive video on my YouTube channel 💰](https://blog.darkwood.com/article/the-most-expensive-video-on-my-youtube-channel)
 - [🎨 Darkwood v1.0.4 - Introducing Design V4](https://blog.darkwood.com/article/darkwood-v1-0-4-introducing-design-v4)
 - [👾 Darkwood: Building an API-First Tactical Game](https://blog.darkwood.com/article/darkwood-building-an-api-first-tactical-game)
-- [🚀 Building a PHP MCP App to Publish Darkwood Articles](https://blog.darkwood.com/article/building-a-php-mcp-app-to-publish-darkwood-articles)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
