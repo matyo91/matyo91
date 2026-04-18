@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [⚙️ Message-oriented vs. Data-oriented orchestration - from data to knowledge](https://blog.darkwood.com/article/message-oriented-vs-data-oriented-orchestration-from-data-to-knowledge)
 - [🤩 Unleach connectors - From Tools to Language](https://blog.darkwood.com/article/unleach-connectors-from-tools-to-language)
 - [💡 I created a GDPR-compliant AI app in 1 hour with Symfony](https://blog.darkwood.com/article/i-created-a-gdpr-compliant-ai-app-in-1-hour-with-symfony)
 - [🗂️ Hellcats Over The Pacific - ouverture des archives](https://blog.darkwood.com/article/hellcats-over-the-pacific-ouverture-des-archives)
 - [🧠 Expose Nothing. Show Everything - Building Public Systems on Private Foundations](https://blog.darkwood.com/article/expose-nothing-show-everything-building-public-systems-on-private-foundations)
-- [🎬 The most expensive video on my YouTube channel 💰](https://blog.darkwood.com/article/the-most-expensive-video-on-my-youtube-channel)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
