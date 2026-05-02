@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ Transformative design: no longer designing uses, but metamorphoses](https://blog.darkwood.com/article/transformative-design-no-longer-designing-uses-but-metamorphoses)
 - [⚙️ Hermes X Paperclip - Building a Governed Multi-Agent Architecture with Symfony AI, Flow, and Navi](https://blog.darkwood.com/article/hermes-x-paperclip-building-a-governed-multi-agent-architecture-with-symfony-ai-flow-and-navi)
 - [🚀 Fundraising vs. Bootstrap: Two paths to building a company](https://blog.darkwood.com/article/fundraising-vs-bootstrap-two-paths-to-building-a-company)
 - [🚀 I rebuilt an LLM… with pixels.](https://blog.darkwood.com/article/i-rebuilt-an-llm-with-pixels)
 - [🔊 DJ Matyo Live - Soundcloud set](https://blog.darkwood.com/article/dj-matyo-live-soundcloud-set)
-- [🤖 Symfony AI in Action - Building real AI systems with Symfony](https://blog.darkwood.com/article/symfony-ai-in-action-building-real-ai-systems-with-symfony)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
