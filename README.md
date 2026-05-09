@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 I forced 4 AIs to recreate Mario from scratch using Symfony AI and Godot](https://blog.darkwood.com/article/i-forced-4-ais-to-recreate-mario-from-scratch-using-symfony-ai-and-godot)
+- [🤖 Darkwood Watch - 2026-05-08](https://blog.darkwood.com/article/darkwood-watch-2026-05-08)
 - [🤖 Darkwood Watch - 2026-05-07](https://blog.darkwood.com/article/darkwood-watch-2026-05-07)
 - [🤖  Darkwood Monitoring - 2026-05-06](https://blog.darkwood.com/article/darkwood-monitoring-2026-05-06)
 - [⚡️ Screening of the film "My Extraordinary Life" - what living systems teach us about automation](https://blog.darkwood.com/article/screening-of-the-film-my-extraordinary-life-what-living-systems-teach-us-about-automation)
-- [✨ Transformative design: no longer designing uses, but metamorphoses](https://blog.darkwood.com/article/transformative-design-no-longer-designing-uses-but-metamorphoses)
-- [⚙️ Hermes X Paperclip - Building a Governed Multi-Agent Architecture with Symfony AI, Flow, and Navi](https://blog.darkwood.com/article/hermes-x-paperclip-building-a-governed-multi-agent-architecture-with-symfony-ai-flow-and-navi)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
