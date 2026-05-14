@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [⚙️ NoLife Models - Towards a local infrastructure for AI runtimes with Symfony](https://blog.darkwood.com/article/nolife-models-towards-a-local-infrastructure-for-ai-runtimes-with-symfony)
+- [🤖 Darkwood Watch - 2026-05-13](https://blog.darkwood.com/article/darkwood-watch-2026-05-13)
+- [💡 Devoxx France 2026 - L'Ère de l'Agentique au Cœur de Paris](https://blog.darkwood.com/article/devoxx-france-2026-l-ere-de-l-agentique-au-coeur-de-paris)
 - [🤖 Darkwood Watch - 2026-05-12](https://blog.darkwood.com/article/darkwood-watch-2026-05-12)
 - [🤖 Darkwood Insights - 2026-05-11](https://blog.darkwood.com/article/darkwood-insights-2026-05-11)
-- [💫 I forced 4 AIs to recreate Mario from scratch using Symfony AI and Godot](https://blog.darkwood.com/article/i-forced-4-ais-to-recreate-mario-from-scratch-using-symfony-ai-and-godot)
-- [🤖 Darkwood Watch - 2026-05-08](https://blog.darkwood.com/article/darkwood-watch-2026-05-08)
-- [🤖 Darkwood Watch - 2026-05-07](https://blog.darkwood.com/article/darkwood-watch-2026-05-07)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
