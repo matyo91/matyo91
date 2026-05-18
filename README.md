@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [⬆️ Flowvox update: Symfony becomes a real-time voice agent platform](https://blog.darkwood.com/article/flowvox-update-symfony-becomes-a-real-time-voice-agent-platform)
+- [🤖 Darkwood Review - May 17, 2026](https://blog.darkwood.com/article/darkwood-review-may-17-2026)
 - [🤖 Darkwood Monitoring - 2026-05-16](https://blog.darkwood.com/article/darkwood-monitoring-2026-05-16)
 - [🤖 Darkwood Daily Review - 2026-05-15](https://blog.darkwood.com/article/darkwood-daily-review-2026-05-15)
 - [⚙️ NoLife Models - Towards a local infrastructure for AI runtimes with Symfony](https://blog.darkwood.com/article/nolife-models-towards-a-local-infrastructure-for-ai-runtimes-with-symfony)
-- [🤖 Darkwood Watch - 2026-05-13](https://blog.darkwood.com/article/darkwood-watch-2026-05-13)
-- [💡 Devoxx France 2026 - L'Ère de l'Agentique au Cœur de Paris](https://blog.darkwood.com/article/devoxx-france-2026-l-ere-de-l-agentique-au-coeur-de-paris)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
