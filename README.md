@@ -67,6 +67,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <a href="mailto:@matyo91:matrix.org"><img src="https://img.icons8.com/ios/96/matrix-logo.png" alt="matrix"/></a>
   <a href="https://matyo91.newgrounds.com"><img src="https://img.ngfiles.com/misc/tank_logo_medium.gif" alt="Newgrounds" width="96" height="96" /></a>
   <a href="https://www.goodreads.com/matyo91"><img src="https://img.icons8.com/ios-glyphs/96/goodreads.png" alt="Goodreads" /></a>
+  <a href="https://beacons.ai/matyo91"><img src="https://github.com/matyo91/matyo91/raw/main/assets/beacons_ai.jpg" alt="Beacons AI" /></a>
 </p>
 
 Icons by [https://icons8.com](https://icons8.com)
