@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Darkwood v8.1.0 released](https://blog.darkwood.com/article/darkwood-v8-1-0-released)
+- [🚀 Darkwood-com v1.0.6 released](https://blog.darkwood.com/article/darkwood-com-v1-0-6-released)
+- [🤖 Darkwood Watch - 2026-06-07](https://blog.darkwood.com/article/darkwood-watch-2026-06-07)
+- [💫 The Grand BBQ Polytech Paris-Saclay 2026: Thirty years of technological transformations](https://blog.darkwood.com/article/the-grand-bbq-polytech-paris-saclay-2026-thirty-years-of-technological-transformations)
 - [🤖 Darkwood Watch - 2026-06-06](https://blog.darkwood.com/article/darkwood-watch-2026-06-06)
-- [🌟 HeroClip - Turn your conversations into video generation workflows](https://blog.darkwood.com/article/heroclip-turn-your-conversations-into-video-generation-workflows)
-- [🤖 Darkwood Watch - 2026-06-05](https://blog.darkwood.com/article/darkwood-watch-2026-06-05)
-- [🤖 Darkwood Insights - June 4, 2026](https://blog.darkwood.com/article/darkwood-insights-june-4-2026)
-- [🤖 Darkwood Watch - 2026-06-03](https://blog.darkwood.com/article/darkwood-watch-2026-06-03)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
