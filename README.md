@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Creator — Mini (2026-06-23)](https://blog.darkwood.com/article/darkwood-creator-mini-2026-06-23)
+- [💫 Bonzai Creator - matyo91](https://blog.darkwood.com/article/bonzai-creator-matyo91)
+- [🤖 Darkwood Watch - 2026-06-24](https://blog.darkwood.com/article/darkwood-watch-2026-06-24)
+- [💫 Bonzai Creator - Mini](https://blog.darkwood.com/article/darkwood-creator-mini-2026-06-23)
 - [🤖 Darkwood Watch - 2026-06-23](https://blog.darkwood.com/article/darkwood-watch-2026-06-23)
 - [🤖 Daily Digest: June 22, 2026](https://blog.darkwood.com/article/daily-digest-june-22-2026)
-- [💳 Flow Tokens - Why token optimization is a flow problem, not a vocabulary problem](https://blog.darkwood.com/article/flow-tokens-why-token-optimization-is-a-flow-problem-not-a-vocabulary-problem)
-- [🤖 Daily Digest - June 21, 2026](https://blog.darkwood.com/article/daily-digest-june-21-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
