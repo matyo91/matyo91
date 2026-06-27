@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Bonzai Creator - Mini - Jules](https://blog.darkwood.com/article/bonzai-creator-mini-jules-2)
+- [🤖 Darkwood Watch - 2026-06-26](https://blog.darkwood.com/article/darkwood-watch-2026-06-26)
 - [💫 Bonzai Creator - Mini - Jules](https://blog.darkwood.com/article/bonzai-creator-mini-jules)
 - [🤖 Darkwood Watch - 2026-06-25](https://blog.darkwood.com/article/darkwood-watch-2026-06-25)
 - [💫 Bonzai Creator - matyo91](https://blog.darkwood.com/article/bonzai-creator-matyo91)
-- [🤖 Darkwood Watch - 2026-06-24](https://blog.darkwood.com/article/darkwood-watch-2026-06-24)
-- [💫 Bonzai Creator - Mini](https://blog.darkwood.com/article/darkwood-creator-mini-2026-06-23)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
