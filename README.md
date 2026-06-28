@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🏗️ Where should native code reside? Phalcon, Symfony, and TrueAsync at different layers of the stack](https://blog.darkwood.com/article/where-should-native-code-reside-phalcon-symfony-and-trueasync-at-different-layers-of-the-stack)
+- [🤖 Darkwood Watch - 2026-06-27](https://blog.darkwood.com/article/darkwood-watch-2026-06-27)
 - [💫 Bonzai Creator - Mini - Jules](https://blog.darkwood.com/article/bonzai-creator-mini-jules-2)
 - [🤖 Darkwood Watch - 2026-06-26](https://blog.darkwood.com/article/darkwood-watch-2026-06-26)
 - [💫 Bonzai Creator - Mini - Jules](https://blog.darkwood.com/article/bonzai-creator-mini-jules)
-- [🤖 Darkwood Watch - 2026-06-25](https://blog.darkwood.com/article/darkwood-watch-2026-06-25)
-- [💫 Bonzai Creator - matyo91](https://blog.darkwood.com/article/bonzai-creator-matyo91)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
