@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 YouTube Creator - Oussama Ammar: Live with Ouss | L'Improvisation Hebdo](https://blog.darkwood.com/article/youtube-creator-oussama-ammar-live-with-ouss-l-improvisation-hebdo)
+- [💫 Bonzai Creator - Fabien WAGER-MENRI | Trading](https://blog.darkwood.com/article/bonzai-creator-fabien-wager-menri-trading-1)
+- [🤖 Darkwood Watch - 2026-07-01](https://blog.darkwood.com/article/darkwood-watch-2026-07-01)
 - [💫 Bonzai Creator - Niokoz](https://blog.darkwood.com/article/bonzai-creator-niokoz-1)
 - [🤖 Darkwood Watch - 2026-06-30](https://blog.darkwood.com/article/darkwood-watch-2026-06-30)
-- [💫 Bonzai Creator - Fabien WAGER-MENRI | Trading](https://blog.darkwood.com/article/bonzai-creator-fabien-wager-menri-trading)
-- [🤖 Darkwood Watch - 2026-06-29](https://blog.darkwood.com/article/darkwood-watch-2026-06-29)
-- [🚀 Darkwood-com v1.0.7 released](https://blog.darkwood.com/article/darkwood-com-v1-0-7-released)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
