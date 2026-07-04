@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 arXiv Paper - cs.AI: Distributed Attacks in Persistent-State AI Control](https://blog.darkwood.com/article/arxiv-paper-cs-ai-distributed-attacks-in-persistent-state-ai-control)
+- [💫 GitHub Creator - bvaughn: Release 4.12.0](https://blog.darkwood.com/article/github-creator-bvaughn-release-4-12-0)
+- [💫 Bonzai Creator - Arnaud "Tugan" Labossière](https://blog.darkwood.com/article/bonzai-creator-arnaud-tugan-labossiere)
+- [🤖 Darkwood Watch - 2026-07-03](https://blog.darkwood.com/article/darkwood-watch-2026-07-03)
 - [💫 GitHub Creator - sebastianbergmann: Release 13.2.2: PHPUnit 13.2.2](https://blog.darkwood.com/article/github-creator-sebastianbergmann-release-13-2-2-phpunit-13-2-2)
-- [💫 Bonzai Creator - VITALITÉ<>OREXIS](https://blog.darkwood.com/article/bonzai-creator-vitalite-orexis)
-- [🤖 Darkwood Watch - 2026-07-02](https://blog.darkwood.com/article/darkwood-watch-2026-07-02)
-- [💫 YouTube Creator - Oussama Ammar: Live with Ouss | L'Improvisation Hebdo](https://blog.darkwood.com/article/youtube-creator-oussama-ammar-live-with-ouss-l-improvisation-hebdo)
-- [💫 Bonzai Creator - Fabien WAGER-MENRI | Trading](https://blog.darkwood.com/article/bonzai-creator-fabien-wager-menri-trading-1)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
