@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 arXiv Paper - cs.AI: Distributed Attacks in Persistent-State AI Control](https://blog.darkwood.com/article/arxiv-paper-cs-ai-distributed-attacks-in-persistent-state-ai-control)
-- [💫 GitHub Creator - bvaughn: Release 4.12.0](https://blog.darkwood.com/article/github-creator-bvaughn-release-4-12-0)
-- [💫 Bonzai Creator - Arnaud "Tugan" Labossière](https://blog.darkwood.com/article/bonzai-creator-arnaud-tugan-labossiere)
-- [🤖 Darkwood Watch - 2026-07-03](https://blog.darkwood.com/article/darkwood-watch-2026-07-03)
-- [💫 GitHub Creator - sebastianbergmann: Release 13.2.2: PHPUnit 13.2.2](https://blog.darkwood.com/article/github-creator-sebastianbergmann-release-13-2-2-phpunit-13-2-2)
+- [💫 Hacker News Creator - Jamesob's guide to running SOTA LLMs locally](https://blog.darkwood.com/article/hacker-news-creator-jamesob-s-guide-to-running-sota-llms-locally)
+- [💫 YouTube Creator - Ableton: Ableton Push Tips: Auto Shift on Push 3](https://blog.darkwood.com/article/youtube-creator-ableton-ableton-push-tips-auto-shift-on-push-3)
+- [💫 YouTube Creator - Docker: Abdoulaye D: Docker Agent: Simplifying AI Agent Creation](https://blog.darkwood.com/article/youtube-creator-docker-abdoulaye-d-docker-agent-simplifying-ai-agent-creation)
+- [💫 YouTube Creator - AURELIEN ROY: 2026 : la fin de la bulle "High Ticket" ?](https://blog.darkwood.com/article/youtube-creator-aurelien-roy-2026-la-fin-de-la-bulle-high-ticket)
+- [💫 YouTube Creator - ATC: A Touch Of Class - Set Me Free (SWR-Ball, 08.06.2002)](https://blog.darkwood.com/article/youtube-creator-atc-a-touch-of-class-set-me-free-swr-ball-08-06-2002)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
