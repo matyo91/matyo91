@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://blog.darkwood.com/article/hacker-news-creator-mark-zuckerberg-tells-staff-that-ai-agents-haven-t-progressed-enough)
+- [💫 GitHub Creator - docker: docker/compose: v5.3.0](https://blog.darkwood.com/article/github-creator-docker-docker-compose-v5-3-0)
+- [💫 Bonzai Creator - Niokoz](https://blog.darkwood.com/article/bonzai-creator-niokoz-2)
+- [🤖 Darkwood Watch - 2026-07-06](https://blog.darkwood.com/article/darkwood-watch-2026-07-06)
 - [🔥 Profiling a Symfony flow with Blackfire](https://blog.darkwood.com/article/profiling-a-symfony-flow-with-blackfire)
-- [💫 Hacker News Creator - The bottleneck might be the air in the room](https://blog.darkwood.com/article/hacker-news-creator-the-bottleneck-might-be-the-air-in-the-room)
-- [💫 GitHub Creator - twigphp:v3.28.0](https://blog.darkwood.com/article/github-creator-twigphp-v3-28-0)
-- [🤖 Darkwood Watch - 2026-07-05](https://blog.darkwood.com/article/darkwood-watch-2026-07-05)
-- [💫 Hacker News Creator - Jamesob's guide to running SOTA LLMs locally](https://blog.darkwood.com/article/hacker-news-creator-jamesob-s-guide-to-running-sota-llms-locally)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
