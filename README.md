@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://blog.darkwood.com/article/hacker-news-creator-mark-zuckerberg-tells-staff-that-ai-agents-haven-t-progressed-enough)
-- [💫 GitHub Creator - docker: docker/compose: v5.3.0](https://blog.darkwood.com/article/github-creator-docker-docker-compose-v5-3-0)
-- [💫 Bonzai Creator - Niokoz](https://blog.darkwood.com/article/bonzai-creator-niokoz-2)
-- [🤖 Darkwood Watch - 2026-07-06](https://blog.darkwood.com/article/darkwood-watch-2026-07-06)
-- [🔥 Profiling a Symfony flow with Blackfire](https://blog.darkwood.com/article/profiling-a-symfony-flow-with-blackfire)
+- [💫 YouTube Creator - Thariq Shihipar: AI Engineer: Field Guide to Fable](https://blog.darkwood.com/article/youtube-creator-thariq-shihipar-ai-engineer-field-guide-to-fable)
+- [💫 YouTube Creator - AFUP PHP: Keynote de clôture - Forum PHP 2025](https://blog.darkwood.com/article/youtube-creator-afup-php-keynote-de-cloture-forum-php-2025)
+- [💫 Reddit Creator - r/programming: How I achieved 3.7x less memory usage than Cursor by ripping out Electron](https://blog.darkwood.com/article/reddit-creator-r-programming-how-i-achieved-3-7x-less-memory-usage-than-cursor-by-ripping-out-electron)
+- [💫 arXiv Creator - stat.ML: What Does a Discrete Diffusion Model Learn?](https://blog.darkwood.com/article/arxiv-creator-stat-ml-what-does-a-discrete-diffusion-model-learn)
+- [💫 Hacker News Creator - GLM 5.2 and the coming AI margin collapse](https://blog.darkwood.com/article/hacker-news-creator-glm-5-2-and-the-coming-ai-margin-collapse)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
