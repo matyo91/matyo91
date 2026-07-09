@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 YouTube Creator - Thariq Shihipar: AI Engineer: Field Guide to Fable](https://blog.darkwood.com/article/youtube-creator-thariq-shihipar-ai-engineer-field-guide-to-fable)
-- [💫 YouTube Creator - AFUP PHP: Keynote de clôture - Forum PHP 2025](https://blog.darkwood.com/article/youtube-creator-afup-php-keynote-de-cloture-forum-php-2025)
-- [💫 Reddit Creator - r/programming: How I achieved 3.7x less memory usage than Cursor by ripping out Electron](https://blog.darkwood.com/article/reddit-creator-r-programming-how-i-achieved-3-7x-less-memory-usage-than-cursor-by-ripping-out-electron)
-- [💫 arXiv Creator - stat.ML: What Does a Discrete Diffusion Model Learn?](https://blog.darkwood.com/article/arxiv-creator-stat-ml-what-does-a-discrete-diffusion-model-learn)
-- [💫 Hacker News Creator - GLM 5.2 and the coming AI margin collapse](https://blog.darkwood.com/article/hacker-news-creator-glm-5-2-and-the-coming-ai-margin-collapse)
+- [💫 Hacker News Creator - Every new car sold in the European Union must include a driver monitoring camera](https://blog.darkwood.com/article/hacker-news-creator-every-new-car-sold-in-the-european-union-must-include-a-driver-monitoring-camera)
+- [💫 Reddit Creator - r/php: I keep trying other languages... and somehow always end up back in PHP](https://blog.darkwood.com/article/reddit-creator-r-php-i-keep-trying-other-languages-and-somehow-always-end-up-back-in-php)
+- [💫 arXiv Creator - stat.ML: EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning](https://blog.darkwood.com/article/arxiv-creator-stat-ml-entropath-maximum-entropy-path-ensemble-embedding-for-manifold-learning)
+- [💫 GitHub Creator - Laravel: laravel/framework: v13.19.0](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework-v13-19-0)
+- [💫 YouTube Creator - Devscast: PHP 8.5 : les nouvelles fonctionnalités](https://blog.darkwood.com/article/youtube-creator-devscast-php-8-5-les-nouvelles-fonctionnalites)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
