@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Every new car sold in the European Union must include a driver monitoring camera](https://blog.darkwood.com/article/hacker-news-creator-every-new-car-sold-in-the-european-union-must-include-a-driver-monitoring-camera)
-- [💫 Reddit Creator - r/php: I keep trying other languages... and somehow always end up back in PHP](https://blog.darkwood.com/article/reddit-creator-r-php-i-keep-trying-other-languages-and-somehow-always-end-up-back-in-php)
-- [💫 arXiv Creator - stat.ML: EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning](https://blog.darkwood.com/article/arxiv-creator-stat-ml-entropath-maximum-entropy-path-ensemble-embedding-for-manifold-learning)
-- [💫 GitHub Creator - Laravel: laravel/framework: v13.19.0](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework-v13-19-0)
-- [💫 YouTube Creator - Devscast: PHP 8.5 : les nouvelles fonctionnalités](https://blog.darkwood.com/article/youtube-creator-devscast-php-8-5-les-nouvelles-fonctionnalites)
+- [💫 Hacker News Creator - I think I have LLM burnout](https://blog.darkwood.com/article/hacker-news-creator-i-think-i-have-llm-burnout)
+- [💫 Reddit Creator - r/php: INTERNSHIP](https://blog.darkwood.com/article/reddit-creator-r-php-internship)
+- [💫 GitHub Creator - Laravel: laravel/framework: v12.63.0](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework-v12-63-0)
+- [💫 YouTube Creator - GitHub: Sentry + GitHub Copilot: Let Agents Find and Fix Your Errors](https://blog.darkwood.com/article/youtube-creator-github-sentry-github-copilot-let-agents-find-and-fix-your-errors)
+- [💫 Bonzai Creator - Dada | Continuum⍟](https://blog.darkwood.com/article/bonzai-creator-dada-continuum)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
