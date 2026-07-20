@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - I think I have LLM burnout](https://blog.darkwood.com/article/hacker-news-creator-i-think-i-have-llm-burnout)
-- [💫 Reddit Creator - r/php: INTERNSHIP](https://blog.darkwood.com/article/reddit-creator-r-php-internship)
-- [💫 GitHub Creator - Laravel: laravel/framework: v12.63.0](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework-v12-63-0)
-- [💫 YouTube Creator - GitHub: Sentry + GitHub Copilot: Let Agents Find and Fix Your Errors](https://blog.darkwood.com/article/youtube-creator-github-sentry-github-copilot-let-agents-find-and-fix-your-errors)
-- [💫 Bonzai Creator - Dada | Continuum⍟](https://blog.darkwood.com/article/bonzai-creator-dada-continuum)
+- [💫 Bluesky Creator - @alexdaubois: Vulcain Security Update](https://blog.darkwood.com/article/bluesky-creator-alexdaubois-vulcain-security-update)
+- [💫 Hacker News Creator - NYC may require landlords and realtors to disclose the use of AI in listings](https://blog.darkwood.com/article/hacker-news-creator-nyc-may-require-landlords-and-realtors-to-disclose-the-use-of-ai-in-listings)
+- [💫 Reddit Creator - r/opensource: canid: contact card/link-in-bio that lives in a URL](https://blog.darkwood.com/article/reddit-creator-r-opensource-canid-contact-card-link-in-bio-that-lives-in-a-url)
+- [💫 arXiv Creator - cs.AI: RoboTTT: Context Scaling for Robot Policies](https://blog.darkwood.com/article/arxiv-creator-cs-ai-robottt-context-scaling-for-robot-policies)
+- [💫 Bonzai Creator - Intiméa Studio](https://blog.darkwood.com/article/bonzai-creator-intimea-studio)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
