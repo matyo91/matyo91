@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Bluesky Creator - @alexdaubois: Vulcain Security Update](https://blog.darkwood.com/article/bluesky-creator-alexdaubois-vulcain-security-update)
-- [💫 Hacker News Creator - NYC may require landlords and realtors to disclose the use of AI in listings](https://blog.darkwood.com/article/hacker-news-creator-nyc-may-require-landlords-and-realtors-to-disclose-the-use-of-ai-in-listings)
-- [💫 Reddit Creator - r/opensource: canid: contact card/link-in-bio that lives in a URL](https://blog.darkwood.com/article/reddit-creator-r-opensource-canid-contact-card-link-in-bio-that-lives-in-a-url)
-- [💫 arXiv Creator - cs.AI: RoboTTT: Context Scaling for Robot Policies](https://blog.darkwood.com/article/arxiv-creator-cs-ai-robottt-context-scaling-for-robot-policies)
-- [💫 Bonzai Creator - Intiméa Studio](https://blog.darkwood.com/article/bonzai-creator-intimea-studio)
+- [💫 Hacker News Creator - AI advice made people less accurate but more confident – sudy](https://blog.darkwood.com/article/hacker-news-creator-ai-advice-made-people-less-accurate-but-more-confident-sudy)
+- [💫 Reddit Creator - r/opensource: proton-cli - manage Proton Mail, Drive, Calendar, Pass & Contacts from the terminal](https://blog.darkwood.com/article/reddit-creator-r-opensource-proton-cli-manage-proton-mail-drive-calendar-pass-contacts-from-the-terminal)
+- [💫 arXiv Creator - stat.ML: Cluster-Aware Matching via Laplacian Optimal Transport](https://blog.darkwood.com/article/arxiv-creator-stat-ml-cluster-aware-matching-via-laplacian-optimal-transport)
+- [💫 Bonzai Creator - Mini - Jules](https://blog.darkwood.com/article/bonzai-creator-mini-jules-6)
+- [🤖 Darkwood Watch - 2026-07-20](https://blog.darkwood.com/article/darkwood-watch-2026-07-20)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
