@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - AI advice made people less accurate but more confident – sudy](https://blog.darkwood.com/article/hacker-news-creator-ai-advice-made-people-less-accurate-but-more-confident-sudy)
-- [💫 Reddit Creator - r/opensource: proton-cli - manage Proton Mail, Drive, Calendar, Pass & Contacts from the terminal](https://blog.darkwood.com/article/reddit-creator-r-opensource-proton-cli-manage-proton-mail-drive-calendar-pass-contacts-from-the-terminal)
-- [💫 arXiv Creator - stat.ML: Cluster-Aware Matching via Laplacian Optimal Transport](https://blog.darkwood.com/article/arxiv-creator-stat-ml-cluster-aware-matching-via-laplacian-optimal-transport)
-- [💫 Bonzai Creator - Mini - Jules](https://blog.darkwood.com/article/bonzai-creator-mini-jules-6)
-- [🤖 Darkwood Watch - 2026-07-20](https://blog.darkwood.com/article/darkwood-watch-2026-07-20)
+- [💫 Hacker News Creator - China’s open-weights AI strategy is winning](https://blog.darkwood.com/article/hacker-news-creator-china-s-open-weights-ai-strategy-is-winning)
+- [💫 Reddit Creator - r/opensource: Built an open source Hiking Route planner after being frustrated with subscriptions](https://blog.darkwood.com/article/reddit-creator-r-opensource-built-an-open-source-hiking-route-planner-after-being-frustrated-with-subscriptions)
+- [💫 arXiv Creator - stat.ML: Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference](https://blog.darkwood.com/article/arxiv-creator-stat-ml-vector-search-as-nearest-neighbor-matching-rag-based-policy-learning-in-causal-inference)
+- [💫 GitHub Creator - php:frankenphp v1.12.5](https://blog.darkwood.com/article/github-creator-php-frankenphp-v1-12-5)
+- [💫 Bonzai Creator - Arnaud "Tugan" Labossière](https://blog.darkwood.com/article/bonzai-creator-arnaud-tugan-labossiere-2)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
