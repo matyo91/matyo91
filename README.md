@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - China’s open-weights AI strategy is winning](https://blog.darkwood.com/article/hacker-news-creator-china-s-open-weights-ai-strategy-is-winning)
-- [💫 Reddit Creator - r/opensource: Built an open source Hiking Route planner after being frustrated with subscriptions](https://blog.darkwood.com/article/reddit-creator-r-opensource-built-an-open-source-hiking-route-planner-after-being-frustrated-with-subscriptions)
-- [💫 arXiv Creator - stat.ML: Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference](https://blog.darkwood.com/article/arxiv-creator-stat-ml-vector-search-as-nearest-neighbor-matching-rag-based-policy-learning-in-causal-inference)
-- [💫 GitHub Creator - php:frankenphp v1.12.5](https://blog.darkwood.com/article/github-creator-php-frankenphp-v1-12-5)
-- [💫 Bonzai Creator - Arnaud "Tugan" Labossière](https://blog.darkwood.com/article/bonzai-creator-arnaud-tugan-labossiere-2)
+- [💫 Hacker News Creator - OverpAId – Fire your CEO. Hire the future](https://blog.darkwood.com/article/hacker-news-creator-overpaid-fire-your-ceo-hire-the-future)
+- [💫 Reddit Creator - r/opensource: Building a Search Engine from First Principles (as a Side Project)](https://blog.darkwood.com/article/reddit-creator-r-opensource-building-a-search-engine-from-first-principles-as-a-side-project)
+- [💫 arXiv Creator - cs.AI: Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](https://blog.darkwood.com/article/arxiv-creator-cs-ai-copy-less-ground-more-overcoming-repetitive-copying-in-long-context-reasoning-via-evidence-aware-reinforcement-learning)
+- [💫 GitHub Creator - Laravel: laravel/framework: v13.21.1](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework-v13-21-1)
+- [🤖 Darkwood Watch - 2026-07-22](https://blog.darkwood.com/article/darkwood-watch-2026-07-22)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
