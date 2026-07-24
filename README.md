@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Are AI labs pelicanmaxxing?](https://blog.darkwood.com/article/hacker-news-creator-are-ai-labs-pelicanmaxxing)
+- [💫 Reddit Creator - r/opensource: Twigg: AGPL version control and software forge](https://blog.darkwood.com/article/reddit-creator-r-opensource-twigg-agpl-version-control-and-software-forge)
+- [💫 arXiv Creator - stat.ML: Adaptive deep nonparametric regression from dependent data under covariate shift](https://blog.darkwood.com/article/arxiv-creator-stat-ml-adaptive-deep-nonparametric-regression-from-dependent-data-under-covariate-shift)
+- [🤖 Darkwood Watch - 2026-07-23](https://blog.darkwood.com/article/darkwood-watch-2026-07-23)
 - [💫 Hacker News Creator - OverpAId – Fire your CEO. Hire the future](https://blog.darkwood.com/article/hacker-news-creator-overpaid-fire-your-ceo-hire-the-future)
-- [💫 Reddit Creator - r/opensource: Building a Search Engine from First Principles (as a Side Project)](https://blog.darkwood.com/article/reddit-creator-r-opensource-building-a-search-engine-from-first-principles-as-a-side-project)
-- [💫 arXiv Creator - cs.AI: Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](https://blog.darkwood.com/article/arxiv-creator-cs-ai-copy-less-ground-more-overcoming-repetitive-copying-in-long-context-reasoning-via-evidence-aware-reinforcement-learning)
-- [💫 GitHub Creator - Laravel: laravel/framework: v13.21.1](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework-v13-21-1)
-- [🤖 Darkwood Watch - 2026-07-22](https://blog.darkwood.com/article/darkwood-watch-2026-07-22)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
