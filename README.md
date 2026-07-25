@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Startup founders urge U.S. government not to shut off Chinese open weight AI](https://blog.darkwood.com/article/hacker-news-creator-startup-founders-urge-u-s-government-not-to-shut-off-chinese-open-weight-ai)
+- [💫 Reddit Creator - r/opensource: Stet - A FREE and open source, local-first document editor with an AI that marks up your writing like a human editor. Alternative to google docs](https://blog.darkwood.com/article/reddit-creator-r-opensource-stet-a-free-and-open-source-local-first-document-editor-with-an-ai-that-marks-up-your-writing-like-a-human-editor-alternative-to-google-docs)
+- [💫 arXiv Creator - cs.AI: 3D-Aware VLMs with Implicit and Explicit Geometries](https://blog.darkwood.com/article/arxiv-creator-cs-ai-3d-aware-vlms-with-implicit-and-explicit-geometries)
+- [🤖 Darkwood Watch - 2026-07-24](https://blog.darkwood.com/article/darkwood-watch-2026-07-24)
 - [💫 Hacker News Creator - Are AI labs pelicanmaxxing?](https://blog.darkwood.com/article/hacker-news-creator-are-ai-labs-pelicanmaxxing)
-- [💫 Reddit Creator - r/opensource: Twigg: AGPL version control and software forge](https://blog.darkwood.com/article/reddit-creator-r-opensource-twigg-agpl-version-control-and-software-forge)
-- [💫 arXiv Creator - stat.ML: Adaptive deep nonparametric regression from dependent data under covariate shift](https://blog.darkwood.com/article/arxiv-creator-stat-ml-adaptive-deep-nonparametric-regression-from-dependent-data-under-covariate-shift)
-- [🤖 Darkwood Watch - 2026-07-23](https://blog.darkwood.com/article/darkwood-watch-2026-07-23)
-- [💫 Hacker News Creator - OverpAId – Fire your CEO. Hire the future](https://blog.darkwood.com/article/hacker-news-creator-overpaid-fire-your-ceo-hire-the-future)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
