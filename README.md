@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Startup founders urge U.S. government not to shut off Chinese open weight AI](https://blog.darkwood.com/article/hacker-news-creator-startup-founders-urge-u-s-government-not-to-shut-off-chinese-open-weight-ai)
-- [💫 Reddit Creator - r/opensource: Stet - A FREE and open source, local-first document editor with an AI that marks up your writing like a human editor. Alternative to google docs](https://blog.darkwood.com/article/reddit-creator-r-opensource-stet-a-free-and-open-source-local-first-document-editor-with-an-ai-that-marks-up-your-writing-like-a-human-editor-alternative-to-google-docs)
-- [💫 arXiv Creator - cs.AI: 3D-Aware VLMs with Implicit and Explicit Geometries](https://blog.darkwood.com/article/arxiv-creator-cs-ai-3d-aware-vlms-with-implicit-and-explicit-geometries)
-- [🤖 Darkwood Watch - 2026-07-24](https://blog.darkwood.com/article/darkwood-watch-2026-07-24)
-- [💫 Hacker News Creator - Are AI labs pelicanmaxxing?](https://blog.darkwood.com/article/hacker-news-creator-are-ai-labs-pelicanmaxxing)
+- [💫 Hacker News Creator - If coding has been solved, why does software keep getting worse?](https://blog.darkwood.com/article/hacker-news-creator-if-coding-has-been-solved-why-does-software-keep-getting-worse)
+- [💫 Reddit Creator - r/opensource: I built a free, open-source lyrics app for macOS and would love to share it here](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-built-a-free-open-source-lyrics-app-for-macos-and-would-love-to-share-it-here)
+- [💫 arXiv Creator - stat.ML: Finite-Sample Coverage Audits for High-Recall Candidate Generation: Certification and Learning-Theoretic Design](https://blog.darkwood.com/article/arxiv-creator-stat-ml-finite-sample-coverage-audits-for-high-recall-candidate-generation-certification-and-learning-theoretic-design)
+- [💫 Bonzai Creator - 🌿🩸VITALITÉ<>OREXIS 🌿🩸](https://blog.darkwood.com/article/bonzai-creator-vitalite-orexis-2)
+- [🤖 Darkwood Watch - 2026-07-25](https://blog.darkwood.com/article/darkwood-watch-2026-07-25)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
