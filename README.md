@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - If coding has been solved, why does software keep getting worse?](https://blog.darkwood.com/article/hacker-news-creator-if-coding-has-been-solved-why-does-software-keep-getting-worse)
-- [💫 Reddit Creator - r/opensource: I built a free, open-source lyrics app for macOS and would love to share it here](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-built-a-free-open-source-lyrics-app-for-macos-and-would-love-to-share-it-here)
-- [💫 arXiv Creator - stat.ML: Finite-Sample Coverage Audits for High-Recall Candidate Generation: Certification and Learning-Theoretic Design](https://blog.darkwood.com/article/arxiv-creator-stat-ml-finite-sample-coverage-audits-for-high-recall-candidate-generation-certification-and-learning-theoretic-design)
-- [💫 Bonzai Creator - 🌿🩸VITALITÉ<>OREXIS 🌿🩸](https://blog.darkwood.com/article/bonzai-creator-vitalite-orexis-2)
-- [🤖 Darkwood Watch - 2026-07-25](https://blog.darkwood.com/article/darkwood-watch-2026-07-25)
+- [💻 The Laptop Is the Last Bottleneck: From Coding Agents to Shared Workflows](https://blog.darkwood.com/article/the-laptop-is-the-last-bottleneck-from-coding-agents-to-shared-workflows)
+- [💫 Hacker News Creator - Open-weight AI is having its Kubernetes moment](https://blog.darkwood.com/article/hacker-news-creator-open-weight-ai-is-having-its-kubernetes-moment)
+- [💫 Reddit Creator - r/opensource: Titan Engine – A Rust/WASM spreadsheet engine I built chasing "Excel-speed" in the browser](https://blog.darkwood.com/article/reddit-creator-r-opensource-titan-engine-a-rust-wasm-spreadsheet-engine-i-built-chasing-excel-speed-in-the-browser)
+- [💫 arXiv Creator - cs.LG: Lipschitzian SLLNs for random functions](https://blog.darkwood.com/article/arxiv-creator-cs-lg-lipschitzian-sllns-for-random-functions)
+- [🤖 Darkwood Watch - 2026-07-26](https://blog.darkwood.com/article/darkwood-watch-2026-07-26)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
