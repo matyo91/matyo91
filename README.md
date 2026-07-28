@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - London Gatwick has launched a robotic airport parking service](https://blog.darkwood.com/article/hacker-news-creator-london-gatwick-has-launched-a-robotic-airport-parking-service)
+- [💫 Reddit Creator - r/opensource: I open-sourced LangPilot — a local keyboard layout switcher for macOS](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-open-sourced-langpilot-a-local-keyboard-layout-switcher-for-macos)
+- [💫 arXiv Creator - cs.AI: SM4RT: Learning Structured Motion Geometry for 4D Reconstruction](https://blog.darkwood.com/article/arxiv-creator-cs-ai-sm4rt-learning-structured-motion-geometry-for-4d-reconstruction)
+- [🤖 Darkwood Watch - 2026-07-27](https://blog.darkwood.com/article/darkwood-watch-2026-07-27)
 - [💻 The Laptop Is the Last Bottleneck: From Coding Agents to Shared Workflows](https://blog.darkwood.com/article/the-laptop-is-the-last-bottleneck-from-coding-agents-to-shared-workflows)
-- [💫 Hacker News Creator - Open-weight AI is having its Kubernetes moment](https://blog.darkwood.com/article/hacker-news-creator-open-weight-ai-is-having-its-kubernetes-moment)
-- [💫 Reddit Creator - r/opensource: Titan Engine – A Rust/WASM spreadsheet engine I built chasing "Excel-speed" in the browser](https://blog.darkwood.com/article/reddit-creator-r-opensource-titan-engine-a-rust-wasm-spreadsheet-engine-i-built-chasing-excel-speed-in-the-browser)
-- [💫 arXiv Creator - cs.LG: Lipschitzian SLLNs for random functions](https://blog.darkwood.com/article/arxiv-creator-cs-lg-lipschitzian-sllns-for-random-functions)
-- [🤖 Darkwood Watch - 2026-07-26](https://blog.darkwood.com/article/darkwood-watch-2026-07-26)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
