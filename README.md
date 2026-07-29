@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - London Gatwick has launched a robotic airport parking service](https://blog.darkwood.com/article/hacker-news-creator-london-gatwick-has-launched-a-robotic-airport-parking-service)
-- [💫 Reddit Creator - r/opensource: I open-sourced LangPilot — a local keyboard layout switcher for macOS](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-open-sourced-langpilot-a-local-keyboard-layout-switcher-for-macos)
-- [💫 arXiv Creator - cs.AI: SM4RT: Learning Structured Motion Geometry for 4D Reconstruction](https://blog.darkwood.com/article/arxiv-creator-cs-ai-sm4rt-learning-structured-motion-geometry-for-4d-reconstruction)
-- [🤖 Darkwood Watch - 2026-07-27](https://blog.darkwood.com/article/darkwood-watch-2026-07-27)
-- [💻 The Laptop Is the Last Bottleneck: From Coding Agents to Shared Workflows](https://blog.darkwood.com/article/the-laptop-is-the-last-bottleneck-from-coding-agents-to-shared-workflows)
+- [💫 Bluesky Creator - @b-viguier: I Checked Every php.* Domain on the Internet](https://blog.darkwood.com/article/bluesky-creator-b-viguier-i-checked-every-php-domain-on-the-internet)
+- [💫 Hacker News Creator - Netflix employee fired for sharing personal details in retreat trust exercise](https://blog.darkwood.com/article/hacker-news-creator-netflix-employee-fired-for-sharing-personal-details-in-retreat-trust-exercise)
+- [💫 Reddit Creator - r/opensource: Rusty HLP Viewer: native tool to open native HLP files](https://blog.darkwood.com/article/reddit-creator-r-opensource-rusty-hlp-viewer-native-tool-to-open-native-hlp-files)
+- [💫 arXiv Creator - cs.AI: ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](https://blog.darkwood.com/article/arxiv-creator-cs-ai-clinfusion-a-vision-centric-multimodal-llm-system-for-holistic-medical-understanding)
+- [🤖 Darkwood Watch - 2026-07-28](https://blog.darkwood.com/article/darkwood-watch-2026-07-28)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
