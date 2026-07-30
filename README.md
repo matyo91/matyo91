@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Bluesky Creator - @b-viguier: I Checked Every php.* Domain on the Internet](https://blog.darkwood.com/article/bluesky-creator-b-viguier-i-checked-every-php-domain-on-the-internet)
-- [💫 Hacker News Creator - Netflix employee fired for sharing personal details in retreat trust exercise](https://blog.darkwood.com/article/hacker-news-creator-netflix-employee-fired-for-sharing-personal-details-in-retreat-trust-exercise)
-- [💫 Reddit Creator - r/opensource: Rusty HLP Viewer: native tool to open native HLP files](https://blog.darkwood.com/article/reddit-creator-r-opensource-rusty-hlp-viewer-native-tool-to-open-native-hlp-files)
-- [💫 arXiv Creator - cs.AI: ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](https://blog.darkwood.com/article/arxiv-creator-cs-ai-clinfusion-a-vision-centric-multimodal-llm-system-for-holistic-medical-understanding)
-- [🤖 Darkwood Watch - 2026-07-28](https://blog.darkwood.com/article/darkwood-watch-2026-07-28)
+- [🚀 Darkwood v8.1.2 released](https://blog.darkwood.com/article/darkwood-v8-1-2-released)
+- [💫 Hacker News Creator - MAI-Cyber-1-Flash inside MDASH](https://blog.darkwood.com/article/hacker-news-creator-mai-cyber-1-flash-inside-mdash)
+- [💫 Reddit Creator - r/opensource: A library of 130+ open source free interactive security awareness exercises. Fully white-labeled for your training needs, no strings attached](https://blog.darkwood.com/article/reddit-creator-r-opensource-a-library-of-130-open-source-free-interactive-security-awareness-exercises-fully-white-labeled-for-your-training-needs-no-strings-attached)
+- [💫 arXiv Creator - stat.ML: Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance](https://blog.darkwood.com/article/arxiv-creator-stat-ml-reinformed-dreamer-an-asymmetric-world-model-efficiently-trained-through-latent-guidance)
+- [💫 GitHub Creator - phpstan: phpstan/phpstan: 1.12.34](https://blog.darkwood.com/article/github-creator-phpstan-phpstan-phpstan-1-12-34)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
