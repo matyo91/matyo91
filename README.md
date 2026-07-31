@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Darkwood v8.1.2 released](https://blog.darkwood.com/article/darkwood-v8-1-2-released)
-- [💫 Hacker News Creator - MAI-Cyber-1-Flash inside MDASH](https://blog.darkwood.com/article/hacker-news-creator-mai-cyber-1-flash-inside-mdash)
-- [💫 Reddit Creator - r/opensource: A library of 130+ open source free interactive security awareness exercises. Fully white-labeled for your training needs, no strings attached](https://blog.darkwood.com/article/reddit-creator-r-opensource-a-library-of-130-open-source-free-interactive-security-awareness-exercises-fully-white-labeled-for-your-training-needs-no-strings-attached)
-- [💫 arXiv Creator - stat.ML: Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance](https://blog.darkwood.com/article/arxiv-creator-stat-ml-reinformed-dreamer-an-asymmetric-world-model-efficiently-trained-through-latent-guidance)
-- [💫 GitHub Creator - phpstan: phpstan/phpstan: 1.12.34](https://blog.darkwood.com/article/github-creator-phpstan-phpstan-phpstan-1-12-34)
+- [🚀 Darkwood v8.1.3 released](https://blog.darkwood.com/article/darkwood-v8-1-3-released)
+- [💫 Bluesky Creator - @francoisz: The best coding agent](https://blog.darkwood.com/article/bluesky-creator-francoisz-the-best-coding-agent)
+- [💫 Hacker News Creator - Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://blog.darkwood.com/article/hacker-news-creator-anatomy-of-a-frontier-lab-agent-intrusion-a-timeline-of-the-july-2026-incident)
+- [💫 Reddit Creator - r/opensource: Why are AI browser agents still so fragile?](https://blog.darkwood.com/article/reddit-creator-r-opensource-why-are-ai-browser-agents-still-so-fragile)
+- [💫 arXiv Creator - stat.ML: PIKS: Universal Physics-Informed Kernel Methods](https://blog.darkwood.com/article/arxiv-creator-stat-ml-piks-universal-physics-informed-kernel-methods)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
