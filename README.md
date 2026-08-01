@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - GCC steering committee announces AI policy](https://blog.darkwood.com/article/hacker-news-creator-gcc-steering-committee-announces-ai-policy)
+- [💫 Reddit Creator - r/opensource: What github activity/analytics would actually be helpful to you as a repo maintainer??](https://blog.darkwood.com/article/reddit-creator-r-opensource-what-github-activity-analytics-would-actually-be-helpful-to-you-as-a-repo-maintainer)
+- [💫 arXiv Creator - stat.ML: Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories](https://blog.darkwood.com/article/arxiv-creator-stat-ml-doubly-robust-functional-representation-learning-for-longitudinal-causal-inference-with-irregular-histories)
+- [🤖 Darkwood Watch - 2026-07-31](https://blog.darkwood.com/article/darkwood-watch-2026-07-31)
 - [🚀 Darkwood v8.1.3 released](https://blog.darkwood.com/article/darkwood-v8-1-3-released)
-- [💫 Bluesky Creator - @francoisz: The best coding agent](https://blog.darkwood.com/article/bluesky-creator-francoisz-the-best-coding-agent)
-- [💫 Hacker News Creator - Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://blog.darkwood.com/article/hacker-news-creator-anatomy-of-a-frontier-lab-agent-intrusion-a-timeline-of-the-july-2026-incident)
-- [💫 Reddit Creator - r/opensource: Why are AI browser agents still so fragile?](https://blog.darkwood.com/article/reddit-creator-r-opensource-why-are-ai-browser-agents-still-so-fragile)
-- [💫 arXiv Creator - stat.ML: PIKS: Universal Physics-Informed Kernel Methods](https://blog.darkwood.com/article/arxiv-creator-stat-ml-piks-universal-physics-informed-kernel-methods)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
