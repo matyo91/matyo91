@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - GCC steering committee announces AI policy](https://blog.darkwood.com/article/hacker-news-creator-gcc-steering-committee-announces-ai-policy)
-- [💫 Reddit Creator - r/opensource: What github activity/analytics would actually be helpful to you as a repo maintainer??](https://blog.darkwood.com/article/reddit-creator-r-opensource-what-github-activity-analytics-would-actually-be-helpful-to-you-as-a-repo-maintainer)
-- [💫 arXiv Creator - stat.ML: Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories](https://blog.darkwood.com/article/arxiv-creator-stat-ml-doubly-robust-functional-representation-learning-for-longitudinal-causal-inference-with-irregular-histories)
-- [🤖 Darkwood Watch - 2026-07-31](https://blog.darkwood.com/article/darkwood-watch-2026-07-31)
-- [🚀 Darkwood v8.1.3 released](https://blog.darkwood.com/article/darkwood-v8-1-3-released)
+- [💫 Bluesky Creator - @joel.wurtz.dev: A Halfhearted Assumption xD](https://blog.darkwood.com/article/bluesky-creator-joel-wurtz-dev-a-halfhearted-assumption-xd)
+- [💫 Hacker News Creator - qm – Multiplayer agent harness for work](https://blog.darkwood.com/article/hacker-news-creator-qm-multiplayer-agent-harness-for-work)
+- [💫 Reddit Creator - r/opensource: Easy simple straightforward menu-bar utility to kill processes on macOS](https://blog.darkwood.com/article/reddit-creator-r-opensource-easy-simple-straightforward-menu-bar-utility-to-kill-processes-on-macos)
+- [💫 arXiv Creator - cs.AI: Learning to Trace Seiberg Dualities](https://blog.darkwood.com/article/arxiv-creator-cs-ai-learning-to-trace-seiberg-dualities)
+- [🤖 Darkwood Watch - 2026-08-01](https://blog.darkwood.com/article/darkwood-watch-2026-08-01)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
