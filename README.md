@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Bluesky Creator - @joel.wurtz.dev: A Halfhearted Assumption xD](https://blog.darkwood.com/article/bluesky-creator-joel-wurtz-dev-a-halfhearted-assumption-xd)
-- [💫 Hacker News Creator - qm – Multiplayer agent harness for work](https://blog.darkwood.com/article/hacker-news-creator-qm-multiplayer-agent-harness-for-work)
-- [💫 Reddit Creator - r/opensource: Easy simple straightforward menu-bar utility to kill processes on macOS](https://blog.darkwood.com/article/reddit-creator-r-opensource-easy-simple-straightforward-menu-bar-utility-to-kill-processes-on-macos)
-- [💫 arXiv Creator - cs.AI: Learning to Trace Seiberg Dualities](https://blog.darkwood.com/article/arxiv-creator-cs-ai-learning-to-trace-seiberg-dualities)
-- [🤖 Darkwood Watch - 2026-08-01](https://blog.darkwood.com/article/darkwood-watch-2026-08-01)
+- [🧪 From No-Life Testing to Behavioral Testing](https://blog.darkwood.com/article/from-no-life-testing-to-behavioral-testing)
+- [💫 Hacker News Creator - AI financial advice is surprisingly good, especially if you ask right questions](https://blog.darkwood.com/article/hacker-news-creator-ai-financial-advice-is-surprisingly-good-especially-if-you-ask-right-questions)
+- [💫 Reddit Creator - r/opensource: My first real open-source contribution got merged today](https://blog.darkwood.com/article/reddit-creator-r-opensource-my-first-real-open-source-contribution-got-merged-today)
+- [💫 arXiv Creator - cs.LG: Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?](https://blog.darkwood.com/article/arxiv-creator-cs-lg-do-you-really-need-to-pretrain-q-functions-for-online-rl-fine-tuning)
+- [🤖 Darkwood Watch - 2026-08-02](https://blog.darkwood.com/article/darkwood-watch-2026-08-02)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
