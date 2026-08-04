@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 From No-Life Testing to Behavioral Testing](https://blog.darkwood.com/article/from-no-life-testing-to-behavioral-testing)
-- [💫 Hacker News Creator - AI financial advice is surprisingly good, especially if you ask right questions](https://blog.darkwood.com/article/hacker-news-creator-ai-financial-advice-is-surprisingly-good-especially-if-you-ask-right-questions)
-- [💫 Reddit Creator - r/opensource: My first real open-source contribution got merged today](https://blog.darkwood.com/article/reddit-creator-r-opensource-my-first-real-open-source-contribution-got-merged-today)
-- [💫 arXiv Creator - cs.LG: Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?](https://blog.darkwood.com/article/arxiv-creator-cs-lg-do-you-really-need-to-pretrain-q-functions-for-online-rl-fine-tuning)
-- [🤖 Darkwood Watch - 2026-08-02](https://blog.darkwood.com/article/darkwood-watch-2026-08-02)
+- [💫 Hacker News Creator - Qwen3.8-Max: A New Bar for Coding and Cowork](https://blog.darkwood.com/article/hacker-news-creator-qwen3-8-max-a-new-bar-for-coding-and-cowork)
+- [💫 Reddit Creator - r/opensource: Shipped my first ever app, open source, today. macOS file converter called EasyConvert](https://blog.darkwood.com/article/reddit-creator-r-opensource-shipped-my-first-ever-app-open-source-today-macos-file-converter-called-easyconvert)
+- [💫 arXiv Creator - cs.LG: Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering](https://blog.darkwood.com/article/arxiv-creator-cs-lg-differentially-private-nonparametric-modal-learning-with-applications-to-regression-and-clustering)
+- [💫 GitHub Creator - darkwood-com: darkwood-com/flow: Darkwood 8.1.3 (flow)](https://blog.darkwood.com/article/github-creator-darkwood-com-darkwood-com-flow-darkwood-8-1-3-flow)
+- [🤖 Darkwood Watch - 2026-08-03](https://blog.darkwood.com/article/darkwood-watch-2026-08-03)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
