@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Qwen3.8-Max: A New Bar for Coding and Cowork](https://blog.darkwood.com/article/hacker-news-creator-qwen3-8-max-a-new-bar-for-coding-and-cowork)
-- [💫 Reddit Creator - r/opensource: Shipped my first ever app, open source, today. macOS file converter called EasyConvert](https://blog.darkwood.com/article/reddit-creator-r-opensource-shipped-my-first-ever-app-open-source-today-macos-file-converter-called-easyconvert)
-- [💫 arXiv Creator - cs.LG: Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering](https://blog.darkwood.com/article/arxiv-creator-cs-lg-differentially-private-nonparametric-modal-learning-with-applications-to-regression-and-clustering)
-- [💫 GitHub Creator - darkwood-com: darkwood-com/flow: Darkwood 8.1.3 (flow)](https://blog.darkwood.com/article/github-creator-darkwood-com-darkwood-com-flow-darkwood-8-1-3-flow)
-- [🤖 Darkwood Watch - 2026-08-03](https://blog.darkwood.com/article/darkwood-watch-2026-08-03)
+- [💫 Hacker News Creator - AI-Generated Images Discourage Me from Reading Your Blog](https://blog.darkwood.com/article/hacker-news-creator-ai-generated-images-discourage-me-from-reading-your-blog)
+- [💫 Reddit Creator - r/opensource: AGPL vs MIT for contributions/engagement](https://blog.darkwood.com/article/reddit-creator-r-opensource-agpl-vs-mit-for-contributions-engagement)
+- [💫 arXiv Creator - stat.ML: Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality](https://blog.darkwood.com/article/arxiv-creator-stat-ml-pseudorandom-streams-within-diffusion-models-act-as-learnable-inputs-that-affect-generation-quality)
+- [💫 GitHub Creator - docker:compose](https://blog.darkwood.com/article/github-creator-docker-compose)
+- [🤖 Darkwood Watch - 2026-08-04](https://blog.darkwood.com/article/darkwood-watch-2026-08-04)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
