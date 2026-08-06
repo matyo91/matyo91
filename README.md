@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Devtools must be open source](https://blog.darkwood.com/article/hacker-news-creator-devtools-must-be-open-source)
+- [💫 Reddit Creator - r/opensource: Calligrapher here: I hid 117 characters in one space using color](https://blog.darkwood.com/article/reddit-creator-r-opensource-calligrapher-here-i-hid-117-characters-in-one-space-using-color)
+- [💫 arXiv Creator - stat.ML: Information-Geometric Forward Policy Training in GFlowNets](https://blog.darkwood.com/article/arxiv-creator-stat-ml-information-geometric-forward-policy-training-in-gflownets)
+- [🤖 Darkwood Watch - 2026-08-05](https://blog.darkwood.com/article/darkwood-watch-2026-08-05)
 - [💫 Hacker News Creator - AI-Generated Images Discourage Me from Reading Your Blog](https://blog.darkwood.com/article/hacker-news-creator-ai-generated-images-discourage-me-from-reading-your-blog)
-- [💫 Reddit Creator - r/opensource: AGPL vs MIT for contributions/engagement](https://blog.darkwood.com/article/reddit-creator-r-opensource-agpl-vs-mit-for-contributions-engagement)
-- [💫 arXiv Creator - stat.ML: Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality](https://blog.darkwood.com/article/arxiv-creator-stat-ml-pseudorandom-streams-within-diffusion-models-act-as-learnable-inputs-that-affect-generation-quality)
-- [💫 GitHub Creator - docker:compose](https://blog.darkwood.com/article/github-creator-docker-compose)
-- [🤖 Darkwood Watch - 2026-08-04](https://blog.darkwood.com/article/darkwood-watch-2026-08-04)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
