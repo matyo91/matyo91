@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Reddit Creator - r/opensource: How to fix your dead star-history charts](https://blog.darkwood.com/article/reddit-creator-r-opensource-how-to-fix-your-dead-star-history-charts)
+- [💫 arXiv Creator - stat.ML: SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant](https://blog.darkwood.com/article/arxiv-creator-stat-ml-sstq-privacy-preserving-vector-quantization-via-subsampled-stochastic-turboquant)
+- [💫 GitHub Creator - getsentry: sentry-php 4.30.0](https://blog.darkwood.com/article/github-creator-getsentry-sentry-php-4-30-0)
+- [🤖 Darkwood Watch - 2026-08-06](https://blog.darkwood.com/article/darkwood-watch-2026-08-06)
 - [💫 Hacker News Creator - Devtools must be open source](https://blog.darkwood.com/article/hacker-news-creator-devtools-must-be-open-source)
-- [💫 Reddit Creator - r/opensource: Calligrapher here: I hid 117 characters in one space using color](https://blog.darkwood.com/article/reddit-creator-r-opensource-calligrapher-here-i-hid-117-characters-in-one-space-using-color)
-- [💫 arXiv Creator - stat.ML: Information-Geometric Forward Policy Training in GFlowNets](https://blog.darkwood.com/article/arxiv-creator-stat-ml-information-geometric-forward-policy-training-in-gflownets)
-- [🤖 Darkwood Watch - 2026-08-05](https://blog.darkwood.com/article/darkwood-watch-2026-08-05)
-- [💫 Hacker News Creator - AI-Generated Images Discourage Me from Reading Your Blog](https://blog.darkwood.com/article/hacker-news-creator-ai-generated-images-discourage-me-from-reading-your-blog)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
