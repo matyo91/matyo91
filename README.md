@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Managing AI Coding Costs at Scale](https://blog.darkwood.com/article/hacker-news-creator-managing-ai-coding-costs-at-scale)
+- [💫 Reddit Creator - r/opensource: Am I stupid for doing open source?](https://blog.darkwood.com/article/reddit-creator-r-opensource-am-i-stupid-for-doing-open-source)
+- [💫 GitHub Creator - Laravel: laravel/framework](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework)
+- [🤖 Darkwood Watch - 2026-08-08](https://blog.darkwood.com/article/darkwood-watch-2026-08-08)
 - [🤖 Darkwood Watch - 2026-08-07](https://blog.darkwood.com/article/darkwood-watch-2026-08-07)
-- [💫 Reddit Creator - r/opensource: How to fix your dead star-history charts](https://blog.darkwood.com/article/reddit-creator-r-opensource-how-to-fix-your-dead-star-history-charts)
-- [💫 arXiv Creator - stat.ML: SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant](https://blog.darkwood.com/article/arxiv-creator-stat-ml-sstq-privacy-preserving-vector-quantization-via-subsampled-stochastic-turboquant)
-- [💫 GitHub Creator - getsentry: sentry-php 4.30.0](https://blog.darkwood.com/article/github-creator-getsentry-sentry-php-4-30-0)
-- [🤖 Darkwood Watch - 2026-08-06](https://blog.darkwood.com/article/darkwood-watch-2026-08-06)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
