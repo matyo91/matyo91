@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Because It's Not Fun Enough: why languages fail](https://blog.darkwood.com/article/hacker-news-creator-because-it-s-not-fun-enough-why-languages-fail)
+- [💫 Reddit Creator - r/opensource: Hermes/Codex Deck like Codex Micro](https://blog.darkwood.com/article/reddit-creator-r-opensource-hermes-codex-deck-like-codex-micro)
+- [💫 arXiv Creator - stat.ML: Omni-modal decomposition autoencoders learn full-stack wearable disentangled representations](https://blog.darkwood.com/article/arxiv-creator-stat-ml-omni-modal-decomposition-autoencoders-learn-full-stack-wearable-disentangled-representations)
+- [🤖 Darkwood Watch - 2026-08-10](https://blog.darkwood.com/article/darkwood-watch-2026-08-10)
 - [💫 Hacker News Creator - Danish high schoolers will have to verbally defend written assignments](https://blog.darkwood.com/article/hacker-news-creator-danish-high-schoolers-will-have-to-verbally-defend-written-assignments)
-- [🙏 When orchestration guarantees execution, not value](https://blog.darkwood.com/article/when-orchestration-guarantees-execution-not-value)
-- [💫 Reddit Creator - r/opensource: Kentucky-ai/opentakeoff: Open-source (Apache-2.0) PDF takeoff for construction & flooring — the first engine an AI agent drives natively over MCP, not bolted on.](https://blog.darkwood.com/article/reddit-creator-r-opensource-kentucky-ai-opentakeoff-open-source-apache-2-0-pdf-takeoff-for-construction-flooring-the-first-engine-an-ai-agent-drives-natively-over-mcp-not-bolted-on)
-- [💫 GitHub Creator - vercel:next.js](https://blog.darkwood.com/article/github-creator-vercel-next-js)
-- [🤖 Darkwood Watch - 2026-08-09](https://blog.darkwood.com/article/darkwood-watch-2026-08-09)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
