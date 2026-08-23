@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-08-11](https://blog.darkwood.com/article/darkwood-watch-2026-08-11)
-- [💫 Hacker News Creator - Because It's Not Fun Enough: why languages fail](https://blog.darkwood.com/article/hacker-news-creator-because-it-s-not-fun-enough-why-languages-fail)
-- [💫 Reddit Creator - r/opensource: Hermes/Codex Deck like Codex Micro](https://blog.darkwood.com/article/reddit-creator-r-opensource-hermes-codex-deck-like-codex-micro)
-- [💫 arXiv Creator - stat.ML: Omni-modal decomposition autoencoders learn full-stack wearable disentangled representations](https://blog.darkwood.com/article/arxiv-creator-stat-ml-omni-modal-decomposition-autoencoders-learn-full-stack-wearable-disentangled-representations)
-- [🤖 Darkwood Watch - 2026-08-10](https://blog.darkwood.com/article/darkwood-watch-2026-08-10)
+- [💫 Hacker News Creator - Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://blog.darkwood.com/article/hacker-news-creator-canada-suspends-trade-negotiations-with-usa-and-match-tariffs-dollar-for-dollar)
+- [💫 Reddit Creator - r/opensource: Are there any good open source Angular projects to tweak and contribute?](https://blog.darkwood.com/article/reddit-creator-r-opensource-are-there-any-good-open-source-angular-projects-to-tweak-and-contribute)
+- [💫 GitHub Creator - phpstan/phpstan: 2.2.9](https://blog.darkwood.com/article/github-creator-phpstan-phpstan-2-2-9)
+- [💫 Bonzai Creator - Fabien WAGER-MENRI](https://blog.darkwood.com/article/bonzai-creator-fabien-wager-menri)
+- [🤖 Darkwood Watch - 2026-08-22](https://blog.darkwood.com/article/darkwood-watch-2026-08-22)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
