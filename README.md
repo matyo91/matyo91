@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://blog.darkwood.com/article/hacker-news-creator-canada-suspends-trade-negotiations-with-usa-and-match-tariffs-dollar-for-dollar)
-- [💫 Reddit Creator - r/opensource: Are there any good open source Angular projects to tweak and contribute?](https://blog.darkwood.com/article/reddit-creator-r-opensource-are-there-any-good-open-source-angular-projects-to-tweak-and-contribute)
-- [💫 GitHub Creator - phpstan/phpstan: 2.2.9](https://blog.darkwood.com/article/github-creator-phpstan-phpstan-2-2-9)
-- [💫 Bonzai Creator - Fabien WAGER-MENRI](https://blog.darkwood.com/article/bonzai-creator-fabien-wager-menri)
-- [🤖 Darkwood Watch - 2026-08-22](https://blog.darkwood.com/article/darkwood-watch-2026-08-22)
+- [💫 Hacker News Creator - Scrap (2006)](https://blog.darkwood.com/article/hacker-news-creator-scrap-2006)
+- [📚 When AI Becomes a Library: The Nolife Local Experiment](https://blog.darkwood.com/article/when-ai-becomes-a-library-the-nolife-local-experiment)
+- [💫 Reddit Creator - r/opensource: crabwalk -rust in python!](https://blog.darkwood.com/article/reddit-creator-r-opensource-crabwalk-rust-in-python)
+- [💫 Bonzai Creator - Dada | Continuum⍟](https://blog.darkwood.com/article/bonzai-creator-dada-continuum-2)
+- [🤖 Darkwood Watch - 2026-08-23](https://blog.darkwood.com/article/darkwood-watch-2026-08-23)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
