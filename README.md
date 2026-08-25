@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Scrap (2006)](https://blog.darkwood.com/article/hacker-news-creator-scrap-2006)
-- [📚 When AI Becomes a Library: The Nolife Local Experiment](https://blog.darkwood.com/article/when-ai-becomes-a-library-the-nolife-local-experiment)
-- [💫 Reddit Creator - r/opensource: crabwalk -rust in python!](https://blog.darkwood.com/article/reddit-creator-r-opensource-crabwalk-rust-in-python)
-- [💫 Bonzai Creator - Dada | Continuum⍟](https://blog.darkwood.com/article/bonzai-creator-dada-continuum-2)
-- [🤖 Darkwood Watch - 2026-08-23](https://blog.darkwood.com/article/darkwood-watch-2026-08-23)
+- [💫 Hacker News Creator - I were 17, I'd learn how to build LLMs from scratch](https://blog.darkwood.com/article/hacker-news-creator-i-were-17-i-d-learn-how-to-build-llms-from-scratch)
+- [💫 Reddit Creator - r/opensource: Proposal for slop contributions problem](https://blog.darkwood.com/article/reddit-creator-r-opensource-proposal-for-slop-contributions-problem)
+- [💫 arXiv Creator - cs.AI: Primal Acceleration of Newton's Method](https://blog.darkwood.com/article/arxiv-creator-cs-ai-primal-acceleration-of-newton-s-method)
+- [💫 Bonzai Creator - Intiméa Studio](https://blog.darkwood.com/article/bonzai-creator-intimea-studio-2)
+- [🤖 Darkwood Watch - 2026-08-24](https://blog.darkwood.com/article/darkwood-watch-2026-08-24)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
