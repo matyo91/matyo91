@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - I were 17, I'd learn how to build LLMs from scratch](https://blog.darkwood.com/article/hacker-news-creator-i-were-17-i-d-learn-how-to-build-llms-from-scratch)
-- [💫 Reddit Creator - r/opensource: Proposal for slop contributions problem](https://blog.darkwood.com/article/reddit-creator-r-opensource-proposal-for-slop-contributions-problem)
-- [💫 arXiv Creator - cs.AI: Primal Acceleration of Newton's Method](https://blog.darkwood.com/article/arxiv-creator-cs-ai-primal-acceleration-of-newton-s-method)
-- [💫 Bonzai Creator - Intiméa Studio](https://blog.darkwood.com/article/bonzai-creator-intimea-studio-2)
-- [🤖 Darkwood Watch - 2026-08-24](https://blog.darkwood.com/article/darkwood-watch-2026-08-24)
+- [💫 Hacker News Creator - Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://blog.darkwood.com/article/hacker-news-creator-apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute)
+- [💫 Reddit Creator - r/opensource: 66 0.9.x is out: the init system/service manager is now fully independent (no more skalibs, s6 or execline at build time), and it gained an event system](https://blog.darkwood.com/article/reddit-creator-r-opensource-66-0-9-x-is-out-the-init-system-service-manager-is-now-fully-independent-no-more-skalibs-s6-or-execline-at-build-time-and-it-gained-an-event-system)
+- [💫 arXiv Creator - stat.ML: Provably adaptive sampling with uniform and remasking discrete diffusion models](https://blog.darkwood.com/article/arxiv-creator-stat-ml-provably-adaptive-sampling-with-uniform-and-remasking-discrete-diffusion-models)
+- [💫 Bonzai Creator - Mini - Jules](https://blog.darkwood.com/article/bonzai-creator-mini-jules-8)
+- [🤖 Darkwood Watch - 2026-08-25](https://blog.darkwood.com/article/darkwood-watch-2026-08-25)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
