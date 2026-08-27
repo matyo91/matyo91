@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://blog.darkwood.com/article/hacker-news-creator-apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute)
-- [💫 Reddit Creator - r/opensource: 66 0.9.x is out: the init system/service manager is now fully independent (no more skalibs, s6 or execline at build time), and it gained an event system](https://blog.darkwood.com/article/reddit-creator-r-opensource-66-0-9-x-is-out-the-init-system-service-manager-is-now-fully-independent-no-more-skalibs-s6-or-execline-at-build-time-and-it-gained-an-event-system)
-- [💫 arXiv Creator - stat.ML: Provably adaptive sampling with uniform and remasking discrete diffusion models](https://blog.darkwood.com/article/arxiv-creator-stat-ml-provably-adaptive-sampling-with-uniform-and-remasking-discrete-diffusion-models)
-- [💫 Bonzai Creator - Mini - Jules](https://blog.darkwood.com/article/bonzai-creator-mini-jules-8)
-- [🤖 Darkwood Watch - 2026-08-25](https://blog.darkwood.com/article/darkwood-watch-2026-08-25)
+- [💫 YouTube Creator - Google Cloud Tech: 4 ways loop engineering fails (and how to fix them)](https://blog.darkwood.com/article/youtube-creator-google-cloud-tech-4-ways-loop-engineering-fails-and-how-to-fix-them)
+- [💫 Reddit Creator - r/php: I built a WhatsApp Web client for pure PHP — no Node.js, no Puppeteer](https://blog.darkwood.com/article/reddit-creator-r-php-i-built-a-whatsapp-web-client-for-pure-php-no-node-js-no-puppeteer)
+- [💫 arXiv Creator - cs.LG: What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](https://blog.darkwood.com/article/arxiv-creator-cs-lg-what-fid-hides-detecting-ranking-and-diagnosing-deviations-in-generative-evaluation)
+- [💫 Bonzai Creator - Arnaud "Tugan" Labossière](https://blog.darkwood.com/article/bonzai-creator-arnaud-tugan-labossiere-3)
+- [🤖 Darkwood Watch - 2026-08-26](https://blog.darkwood.com/article/darkwood-watch-2026-08-26)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
