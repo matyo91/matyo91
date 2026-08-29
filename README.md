@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-08-29](https://blog.darkwood.com/article/darkwood-watch-2026-08-29)
+- [💫 Bluesky Creator - @martinfowler.com: NEW POST](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-new-post)
+- [💫 arXiv Creator - cs.LG: Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study](https://blog.darkwood.com/article/arxiv-creator-cs-lg-learning-a-continuous-sepsis-severity-score-without-hour-by-hour-supervision-a-two-site-retrospective-study)
+- [💫 Reddit Creator - r/opensource: (Updated) - newly modeled data for potential second flood event](https://blog.darkwood.com/article/reddit-creator-r-opensource-updated-newly-modeled-data-for-potential-second-flood-event)
 - [💫 arXiv Creator - stat.ML: A Finite Sample Analysis for Quantile Temporal Difference Learning in Distributional Reinforcement Learning](https://blog.darkwood.com/article/arxiv-creator-stat-ml-a-finite-sample-analysis-for-quantile-temporal-difference-learning-in-distributional-reinforcement-learning)
-- [💫 GitHub Creator - getsentry: sentry-php 4.31.0](https://blog.darkwood.com/article/github-creator-getsentry-sentry-php-4-31-0)
-- [🤖 Darkwood Watch - 2026-08-28](https://blog.darkwood.com/article/darkwood-watch-2026-08-28)
-- [💫 Bluesky Creator - @pyrech: Migrer de Webpack Encore vers Vite avec Reprise ⚡](https://blog.darkwood.com/article/bluesky-creator-pyrech-migrer-de-webpack-encore-vers-vite-avec-reprise)
-- [💫 Hacker News Creator - GLM-5.3-Flash](https://blog.darkwood.com/article/hacker-news-creator-glm-5-3-flash)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
