@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-08-29](https://blog.darkwood.com/article/darkwood-watch-2026-08-29)
-- [💫 Bluesky Creator - @martinfowler.com: NEW POST](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-new-post)
-- [💫 arXiv Creator - cs.LG: Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study](https://blog.darkwood.com/article/arxiv-creator-cs-lg-learning-a-continuous-sepsis-severity-score-without-hour-by-hour-supervision-a-two-site-retrospective-study)
-- [💫 Reddit Creator - r/opensource: (Updated) - newly modeled data for potential second flood event](https://blog.darkwood.com/article/reddit-creator-r-opensource-updated-newly-modeled-data-for-potential-second-flood-event)
-- [💫 arXiv Creator - stat.ML: A Finite Sample Analysis for Quantile Temporal Difference Learning in Distributional Reinforcement Learning](https://blog.darkwood.com/article/arxiv-creator-stat-ml-a-finite-sample-analysis-for-quantile-temporal-difference-learning-in-distributional-reinforcement-learning)
+- [🤖 Darkwood Watch - 2026-08-30](https://blog.darkwood.com/article/darkwood-watch-2026-08-30)
+- [💫 Bluesky Creator - @martinfowler.com: Fragments on AI Whistleblowers](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-ai-whistleblowers)
+- [💫 Hacker News Creator - The Twelve-Factor App (2025)](https://blog.darkwood.com/article/hacker-news-creator-the-twelve-factor-app-2025)
+- [💫 Reddit Creator - r/opensource: Osh – a Markdown & .skill QuickLook viewer for macOS with real RTL/Arabic support (free, open source)](https://blog.darkwood.com/article/reddit-creator-r-opensource-osh-a-markdown-skill-quicklook-viewer-for-macos-with-real-rtl-arabic-support-free-open-source)
+- [💫 GitHub Creator - containerd: containerd API 1.12.0-rc.0](https://blog.darkwood.com/article/github-creator-containerd-containerd-api-1-12-0-rc-0)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
