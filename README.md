@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-08-31](https://blog.darkwood.com/article/darkwood-watch-2026-08-31)
+- [💫 Hacker News Creator - Hy4 preview](https://blog.darkwood.com/article/hacker-news-creator-hy4-preview)
+- [🔨 I Built a C Compiler in PHP That Can Compile SQLite](https://blog.darkwood.com/article/i-built-a-c-compiler-in-php-that-can-compile-sqlite)
+- [💫 Reddit Creator - r/opensource: Beagle: Now with actually readable README.md (Ai built, heads up)](https://blog.darkwood.com/article/reddit-creator-r-opensource-beagle-now-with-actually-readable-readme-md-ai-built-heads-up)
 - [🤖 Darkwood Watch - 2026-08-30](https://blog.darkwood.com/article/darkwood-watch-2026-08-30)
-- [💫 Bluesky Creator - @martinfowler.com: Fragments on AI Whistleblowers](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-ai-whistleblowers)
-- [💫 Hacker News Creator - The Twelve-Factor App (2025)](https://blog.darkwood.com/article/hacker-news-creator-the-twelve-factor-app-2025)
-- [💫 Reddit Creator - r/opensource: Osh – a Markdown & .skill QuickLook viewer for macOS with real RTL/Arabic support (free, open source)](https://blog.darkwood.com/article/reddit-creator-r-opensource-osh-a-markdown-skill-quicklook-viewer-for-macos-with-real-rtl-arabic-support-free-open-source)
-- [💫 GitHub Creator - containerd: containerd API 1.12.0-rc.0](https://blog.darkwood.com/article/github-creator-containerd-containerd-api-1-12-0-rc-0)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
