@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Breaking Claude Code Opus 5 Auto Mode](https://blog.darkwood.com/article/hacker-news-creator-breaking-claude-code-opus-5-auto-mode)
-- [💫 Reddit Creator - r/opensource: I’m building an open-source docx document editor with its own Canvas rendering engine](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-m-building-an-open-source-docx-document-editor-with-its-own-canvas-rendering-engine)
-- [💫 arXiv Creator - stat.ML: Learning a Size-Weight Frontier for Synthetic-Augmented Inference](https://blog.darkwood.com/article/arxiv-creator-stat-ml-learning-a-size-weight-frontier-for-synthetic-augmented-inference)
-- [🤖 Darkwood Watch - 2026-08-31](https://blog.darkwood.com/article/darkwood-watch-2026-08-31)
-- [💫 Hacker News Creator - Hy4 preview](https://blog.darkwood.com/article/hacker-news-creator-hy4-preview)
+- [🤖 Darkwood Watch - 2026-09-02](https://blog.darkwood.com/article/darkwood-watch-2026-09-02)
+- [🚀 Darkwood v8.1.6 released](https://blog.darkwood.com/article/darkwood-v8-1-6-released)
+- [💫 Bluesky Creator - @aurelievache: Two Accessibility Engineering Roles at Apple](https://blog.darkwood.com/article/bluesky-creator-aurelievache-two-accessibility-engineering-roles-at-apple)
+- [💫 Hacker News Creator - RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://blog.darkwood.com/article/hacker-news-creator-ravynos-pre-alpha-open-source-os-based-on-darwin-freebsd-apple-open-source)
+- [💫 Reddit Creator - r/opensource: mloda 0.11: turned a bare "not found" resolver error into a full elimination trail](https://blog.darkwood.com/article/reddit-creator-r-opensource-mloda-0-11-turned-a-bare-not-found-resolver-error-into-a-full-elimination-trail)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
