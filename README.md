@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-09-03](https://blog.darkwood.com/article/darkwood-watch-2026-09-03)
-- [💫 Bluesky Creator - @martinfowler.com: Maybe We Shouldn't Be Reviewing All This Code](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-maybe-we-shouldn-t-be-reviewing-all-this-code)
-- [💫 Hacker News Creator - Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://blog.darkwood.com/article/hacker-news-creator-running-104gb-qwen3-8-flash-next-on-48gb-mac-with-at-12-tok-s)
-- [💫 Reddit Creator - r/opensource: MIR with AudioMuse-AI-SAE [P]](https://blog.darkwood.com/article/reddit-creator-r-opensource-mir-with-audiomuse-ai-sae-p)
-- [💫 arXiv Creator - stat.ML: Pointwise Majorization for sub-Weibull and Mixed Tail Processes with Applications in Quadratic Chaos and Ergodic Diffusions](https://blog.darkwood.com/article/arxiv-creator-stat-ml-pointwise-majorization-for-sub-weibull-and-mixed-tail-processes-with-applications-in-quadratic-chaos-and-ergodic-diffusions)
+- [🤖 Darkwood Watch - 2026-09-04](https://blog.darkwood.com/article/darkwood-watch-2026-09-04)
+- [💫 Bluesky Creator - @martinfowler.com: Fragments on LLM Clichés and Autonomous Agents](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-llm-cliches-and-autonomous-agents)
+- [💫 Hacker News Creator - Audacity 4.0](https://blog.darkwood.com/article/hacker-news-creator-audacity-4-0)
+- [💫 Reddit Creator - r/NixOS: Steam will not start](https://blog.darkwood.com/article/reddit-creator-r-nixos-steam-will-not-start)
+- [💫 arXiv Creator - stat.ML: Improved Gradient Descent Lower Bounds Beyond Nesterov](https://blog.darkwood.com/article/arxiv-creator-stat-ml-improved-gradient-descent-lower-bounds-beyond-nesterov)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
