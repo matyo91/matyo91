@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-09-04](https://blog.darkwood.com/article/darkwood-watch-2026-09-04)
-- [💫 Bluesky Creator - @martinfowler.com: Fragments on LLM Clichés and Autonomous Agents](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-llm-cliches-and-autonomous-agents)
-- [💫 Hacker News Creator - Audacity 4.0](https://blog.darkwood.com/article/hacker-news-creator-audacity-4-0)
-- [💫 Reddit Creator - r/NixOS: Steam will not start](https://blog.darkwood.com/article/reddit-creator-r-nixos-steam-will-not-start)
-- [💫 arXiv Creator - stat.ML: Improved Gradient Descent Lower Bounds Beyond Nesterov](https://blog.darkwood.com/article/arxiv-creator-stat-ml-improved-gradient-descent-lower-bounds-beyond-nesterov)
+- [💫 Bluesky Creator - @martinfowler.com: NEW POST](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-new-post-1)
+- [💫 Hacker News Creator - K2 Horizon: A connected fleet of six open models](https://blog.darkwood.com/article/hacker-news-creator-k2-horizon-a-connected-fleet-of-six-open-models)
+- [💫 Reddit Creator - r/opensource: Tubeist - a free live streaming app for YouTube with up to 4K 60FPS HDR](https://blog.darkwood.com/article/reddit-creator-r-opensource-tubeist-a-free-live-streaming-app-for-youtube-with-up-to-4k-60fps-hdr)
+- [💫 arXiv Creator - stat.ML: Cooperative Multi-Task Semantic Communication for Joint Classification and Regression Tasks](https://blog.darkwood.com/article/arxiv-creator-stat-ml-cooperative-multi-task-semantic-communication-for-joint-classification-and-regression-tasks)
+- [💫 GitHub Creator - api-platform: api-platform/core v4.3.18](https://blog.darkwood.com/article/github-creator-api-platform-api-platform-core-v4-3-18)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
