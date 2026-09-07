@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - AI handles incidents, engineers lose touch with their systems](https://blog.darkwood.com/article/hacker-news-creator-ai-handles-incidents-engineers-lose-touch-with-their-systems)
-- [💫 Reddit Creator - r/opensource: Has anyone used AI Airlock?](https://blog.darkwood.com/article/reddit-creator-r-opensource-has-anyone-used-ai-airlock)
-- [🤖 Darkwood Watch - 2026-09-05](https://blog.darkwood.com/article/darkwood-watch-2026-09-05)
-- [💫 Bluesky Creator - @martinfowler.com: NEW POST](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-new-post-1)
-- [💫 Hacker News Creator - K2 Horizon: A connected fleet of six open models](https://blog.darkwood.com/article/hacker-news-creator-k2-horizon-a-connected-fleet-of-six-open-models)
+- [🤖 Darkwood Watch - 2026-09-07](https://blog.darkwood.com/article/darkwood-watch-2026-09-07)
+- [💫 Hacker News Creator - Chrome again exempts Google from user site data settings](https://blog.darkwood.com/article/hacker-news-creator-chrome-again-exempts-google-from-user-site-data-settings)
+- [🌐 Nolife Langage - Don't say cost. Say investment.](https://blog.darkwood.com/article/nolife-langage-don-t-say-cost-say-investment)
+- [💫 Reddit Creator - r/opensource: A developer scraped my AGPL-3.0 app, stripped my attribution, and put it on app stores as a paid closed-source binary.](https://blog.darkwood.com/article/reddit-creator-r-opensource-a-developer-scraped-my-agpl-3-0-app-stripped-my-attribution-and-put-it-on-app-stores-as-a-paid-closed-source-binary)
+- [🤖 Darkwood Watch - 2026-09-06](https://blog.darkwood.com/article/darkwood-watch-2026-09-06)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
