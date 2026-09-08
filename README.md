@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-09-08](https://blog.darkwood.com/article/darkwood-watch-2026-09-08)
+- [💫 Hacker News Creator - Your intellectual fly is open when you use an LLM to author a post (2025)](https://blog.darkwood.com/article/hacker-news-creator-your-intellectual-fly-is-open-when-you-use-an-llm-to-author-a-post-2025)
+- [💫 Reddit Creator - r/opensource: [Showoff] Ultimate File Manager Pro - Now supporting rooted devices](https://blog.darkwood.com/article/reddit-creator-r-opensource-showoff-ultimate-file-manager-pro-now-supporting-rooted-devices)
+- [💫 arXiv Creator - stat.ML: Learning from VAE Errors to support ECG-based Differential Diagnosis of Myocardial Scar](https://blog.darkwood.com/article/arxiv-creator-stat-ml-learning-from-vae-errors-to-support-ecg-based-differential-diagnosis-of-myocardial-scar)
 - [🤖 Darkwood Watch - 2026-09-07](https://blog.darkwood.com/article/darkwood-watch-2026-09-07)
-- [💫 Hacker News Creator - Chrome again exempts Google from user site data settings](https://blog.darkwood.com/article/hacker-news-creator-chrome-again-exempts-google-from-user-site-data-settings)
-- [🌐 Nolife Langage - Don't say cost. Say investment.](https://blog.darkwood.com/article/nolife-langage-don-t-say-cost-say-investment)
-- [💫 Reddit Creator - r/opensource: A developer scraped my AGPL-3.0 app, stripped my attribution, and put it on app stores as a paid closed-source binary.](https://blog.darkwood.com/article/reddit-creator-r-opensource-a-developer-scraped-my-agpl-3-0-app-stripped-my-attribution-and-put-it-on-app-stores-as-a-paid-closed-source-binary)
-- [🤖 Darkwood Watch - 2026-09-06](https://blog.darkwood.com/article/darkwood-watch-2026-09-06)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
