@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Bluesky Creator - @francoisz: StyleX Revolutionizes CSS-in-JS](https://blog.darkwood.com/article/bluesky-creator-francoisz-stylex-revolutionizes-css-in-js)
+- [💫 Hacker News Creator - Mistral raises €3B](https://blog.darkwood.com/article/hacker-news-creator-mistral-raises-eur3b)
+- [💫 Reddit Creator - r/opensource: ESplayer - open source IPTV player for android and desktop](https://blog.darkwood.com/article/reddit-creator-r-opensource-esplayer-open-source-iptv-player-for-android-and-desktop)
+- [💫 GitHub Creator - doctrine: doctrine/orm: 3.7.0](https://blog.darkwood.com/article/github-creator-doctrine-doctrine-orm-3-7-0)
 - [🤖 Darkwood Watch - 2026-09-08](https://blog.darkwood.com/article/darkwood-watch-2026-09-08)
-- [💫 Hacker News Creator - Your intellectual fly is open when you use an LLM to author a post (2025)](https://blog.darkwood.com/article/hacker-news-creator-your-intellectual-fly-is-open-when-you-use-an-llm-to-author-a-post-2025)
-- [💫 Reddit Creator - r/opensource: [Showoff] Ultimate File Manager Pro - Now supporting rooted devices](https://blog.darkwood.com/article/reddit-creator-r-opensource-showoff-ultimate-file-manager-pro-now-supporting-rooted-devices)
-- [💫 arXiv Creator - stat.ML: Learning from VAE Errors to support ECG-based Differential Diagnosis of Myocardial Scar](https://blog.darkwood.com/article/arxiv-creator-stat-ml-learning-from-vae-errors-to-support-ecg-based-differential-diagnosis-of-myocardial-scar)
-- [🤖 Darkwood Watch - 2026-09-07](https://blog.darkwood.com/article/darkwood-watch-2026-09-07)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
