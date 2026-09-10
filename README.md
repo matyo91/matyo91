@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Bluesky Creator - @francoisz: StyleX Revolutionizes CSS-in-JS](https://blog.darkwood.com/article/bluesky-creator-francoisz-stylex-revolutionizes-css-in-js)
-- [💫 Hacker News Creator - Mistral raises €3B](https://blog.darkwood.com/article/hacker-news-creator-mistral-raises-eur3b)
-- [💫 Reddit Creator - r/opensource: ESplayer - open source IPTV player for android and desktop](https://blog.darkwood.com/article/reddit-creator-r-opensource-esplayer-open-source-iptv-player-for-android-and-desktop)
-- [💫 GitHub Creator - doctrine: doctrine/orm: 3.7.0](https://blog.darkwood.com/article/github-creator-doctrine-doctrine-orm-3-7-0)
-- [🤖 Darkwood Watch - 2026-09-08](https://blog.darkwood.com/article/darkwood-watch-2026-09-08)
+- [💫 Bluesky Creator - @martinfowler.com: Fragments on AI's Utility](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-ai-s-utility)
+- [💫 Hacker News Creator - Muse – Meta’s personal AI agent](https://blog.darkwood.com/article/hacker-news-creator-muse-meta-s-personal-ai-agent)
+- [💫 Reddit Creator - r/opensource: what should an open source offline video editor support?](https://blog.darkwood.com/article/reddit-creator-r-opensource-what-should-an-open-source-offline-video-editor-support)
+- [💫 arXiv Creator - cs.AI: TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](https://blog.darkwood.com/article/arxiv-creator-cs-ai-tango-humanoid-navigation-in-cluttered-environments-with-a-whole-body-vision-language-action-model)
+- [💫 GitHub Creator - Laravel: laravel/framework: v13.31.0](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework-v13-31-0)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
