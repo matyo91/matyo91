@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Bluesky Creator - @martinfowler.com: Fragments on AI's Utility](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-ai-s-utility)
-- [💫 Hacker News Creator - Muse – Meta’s personal AI agent](https://blog.darkwood.com/article/hacker-news-creator-muse-meta-s-personal-ai-agent)
-- [💫 Reddit Creator - r/opensource: what should an open source offline video editor support?](https://blog.darkwood.com/article/reddit-creator-r-opensource-what-should-an-open-source-offline-video-editor-support)
-- [💫 arXiv Creator - cs.AI: TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](https://blog.darkwood.com/article/arxiv-creator-cs-ai-tango-humanoid-navigation-in-cluttered-environments-with-a-whole-body-vision-language-action-model)
-- [💫 GitHub Creator - Laravel: laravel/framework: v13.31.0](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework-v13-31-0)
+- [💫 Bluesky Creator - @martinfowler.com: NEW POST](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-new-post-2)
+- [💫 Hacker News Creator - Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://blog.darkwood.com/article/hacker-news-creator-muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent)
+- [💫 Reddit Creator - r/opensource: Fredy: Apache-2.0 real estate finder that builds its own local price index out of the listings it has already scraped](https://blog.darkwood.com/article/reddit-creator-r-opensource-fredy-apache-2-0-real-estate-finder-that-builds-its-own-local-price-index-out-of-the-listings-it-has-already-scraped)
+- [💫 arXiv Creator - cs.LG: Likelihood-free inference with nuisance parameters through normalizing flows](https://blog.darkwood.com/article/arxiv-creator-cs-lg-likelihood-free-inference-with-nuisance-parameters-through-normalizing-flows)
+- [🤖 Darkwood Watch - 2026-09-10](https://blog.darkwood.com/article/darkwood-watch-2026-09-10)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
