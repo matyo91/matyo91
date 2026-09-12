@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Ask HN: Can we please limit the AI news flood?](https://blog.darkwood.com/article/hacker-news-creator-ask-hn-can-we-please-limit-the-ai-news-flood)
+- [💫 Reddit Creator - r/opensource: VLC steps forward one frame but never backward. I finally built the missing half.](https://blog.darkwood.com/article/reddit-creator-r-opensource-vlc-steps-forward-one-frame-but-never-backward-i-finally-built-the-missing-half)
+- [💫 arXiv Creator - cs.LG: General Quantification of Covariate and Concept Shifts](https://blog.darkwood.com/article/arxiv-creator-cs-lg-general-quantification-of-covariate-and-concept-shifts)
+- [🤖 Darkwood Watch - 2026-09-11](https://blog.darkwood.com/article/darkwood-watch-2026-09-11)
 - [💫 Bluesky Creator - @martinfowler.com: NEW POST](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-new-post-2)
-- [💫 Hacker News Creator - Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://blog.darkwood.com/article/hacker-news-creator-muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent)
-- [💫 Reddit Creator - r/opensource: Fredy: Apache-2.0 real estate finder that builds its own local price index out of the listings it has already scraped](https://blog.darkwood.com/article/reddit-creator-r-opensource-fredy-apache-2-0-real-estate-finder-that-builds-its-own-local-price-index-out-of-the-listings-it-has-already-scraped)
-- [💫 arXiv Creator - cs.LG: Likelihood-free inference with nuisance parameters through normalizing flows](https://blog.darkwood.com/article/arxiv-creator-cs-lg-likelihood-free-inference-with-nuisance-parameters-through-normalizing-flows)
-- [🤖 Darkwood Watch - 2026-09-10](https://blog.darkwood.com/article/darkwood-watch-2026-09-10)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
