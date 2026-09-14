@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - google.com/goto: Google's anti-scraping update](https://blog.darkwood.com/article/hacker-news-creator-google-com-goto-google-s-anti-scraping-update)
-- [🤖 Darkwood Watch - 2026-09-12](https://blog.darkwood.com/article/darkwood-watch-2026-09-12)
-- [💫 Reddit Creator - r/opensource: I built an open-source CLI for turning YouTube videos into Anki vocabulary decks](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-built-an-open-source-cli-for-turning-youtube-videos-into-anki-vocabulary-decks)
-- [💫 Hacker News Creator - Ask HN: Can we please limit the AI news flood?](https://blog.darkwood.com/article/hacker-news-creator-ask-hn-can-we-please-limit-the-ai-news-flood)
-- [💫 Reddit Creator - r/opensource: VLC steps forward one frame but never backward. I finally built the missing half.](https://blog.darkwood.com/article/reddit-creator-r-opensource-vlc-steps-forward-one-frame-but-never-backward-i-finally-built-the-missing-half)
+- [🤖 Darkwood Watch - 2026-09-14](https://blog.darkwood.com/article/darkwood-watch-2026-09-14)
+- [💫 Hacker News Creator - We must pace the frontier](https://blog.darkwood.com/article/hacker-news-creator-we-must-pace-the-frontier)
+- [⚡ PHP Speed Tooling: Partial Function Application, Tokens and Flow](https://blog.darkwood.com/article/php-speed-tooling-partial-function-application-tokens-and-flow)
+- [💫 Reddit Creator - r/opensource: Deep Dog 2: I made the fifth best ranked deep research agent and am releasing it completely open source.](https://blog.darkwood.com/article/reddit-creator-r-opensource-deep-dog-2-i-made-the-fifth-best-ranked-deep-research-agent-and-am-releasing-it-completely-open-source)
+- [🤖 Darkwood Watch - 2026-09-13](https://blog.darkwood.com/article/darkwood-watch-2026-09-13)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
