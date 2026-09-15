@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-09-14](https://blog.darkwood.com/article/darkwood-watch-2026-09-14)
-- [💫 Hacker News Creator - We must pace the frontier](https://blog.darkwood.com/article/hacker-news-creator-we-must-pace-the-frontier)
-- [⚡ PHP Speed Tooling: Partial Function Application, Tokens and Flow](https://blog.darkwood.com/article/php-speed-tooling-partial-function-application-tokens-and-flow)
-- [💫 Reddit Creator - r/opensource: Deep Dog 2: I made the fifth best ranked deep research agent and am releasing it completely open source.](https://blog.darkwood.com/article/reddit-creator-r-opensource-deep-dog-2-i-made-the-fifth-best-ranked-deep-research-agent-and-am-releasing-it-completely-open-source)
-- [🤖 Darkwood Watch - 2026-09-13](https://blog.darkwood.com/article/darkwood-watch-2026-09-13)
+- [🤖 Darkwood Watch - 2026-09-15](https://blog.darkwood.com/article/darkwood-watch-2026-09-15)
+- [💫 Hacker News Creator - Apple's Dimensional Drawings](https://blog.darkwood.com/article/hacker-news-creator-apple-s-dimensional-drawings)
+- [💫 Reddit Creator - r/opensource: CliDeck V2 is out with projects, live status, collaboration across CLI providers, and auto previews (docs, html, images, videos, etc) by your agents.](https://blog.darkwood.com/article/reddit-creator-r-opensource-clideck-v2-is-out-with-projects-live-status-collaboration-across-cli-providers-and-auto-previews-docs-html-images-videos-etc-by-your-agents)
+- [💫 arXiv Creator - cs.AI: Rethinking Heterogeneous System Disaggregation for Subquadratic Attention](https://blog.darkwood.com/article/arxiv-creator-cs-ai-rethinking-heterogeneous-system-disaggregation-for-subquadratic-attention)
+- [💫 GitHub Creator - argoproj: argoproj/argo-cd v3.5.3](https://blog.darkwood.com/article/github-creator-argoproj-argoproj-argo-cd-v3-5-3)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
