@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-09-16](https://blog.darkwood.com/article/darkwood-watch-2026-09-16)
-- [💫 Hacker News Creator - Suspected sabotage causes major Netherlands rail disruption](https://blog.darkwood.com/article/hacker-news-creator-suspected-sabotage-causes-major-netherlands-rail-disruption)
-- [💫 Reddit Creator - r/opensource: Valve has repeatedly violated GPL license and have ignored my requests. What can I do next?](https://blog.darkwood.com/article/reddit-creator-r-opensource-valve-has-repeatedly-violated-gpl-license-and-have-ignored-my-requests-what-can-i-do-next)
-- [💫 arXiv Creator - cs.LG: Bellman Policy Optimization](https://blog.darkwood.com/article/arxiv-creator-cs-lg-bellman-policy-optimization)
-- [🤖 Darkwood Watch - 2026-09-15](https://blog.darkwood.com/article/darkwood-watch-2026-09-15)
+- [♿ A11Y Lutèce #6 at Upfast: Accessibility as a Process, Not a Backlog Item](https://blog.darkwood.com/article/a11y-lutece-6-at-upfast-accessibility-as-a-process-not-a-backlog-item)
+- [💫 Hacker News Creator - We got admin access to Baseten's production GitHub](https://blog.darkwood.com/article/hacker-news-creator-we-got-admin-access-to-baseten-s-production-github)
+- [💫 Reddit Creator - r/opensource: Archinstoo - Arch linux installer](https://blog.darkwood.com/article/reddit-creator-r-opensource-archinstoo-arch-linux-installer)
+- [💫 arXiv Creator - cs.LG: ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation](https://blog.darkwood.com/article/arxiv-creator-cs-lg-encp-episode-normalized-conformal-prediction-for-vision-and-language-navigation)
+- [💫 GitHub Creator - cilium: cilium/cilium: 1.18.14](https://blog.darkwood.com/article/github-creator-cilium-cilium-cilium-1-18-14)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
