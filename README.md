@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [♿ A11Y Lutèce #6 at Upfast: Accessibility as a Process, Not a Backlog Item](https://blog.darkwood.com/article/a11y-lutece-6-at-upfast-accessibility-as-a-process-not-a-backlog-item)
-- [💫 Hacker News Creator - We got admin access to Baseten's production GitHub](https://blog.darkwood.com/article/hacker-news-creator-we-got-admin-access-to-baseten-s-production-github)
-- [💫 Reddit Creator - r/opensource: Archinstoo - Arch linux installer](https://blog.darkwood.com/article/reddit-creator-r-opensource-archinstoo-arch-linux-installer)
-- [💫 arXiv Creator - cs.LG: ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation](https://blog.darkwood.com/article/arxiv-creator-cs-lg-encp-episode-normalized-conformal-prediction-for-vision-and-language-navigation)
-- [💫 GitHub Creator - cilium: cilium/cilium: 1.18.14](https://blog.darkwood.com/article/github-creator-cilium-cilium-cilium-1-18-14)
+- [🤖 Darkwood Watch - 2026-09-18](https://blog.darkwood.com/article/darkwood-watch-2026-09-18)
+- [💫 Bluesky Creator - @martinfowler.com: NEW POST](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-new-post-3)
+- [💫 Hacker News Creator - Xiaomi Mimo 2.6 live post-training dashboard](https://blog.darkwood.com/article/hacker-news-creator-xiaomi-mimo-2-6-live-post-training-dashboard)
+- [💫 Reddit Creator - r/opensource: Trade/borrow network?](https://blog.darkwood.com/article/reddit-creator-r-opensource-trade-borrow-network)
+- [💫 arXiv Creator - stat.ML: A General Kernel Framework for Non-CND Distance Measures Using |D|-Dimensional Sparse Landmark Embeddings](https://blog.darkwood.com/article/arxiv-creator-stat-ml-a-general-kernel-framework-for-non-cnd-distance-measures-using-d-dimensional-sparse-landmark-embeddings)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
