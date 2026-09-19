@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-09-18](https://blog.darkwood.com/article/darkwood-watch-2026-09-18)
-- [💫 Bluesky Creator - @martinfowler.com: NEW POST](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-new-post-3)
-- [💫 Hacker News Creator - Xiaomi Mimo 2.6 live post-training dashboard](https://blog.darkwood.com/article/hacker-news-creator-xiaomi-mimo-2-6-live-post-training-dashboard)
-- [💫 Reddit Creator - r/opensource: Trade/borrow network?](https://blog.darkwood.com/article/reddit-creator-r-opensource-trade-borrow-network)
-- [💫 arXiv Creator - stat.ML: A General Kernel Framework for Non-CND Distance Measures Using |D|-Dimensional Sparse Landmark Embeddings](https://blog.darkwood.com/article/arxiv-creator-stat-ml-a-general-kernel-framework-for-non-cnd-distance-measures-using-d-dimensional-sparse-landmark-embeddings)
+- [💫 Bluesky Creator - @martinfowler.com: Fragments on RubyGems Hack](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-rubygems-hack)
+- [💫 Hacker News Creator - Bend 2 and the Vibe-Coding Trap](https://blog.darkwood.com/article/hacker-news-creator-bend-2-and-the-vibe-coding-trap)
+- [💫 Reddit Creator - r/opensource: Couldn’t find a FOSS resilience layer for SearXNG, so I built one](https://blog.darkwood.com/article/reddit-creator-r-opensource-couldn-t-find-a-foss-resilience-layer-for-searxng-so-i-built-one)
+- [💫 arXiv Creator - stat.ML: Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation](https://blog.darkwood.com/article/arxiv-creator-stat-ml-prediction-powered-smoothing-and-validation-for-disaggregated-ai-evaluation)
+- [💫 GitHub Creator - twigphp: twigphp/twig: v3.29.0](https://blog.darkwood.com/article/github-creator-twigphp-twigphp-twig-v3-29-0)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
