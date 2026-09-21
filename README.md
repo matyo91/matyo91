@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Claude Code now reads AGENTS.md if there is no Claude.md](https://blog.darkwood.com/article/hacker-news-creator-claude-code-now-reads-agents-md-if-there-is-no-claude-md)
-- [💫 Reddit Creator - r/opensource: Introducing Presume, an MIT-licensed property-based testing library for Java](https://blog.darkwood.com/article/reddit-creator-r-opensource-introducing-presume-an-mit-licensed-property-based-testing-library-for-java)
-- [🤖 Darkwood Watch - 2026-09-19](https://blog.darkwood.com/article/darkwood-watch-2026-09-19)
-- [💫 Bluesky Creator - @martinfowler.com: Fragments on RubyGems Hack](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-rubygems-hack)
-- [💫 Hacker News Creator - Bend 2 and the Vibe-Coding Trap](https://blog.darkwood.com/article/hacker-news-creator-bend-2-and-the-vibe-coding-trap)
+- [🤖 Darkwood Watch - 2026-09-21](https://blog.darkwood.com/article/darkwood-watch-2026-09-21)
+- [💫 Hacker News Creator - Two parallel neural ectoderm progenitors contribute to the developing brain](https://blog.darkwood.com/article/hacker-news-creator-two-parallel-neural-ectoderm-progenitors-contribute-to-the-developing-brain)
+- [🔑 Secret Keys Become Application Data](https://blog.darkwood.com/article/secret-keys-become-application-data)
+- [💫 Reddit Creator - r/opensource: Would an open-source CAPTCHA project be a good idea?](https://blog.darkwood.com/article/reddit-creator-r-opensource-would-an-open-source-captcha-project-be-a-good-idea)
+- [🤖 Darkwood Watch - 2026-09-20](https://blog.darkwood.com/article/darkwood-watch-2026-09-20)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
