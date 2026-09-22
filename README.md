@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - AX – Google’s Open Agentic Orchestrator](https://blog.darkwood.com/article/hacker-news-creator-ax-google-s-open-agentic-orchestrator)
+- [💫 Reddit Creator - r/opensource: Play Windows Games for Free on Apple Silicon](https://blog.darkwood.com/article/reddit-creator-r-opensource-play-windows-games-for-free-on-apple-silicon)
+- [💫 arXiv Creator - stat.ML: Moral Entropy: Auditing Bias and Uncertainty in Moral Judgment](https://blog.darkwood.com/article/arxiv-creator-stat-ml-moral-entropy-auditing-bias-and-uncertainty-in-moral-judgment)
 - [🤖 Darkwood Watch - 2026-09-21](https://blog.darkwood.com/article/darkwood-watch-2026-09-21)
 - [💫 Hacker News Creator - Two parallel neural ectoderm progenitors contribute to the developing brain](https://blog.darkwood.com/article/hacker-news-creator-two-parallel-neural-ectoderm-progenitors-contribute-to-the-developing-brain)
-- [🔑 Secret Keys Become Application Data](https://blog.darkwood.com/article/secret-keys-become-application-data)
-- [💫 Reddit Creator - r/opensource: Would an open-source CAPTCHA project be a good idea?](https://blog.darkwood.com/article/reddit-creator-r-opensource-would-an-open-source-captcha-project-be-a-good-idea)
-- [🤖 Darkwood Watch - 2026-09-20](https://blog.darkwood.com/article/darkwood-watch-2026-09-20)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
