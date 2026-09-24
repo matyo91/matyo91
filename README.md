@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-09-24](https://blog.darkwood.com/article/darkwood-watch-2026-09-24)
+- [💫 Hacker News Creator - SAML: A fractal of bad design](https://blog.darkwood.com/article/hacker-news-creator-saml-a-fractal-of-bad-design)
+- [💫 Reddit Creator - r/opensource: I HATE MS Paint, so I made OS-Paint](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-hate-ms-paint-so-i-made-os-paint)
+- [💫 arXiv Creator - stat.ML: A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing](https://blog.darkwood.com/article/arxiv-creator-stat-ml-a-decentralized-partially-observable-team-decision-methodology-with-delayed-information-sharing)
 - [🤖 Darkwood Watch - 2026-09-23](https://blog.darkwood.com/article/darkwood-watch-2026-09-23)
-- [💫 Hacker News Creator - MiMo v2.6](https://blog.darkwood.com/article/hacker-news-creator-mimo-v2-6)
-- [💫 Reddit Creator - r/opensource: LATTICE - A FREE browser DAW/UI on top of strudel](https://blog.darkwood.com/article/reddit-creator-r-opensource-lattice-a-free-browser-daw-ui-on-top-of-strudel)
-- [💫 arXiv Creator - stat.ML: JAREX: An Acquisition Function for Multi-Objective Algorithmic Process Characterization](https://blog.darkwood.com/article/arxiv-creator-stat-ml-jarex-an-acquisition-function-for-multi-objective-algorithmic-process-characterization)
-- [🤖 Darkwood Watch - 2026-09-22](https://blog.darkwood.com/article/darkwood-watch-2026-09-22)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
