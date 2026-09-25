@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-09-24](https://blog.darkwood.com/article/darkwood-watch-2026-09-24)
-- [💫 Hacker News Creator - SAML: A fractal of bad design](https://blog.darkwood.com/article/hacker-news-creator-saml-a-fractal-of-bad-design)
-- [💫 Reddit Creator - r/opensource: I HATE MS Paint, so I made OS-Paint](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-hate-ms-paint-so-i-made-os-paint)
-- [💫 arXiv Creator - stat.ML: A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing](https://blog.darkwood.com/article/arxiv-creator-stat-ml-a-decentralized-partially-observable-team-decision-methodology-with-delayed-information-sharing)
-- [🤖 Darkwood Watch - 2026-09-23](https://blog.darkwood.com/article/darkwood-watch-2026-09-23)
+- [💫 Bluesky Creator - @martinfowler.com: Human Collaboration through Feedback](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-human-collaboration-through-feedback)
+- [💫 Hacker News Creator - Linux support is coming to Snapdragon X2 Series](https://blog.darkwood.com/article/hacker-news-creator-linux-support-is-coming-to-snapdragon-x2-series)
+- [💫 Reddit Creator - r/opensource: New open weights: Ming adds a design generator and a separate layer-decomposition model](https://blog.darkwood.com/article/reddit-creator-r-opensource-new-open-weights-ming-adds-a-design-generator-and-a-separate-layer-decomposition-model)
+- [💫 arXiv Creator - cs.AI: StudentBench: AI and human tutoring yield equivalent GRE learning gains](https://blog.darkwood.com/article/arxiv-creator-cs-ai-studentbench-ai-and-human-tutoring-yield-equivalent-gre-learning-gains)
+- [💫 GitHub Creator - Kubernetes: kubernetes/kubernetes: v1.34.12](https://blog.darkwood.com/article/github-creator-kubernetes-kubernetes-kubernetes-v1-34-12)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
