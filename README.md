@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-09-25](https://blog.darkwood.com/article/darkwood-watch-2026-09-25)
-- [💫 Bluesky Creator - @martinfowler.com: Human Collaboration through Feedback](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-human-collaboration-through-feedback)
-- [💫 Hacker News Creator - Linux support is coming to Snapdragon X2 Series](https://blog.darkwood.com/article/hacker-news-creator-linux-support-is-coming-to-snapdragon-x2-series)
-- [💫 Reddit Creator - r/opensource: New open weights: Ming adds a design generator and a separate layer-decomposition model](https://blog.darkwood.com/article/reddit-creator-r-opensource-new-open-weights-ming-adds-a-design-generator-and-a-separate-layer-decomposition-model)
-- [💫 arXiv Creator - cs.AI: StudentBench: AI and human tutoring yield equivalent GRE learning gains](https://blog.darkwood.com/article/arxiv-creator-cs-ai-studentbench-ai-and-human-tutoring-yield-equivalent-gre-learning-gains)
+- [🤖 Darkwood Watch - 2026-09-27](https://blog.darkwood.com/article/darkwood-watch-2026-09-27)
+- [💫 Bluesky Creator - @martinfowler.com: Fragments and AI Risks](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-and-ai-risks)
+- [💫 Hacker News Creator - Revealing the details of how OpenAI agents hacked Hugging Face](https://blog.darkwood.com/article/hacker-news-creator-revealing-the-details-of-how-openai-agents-hacked-hugging-face)
+- [💫 Reddit Creator - r/opensource: Open Volar S Project: TV Tuner (A865R) now on Linux!](https://blog.darkwood.com/article/reddit-creator-r-opensource-open-volar-s-project-tv-tuner-a865r-now-on-linux)
+- [🤖 Darkwood Watch - 2026-09-26](https://blog.darkwood.com/article/darkwood-watch-2026-09-26)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
