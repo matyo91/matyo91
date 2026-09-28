@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [♟️ From Jev to Darkwaar: Building a Game About Decisions and Uncertainty](https://blog.darkwood.com/article/from-jev-to-darkwaar-building-a-game-about-decisions-and-uncertainty-1)
+- [💫 Hacker News Creator - OpenAI Feared "Optics" of what might appear on Hacker News](https://blog.darkwood.com/article/hacker-news-creator-openai-feared-optics-of-what-might-appear-on-hacker-news)
+- [From Jev to Darkwaar: Building a Game About Decisions and Uncertainty](https://blog.darkwood.com/article/from-jev-to-darkwaar-building-a-game-about-decisions-and-uncertainty)
+- [💫 Reddit Creator - r/opensource: I found this open source, self-hosted alternative to Trakt/Letterboxd /etc.](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-found-this-open-source-self-hosted-alternative-to-trakt-letterboxd-etc)
 - [🤖 Darkwood Watch - 2026-09-27](https://blog.darkwood.com/article/darkwood-watch-2026-09-27)
-- [💫 Bluesky Creator - @martinfowler.com: Fragments and AI Risks](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-and-ai-risks)
-- [💫 Hacker News Creator - Revealing the details of how OpenAI agents hacked Hugging Face](https://blog.darkwood.com/article/hacker-news-creator-revealing-the-details-of-how-openai-agents-hacked-hugging-face)
-- [💫 Reddit Creator - r/opensource: Open Volar S Project: TV Tuner (A865R) now on Linux!](https://blog.darkwood.com/article/reddit-creator-r-opensource-open-volar-s-project-tv-tuner-a865r-now-on-linux)
-- [🤖 Darkwood Watch - 2026-09-26](https://blog.darkwood.com/article/darkwood-watch-2026-09-26)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
