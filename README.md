@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Nissan's third generation e-POWER powertrain](https://blog.darkwood.com/article/hacker-news-creator-nissan-s-third-generation-e-power-powertrain)
-- [💫 Reddit Creator - r/opensource: open source alternative to paid music services](https://blog.darkwood.com/article/reddit-creator-r-opensource-open-source-alternative-to-paid-music-services)
-- [💫 arXiv Creator - cs.AI: Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](https://blog.darkwood.com/article/arxiv-creator-cs-ai-learning-to-stop-without-learning-to-stop-self-supervised-confidence-training-improves-reasoning-efficiency)
-- [🤖 Darkwood Watch - 2026-09-28](https://blog.darkwood.com/article/darkwood-watch-2026-09-28)
-- [♟️ From Jev to Darkwaar: Building a Game About Decisions and Uncertainty](https://blog.darkwood.com/article/from-jev-to-darkwaar-building-a-game-about-decisions-and-uncertainty-1)
+- [💫 Bluesky Creator - @martinfowler.com: Fragments on AI and Programming](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-ai-and-programming)
+- [💫 Hacker News Creator - Coding is not solved](https://blog.darkwood.com/article/hacker-news-creator-coding-is-not-solved)
+- [💫 Reddit Creator - r/opensource: PCart Companion App for Linux](https://blog.darkwood.com/article/reddit-creator-r-opensource-pcart-companion-app-for-linux)
+- [💫 arXiv Creator - stat.ML: Guided Uncertainty-Aware Robust Domain Transfer](https://blog.darkwood.com/article/arxiv-creator-stat-ml-guided-uncertainty-aware-robust-domain-transfer)
+- [🤖 Darkwood Watch - 2026-09-29](https://blog.darkwood.com/article/darkwood-watch-2026-09-29)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
