@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Bluesky Creator - @martinfowler.com: Fragments on AI and Programming](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-ai-and-programming)
-- [💫 Hacker News Creator - Coding is not solved](https://blog.darkwood.com/article/hacker-news-creator-coding-is-not-solved)
-- [💫 Reddit Creator - r/opensource: PCart Companion App for Linux](https://blog.darkwood.com/article/reddit-creator-r-opensource-pcart-companion-app-for-linux)
-- [💫 arXiv Creator - stat.ML: Guided Uncertainty-Aware Robust Domain Transfer](https://blog.darkwood.com/article/arxiv-creator-stat-ml-guided-uncertainty-aware-robust-domain-transfer)
-- [🤖 Darkwood Watch - 2026-09-29](https://blog.darkwood.com/article/darkwood-watch-2026-09-29)
+- [🤖 Darkwood Watch - 2026-10-01](https://blog.darkwood.com/article/darkwood-watch-2026-10-01)
+- [💫 Bluesky Creator - @martinfowler.com: Sensible Defaults](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-sensible-defaults)
+- [💫 Hacker News Creator - Pi.dev: You Said No MCP](https://blog.darkwood.com/article/hacker-news-creator-pi-dev-you-said-no-mcp)
+- [💫 Reddit Creator - r/opensource: How is "free as in speech, not as in beer" not a moot mantra?](https://blog.darkwood.com/article/reddit-creator-r-opensource-how-is-free-as-in-speech-not-as-in-beer-not-a-moot-mantra)
+- [💫 arXiv Creator - stat.ML: ReCIRC: Rectified Conformal Risk Control](https://blog.darkwood.com/article/arxiv-creator-stat-ml-recirc-rectified-conformal-risk-control)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
