@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-10-05](https://blog.darkwood.com/article/darkwood-watch-2026-10-05)
+- [😶 From Noise to a Playable World](https://blog.darkwood.com/article/from-noise-to-a-playable-world)
+- [💫 Hacker News Creator - I quit OpenAI because its culture is broken](https://blog.darkwood.com/article/hacker-news-creator-i-quit-openai-because-its-culture-is-broken)
+- [💫 Reddit Creator - r/opensource: Chop Chop: a simple video splitter](https://blog.darkwood.com/article/reddit-creator-r-opensource-chop-chop-a-simple-video-splitter)
 - [🤖 Darkwood Watch - 2026-10-04](https://blog.darkwood.com/article/darkwood-watch-2026-10-04)
-- [💫 Hacker News Creator - Show HN: Germany's new sovereign AI model Kolibri](https://blog.darkwood.com/article/hacker-news-creator-show-hn-germany-s-new-sovereign-ai-model-kolibri)
-- [💫 Reddit Creator - r/opensource: PrivMeta: An open-source metadata removal tool for privacy-conscious people](https://blog.darkwood.com/article/reddit-creator-r-opensource-privmeta-an-open-source-metadata-removal-tool-for-privacy-conscious-people)
-- [🤖 Darkwood Watch - 2026-10-03](https://blog.darkwood.com/article/darkwood-watch-2026-10-03)
-- [💫 Hacker News Creator - Pi 1.0](https://blog.darkwood.com/article/hacker-news-creator-pi-1-0)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
