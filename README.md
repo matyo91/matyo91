@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-10-05](https://blog.darkwood.com/article/darkwood-watch-2026-10-05)
-- [😶 From Noise to a Playable World](https://blog.darkwood.com/article/from-noise-to-a-playable-world)
-- [💫 Hacker News Creator - I quit OpenAI because its culture is broken](https://blog.darkwood.com/article/hacker-news-creator-i-quit-openai-because-its-culture-is-broken)
-- [💫 Reddit Creator - r/opensource: Chop Chop: a simple video splitter](https://blog.darkwood.com/article/reddit-creator-r-opensource-chop-chop-a-simple-video-splitter)
-- [🤖 Darkwood Watch - 2026-10-04](https://blog.darkwood.com/article/darkwood-watch-2026-10-04)
+- [🤖 Darkwood Watch - 2026-10-06](https://blog.darkwood.com/article/darkwood-watch-2026-10-06)
+- [💫 Hacker News Creator - ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://blog.darkwood.com/article/hacker-news-creator-artcraft-apps-open-source-adobe-compatible-suite-written-in-rust)
+- [💫 Reddit Creator - r/opensource: Kaskas, an open source native macOS break companion with local activity insights](https://blog.darkwood.com/article/reddit-creator-r-opensource-kaskas-an-open-source-native-macos-break-companion-with-local-activity-insights)
+- [💫 arXiv Creator - cs.LG: What Should World Models Forget? Stratified Retention for Continual Adaptation](https://blog.darkwood.com/article/arxiv-creator-cs-lg-what-should-world-models-forget-stratified-retention-for-continual-adaptation)
+- [💫 GitHub Creator - phpstan: phpstan/phpstan: 2.2.17](https://blog.darkwood.com/article/github-creator-phpstan-phpstan-phpstan-2-2-17)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
