@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-10-07](https://blog.darkwood.com/article/darkwood-watch-2026-10-07)
+- [💫 Hacker News Creator - JetBrains reported a net financial loss first time in its tracked history](https://blog.darkwood.com/article/hacker-news-creator-jetbrains-reported-a-net-financial-loss-first-time-in-its-tracked-history)
+- [💫 Reddit Creator - r/opensource: Rego tells you yes/no - Ergo tells you why](https://blog.darkwood.com/article/reddit-creator-r-opensource-rego-tells-you-yes-no-ergo-tells-you-why)
+- [💫 arXiv Creator - stat.ML: Direct Intermediate Initialization for Tilted Diffusion Samplers](https://blog.darkwood.com/article/arxiv-creator-stat-ml-direct-intermediate-initialization-for-tilted-diffusion-samplers)
 - [🤖 Darkwood Watch - 2026-10-06](https://blog.darkwood.com/article/darkwood-watch-2026-10-06)
-- [💫 Hacker News Creator - ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://blog.darkwood.com/article/hacker-news-creator-artcraft-apps-open-source-adobe-compatible-suite-written-in-rust)
-- [💫 Reddit Creator - r/opensource: Kaskas, an open source native macOS break companion with local activity insights](https://blog.darkwood.com/article/reddit-creator-r-opensource-kaskas-an-open-source-native-macos-break-companion-with-local-activity-insights)
-- [💫 arXiv Creator - cs.LG: What Should World Models Forget? Stratified Retention for Continual Adaptation](https://blog.darkwood.com/article/arxiv-creator-cs-lg-what-should-world-models-forget-stratified-retention-for-continual-adaptation)
-- [💫 GitHub Creator - phpstan: phpstan/phpstan: 2.2.17](https://blog.darkwood.com/article/github-creator-phpstan-phpstan-phpstan-2-2-17)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
