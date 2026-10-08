@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-10-08](https://blog.darkwood.com/article/darkwood-watch-2026-10-08)
+- [💫 Hacker News Creator - Sharing AI progress in mathematics](https://blog.darkwood.com/article/hacker-news-creator-sharing-ai-progress-in-mathematics)
+- [💫 Reddit Creator - r/opensource: Game of Ur - Available on Windows, Linux (Arch, Debian)](https://blog.darkwood.com/article/reddit-creator-r-opensource-game-of-ur-available-on-windows-linux-arch-debian)
+- [💫 arXiv Creator - cs.AI: 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](https://blog.darkwood.com/article/arxiv-creator-cs-ai-4d-hof-hand-object-flow-matching-for-feed-forward-4d-interaction-reconstruction)
 - [🤖 Darkwood Watch - 2026-10-07](https://blog.darkwood.com/article/darkwood-watch-2026-10-07)
-- [💫 Hacker News Creator - JetBrains reported a net financial loss first time in its tracked history](https://blog.darkwood.com/article/hacker-news-creator-jetbrains-reported-a-net-financial-loss-first-time-in-its-tracked-history)
-- [💫 Reddit Creator - r/opensource: Rego tells you yes/no - Ergo tells you why](https://blog.darkwood.com/article/reddit-creator-r-opensource-rego-tells-you-yes-no-ergo-tells-you-why)
-- [💫 arXiv Creator - stat.ML: Direct Intermediate Initialization for Tilted Diffusion Samplers](https://blog.darkwood.com/article/arxiv-creator-stat-ml-direct-intermediate-initialization-for-tilted-diffusion-samplers)
-- [🤖 Darkwood Watch - 2026-10-06](https://blog.darkwood.com/article/darkwood-watch-2026-10-06)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
