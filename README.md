@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - OpenAI Withdraws 3 Math Papers](https://blog.darkwood.com/article/hacker-news-creator-openai-withdraws-3-math-papers)
+- [💫 Reddit Creator - r/opensource: AssetFurnace: open-source (Apache-2.0) text → 3D → rigged, animated character, all local. Mac + NVIDIA](https://blog.darkwood.com/article/reddit-creator-r-opensource-assetfurnace-open-source-apache-2-0-text-3d-rigged-animated-character-all-local-mac-nvidia)
+- [💫 arXiv Creator - stat.ML: Why Forget-Only Unlearning Needs Memorization](https://blog.darkwood.com/article/arxiv-creator-stat-ml-why-forget-only-unlearning-needs-memorization)
 - [🤖 Darkwood Watch - 2026-10-08](https://blog.darkwood.com/article/darkwood-watch-2026-10-08)
 - [💫 Hacker News Creator - Sharing AI progress in mathematics](https://blog.darkwood.com/article/hacker-news-creator-sharing-ai-progress-in-mathematics)
-- [💫 Reddit Creator - r/opensource: Game of Ur - Available on Windows, Linux (Arch, Debian)](https://blog.darkwood.com/article/reddit-creator-r-opensource-game-of-ur-available-on-windows-linux-arch-debian)
-- [💫 arXiv Creator - cs.AI: 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](https://blog.darkwood.com/article/arxiv-creator-cs-ai-4d-hof-hand-object-flow-matching-for-feed-forward-4d-interaction-reconstruction)
-- [🤖 Darkwood Watch - 2026-10-07](https://blog.darkwood.com/article/darkwood-watch-2026-10-07)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
