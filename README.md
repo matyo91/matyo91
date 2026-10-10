@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - OpenAI Withdraws 3 Math Papers](https://blog.darkwood.com/article/hacker-news-creator-openai-withdraws-3-math-papers)
-- [💫 Reddit Creator - r/opensource: AssetFurnace: open-source (Apache-2.0) text → 3D → rigged, animated character, all local. Mac + NVIDIA](https://blog.darkwood.com/article/reddit-creator-r-opensource-assetfurnace-open-source-apache-2-0-text-3d-rigged-animated-character-all-local-mac-nvidia)
-- [💫 arXiv Creator - stat.ML: Why Forget-Only Unlearning Needs Memorization](https://blog.darkwood.com/article/arxiv-creator-stat-ml-why-forget-only-unlearning-needs-memorization)
-- [🤖 Darkwood Watch - 2026-10-08](https://blog.darkwood.com/article/darkwood-watch-2026-10-08)
-- [💫 Hacker News Creator - Sharing AI progress in mathematics](https://blog.darkwood.com/article/hacker-news-creator-sharing-ai-progress-in-mathematics)
+- [🤖 Darkwood Watch - 2026-10-10](https://blog.darkwood.com/article/darkwood-watch-2026-10-10)
+- [💫 Hacker News Creator - Show HN: Quake ported to safe Rust, playable in browser](https://blog.darkwood.com/article/hacker-news-creator-show-hn-quake-ported-to-safe-rust-playable-in-browser)
+- [💫 Reddit Creator - r/opensource: Looking for developer to help with an Open Source Ecosystem for Fiction Writers](https://blog.darkwood.com/article/reddit-creator-r-opensource-looking-for-developer-to-help-with-an-open-source-ecosystem-for-fiction-writers)
+- [💫 arXiv Creator - stat.ML: Density Ratio Estimation with Stein Displacement Fields](https://blog.darkwood.com/article/arxiv-creator-stat-ml-density-ratio-estimation-with-stein-displacement-fields)
+- [🤖 Darkwood Watch - 2026-10-09](https://blog.darkwood.com/article/darkwood-watch-2026-10-09)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
