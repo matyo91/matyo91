@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-10-12](https://blog.darkwood.com/article/darkwood-watch-2026-10-12)
+- [🖍️ Darkwaar27: Pigment — A Dice Puzzle Built on Rotation and Color Algebra](https://blog.darkwood.com/article/darkwaar27-pigment-a-dice-puzzle-built-on-rotation-and-color-algebra)
+- [💫 Hacker News Creator - 3rd Yandex Cloud Data Center Was Hit](https://blog.darkwood.com/article/hacker-news-creator-3rd-yandex-cloud-data-center-was-hit)
+- [💫 Reddit Creator - r/opensource: Managing GitHub repositories without owning every setting](https://blog.darkwood.com/article/reddit-creator-r-opensource-managing-github-repositories-without-owning-every-setting)
 - [🤖 Darkwood Watch - 2026-10-11](https://blog.darkwood.com/article/darkwood-watch-2026-10-11)
-- [💫 Hacker News Creator - Cloudflare acquires Deno](https://blog.darkwood.com/article/hacker-news-creator-cloudflare-acquires-deno)
-- [💫 Reddit Creator - r/opensource: I built Torchain – System-wide transparent Tor proxy & fail-closed killswitch for Windows, Linux, and Android](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-built-torchain-system-wide-transparent-tor-proxy-fail-closed-killswitch-for-windows-linux-and-android)
-- [🤖 Darkwood Watch - 2026-10-10](https://blog.darkwood.com/article/darkwood-watch-2026-10-10)
-- [💫 Hacker News Creator - Show HN: Quake ported to safe Rust, playable in browser](https://blog.darkwood.com/article/hacker-news-creator-show-hn-quake-ported-to-safe-rust-playable-in-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
