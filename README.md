@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-10-13](https://blog.darkwood.com/article/darkwood-watch-2026-10-13)
+- [💫 Hacker News Creator - 500B tokens later: Letting AI agents decompile a first-person shooter](https://blog.darkwood.com/article/hacker-news-creator-500b-tokens-later-letting-ai-agents-decompile-a-first-person-shooter)
+- [💫 Reddit Creator - r/opensource: Agent Standup (100% local AI visualization tool where your agents work together in a video call)](https://blog.darkwood.com/article/reddit-creator-r-opensource-agent-standup-100-local-ai-visualization-tool-where-your-agents-work-together-in-a-video-call)
+- [💫 arXiv Creator - cs.LG: Hide and Seek: HIDE Concepts to SEEK explanations for black box models](https://blog.darkwood.com/article/arxiv-creator-cs-lg-hide-and-seek-hide-concepts-to-seek-explanations-for-black-box-models)
 - [🤖 Darkwood Watch - 2026-10-12](https://blog.darkwood.com/article/darkwood-watch-2026-10-12)
-- [🖍️ Darkwaar27: Pigment — A Dice Puzzle Built on Rotation and Color Algebra](https://blog.darkwood.com/article/darkwaar27-pigment-a-dice-puzzle-built-on-rotation-and-color-algebra)
-- [💫 Hacker News Creator - 3rd Yandex Cloud Data Center Was Hit](https://blog.darkwood.com/article/hacker-news-creator-3rd-yandex-cloud-data-center-was-hit)
-- [💫 Reddit Creator - r/opensource: Managing GitHub repositories without owning every setting](https://blog.darkwood.com/article/reddit-creator-r-opensource-managing-github-repositories-without-owning-every-setting)
-- [🤖 Darkwood Watch - 2026-10-11](https://blog.darkwood.com/article/darkwood-watch-2026-10-11)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
