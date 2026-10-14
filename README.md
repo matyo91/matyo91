@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-10-13](https://blog.darkwood.com/article/darkwood-watch-2026-10-13)
-- [💫 Hacker News Creator - 500B tokens later: Letting AI agents decompile a first-person shooter](https://blog.darkwood.com/article/hacker-news-creator-500b-tokens-later-letting-ai-agents-decompile-a-first-person-shooter)
-- [💫 Reddit Creator - r/opensource: Agent Standup (100% local AI visualization tool where your agents work together in a video call)](https://blog.darkwood.com/article/reddit-creator-r-opensource-agent-standup-100-local-ai-visualization-tool-where-your-agents-work-together-in-a-video-call)
-- [💫 arXiv Creator - cs.LG: Hide and Seek: HIDE Concepts to SEEK explanations for black box models](https://blog.darkwood.com/article/arxiv-creator-cs-lg-hide-and-seek-hide-concepts-to-seek-explanations-for-black-box-models)
-- [🤖 Darkwood Watch - 2026-10-12](https://blog.darkwood.com/article/darkwood-watch-2026-10-12)
+- [🤖 Darkwood Watch - 2026-10-14](https://blog.darkwood.com/article/darkwood-watch-2026-10-14)
+- [💫 Bluesky Creator - @martinfowler.com: Coding Agents: Harness or No Harness?](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-coding-agents-harness-or-no-harness)
+- [💫 Hacker News Creator - AI models can provably hide arbitrary capabilities](https://blog.darkwood.com/article/hacker-news-creator-ai-models-can-provably-hide-arbitrary-capabilities)
+- [💫 Reddit Creator - r/opensource: I built a free, open-source jet lag planner that runs entirely in your browser (no account, no tracking)](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-built-a-free-open-source-jet-lag-planner-that-runs-entirely-in-your-browser-no-account-no-tracking)
+- [💫 GitHub Creator - envoyproxy: v1.39.4](https://blog.darkwood.com/article/github-creator-envoyproxy-v1-39-4)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
