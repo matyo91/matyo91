@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-10-14](https://blog.darkwood.com/article/darkwood-watch-2026-10-14)
-- [💫 Bluesky Creator - @martinfowler.com: Coding Agents: Harness or No Harness?](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-coding-agents-harness-or-no-harness)
-- [💫 Hacker News Creator - AI models can provably hide arbitrary capabilities](https://blog.darkwood.com/article/hacker-news-creator-ai-models-can-provably-hide-arbitrary-capabilities)
-- [💫 Reddit Creator - r/opensource: I built a free, open-source jet lag planner that runs entirely in your browser (no account, no tracking)](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-built-a-free-open-source-jet-lag-planner-that-runs-entirely-in-your-browser-no-account-no-tracking)
-- [💫 GitHub Creator - envoyproxy: v1.39.4](https://blog.darkwood.com/article/github-creator-envoyproxy-v1-39-4)
+- [🖍️ Darkwaar27: Pigment — A Dice Puzzle Built on Rotation and Color Algebra](https://blog.darkwood.com/article/darkwaar27-pigment-a-dice-puzzle-built-on-rotation-and-color-algebra)
+- [😶 From Noise to a Playable World](https://blog.darkwood.com/article/from-noise-to-a-playable-world)
+- [♟️ From Jev to Darkwaar: Building a Game About Decisions and Uncertainty](https://blog.darkwood.com/article/from-jev-to-darkwaar-building-a-game-about-decisions-and-uncertainty-1)
+- [From Jev to Darkwaar: Building a Game About Decisions and Uncertainty](https://blog.darkwood.com/article/from-jev-to-darkwaar-building-a-game-about-decisions-and-uncertainty)
+- [🔑 Secret Keys Become Application Data](https://blog.darkwood.com/article/secret-keys-become-application-data)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
