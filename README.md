@@ -14,10 +14,10 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🔀 Darkwaar33 - Seedwake: Asynchronous Multiplayer Without a Server](https://blog.darkwood.com/article/darkwaar33-seedwake-asynchronous-multiplayer-without-a-server-1)
 - [🖍️ Darkwaar27: Pigment — A Dice Puzzle Built on Rotation and Color Algebra](https://blog.darkwood.com/article/darkwaar27-pigment-a-dice-puzzle-built-on-rotation-and-color-algebra)
 - [😶 From Noise to a Playable World](https://blog.darkwood.com/article/from-noise-to-a-playable-world)
 - [♟️ From Jev to Darkwaar: Building a Game About Decisions and Uncertainty](https://blog.darkwood.com/article/from-jev-to-darkwaar-building-a-game-about-decisions-and-uncertainty-1)
-- [From Jev to Darkwaar: Building a Game About Decisions and Uncertainty](https://blog.darkwood.com/article/from-jev-to-darkwaar-building-a-game-about-decisions-and-uncertainty)
 - [🔑 Secret Keys Become Application Data](https://blog.darkwood.com/article/secret-keys-become-application-data)
 <!-- BLOG-POST-LIST:END -->
 
