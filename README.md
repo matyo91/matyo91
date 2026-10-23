@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-10-22](https://blog.darkwood.com/article/darkwood-watch-2026-10-22)
-- [💫 Bonzai Creator - Nathalie](https://blog.darkwood.com/article/bonzai-creator-nathalie-3)
-- [🤖 Darkwood Watch - 2026-10-21](https://blog.darkwood.com/article/darkwood-watch-2026-10-21)
-- [💫 Bonzai Creator - Niokoz](https://blog.darkwood.com/article/bonzai-creator-niokoz-5)
-- [🤖 Darkwood Watch - 2026-10-20](https://blog.darkwood.com/article/darkwood-watch-2026-10-20)
+- [💫 Bluesky Creator - @martinfowler.com: LLM Generated Prose in Tech](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-llm-generated-prose-in-tech)
+- [💫 Hacker News Creator - OpenAI CLI](https://blog.darkwood.com/article/hacker-news-creator-openai-cli)
+- [💫 Reddit Creator - r/opensource: Sentry just gave a million dollars to Open Source maintainers](https://blog.darkwood.com/article/reddit-creator-r-opensource-sentry-just-gave-a-million-dollars-to-open-source-maintainers)
+- [💫 arXiv Creator - stat.ML: Geometric Algebra for Neural Networks: A Survey](https://blog.darkwood.com/article/arxiv-creator-stat-ml-geometric-algebra-for-neural-networks-a-survey)
+- [💫 GitHub Creator - argoproj: argoproj/argo-cd: v3.6.0-rc3](https://blog.darkwood.com/article/github-creator-argoproj-argoproj-argo-cd-v3-6-0-rc3)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
