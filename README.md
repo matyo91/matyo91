@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Bluesky Creator - @martinfowler.com: LLM Generated Prose in Tech](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-llm-generated-prose-in-tech)
-- [💫 Hacker News Creator - OpenAI CLI](https://blog.darkwood.com/article/hacker-news-creator-openai-cli)
-- [💫 Reddit Creator - r/opensource: Sentry just gave a million dollars to Open Source maintainers](https://blog.darkwood.com/article/reddit-creator-r-opensource-sentry-just-gave-a-million-dollars-to-open-source-maintainers)
-- [💫 arXiv Creator - stat.ML: Geometric Algebra for Neural Networks: A Survey](https://blog.darkwood.com/article/arxiv-creator-stat-ml-geometric-algebra-for-neural-networks-a-survey)
-- [💫 GitHub Creator - argoproj: argoproj/argo-cd: v3.6.0-rc3](https://blog.darkwood.com/article/github-creator-argoproj-argoproj-argo-cd-v3-6-0-rc3)
+- [💫 Hacker News Creator - OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://blog.darkwood.com/article/hacker-news-creator-openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-agents)
+- [💫 Reddit Creator - r/opensource: I built a tool to stream PC audio to a PS4 controller over Bluetooth — looking for testers 🎧](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-built-a-tool-to-stream-pc-audio-to-a-ps4-controller-over-bluetooth-looking-for-testers)
+- [💫 arXiv Creator - stat.ML: Phase Transition from Random Features to Fully Trainable Networks](https://blog.darkwood.com/article/arxiv-creator-stat-ml-phase-transition-from-random-features-to-fully-trainable-networks)
+- [💫 GitHub Creator - symfony: symfony/ai v0.15.0](https://blog.darkwood.com/article/github-creator-symfony-symfony-ai-v0-15-0)
+- [💫 Bonzai Creator - Fabien WAGER-MENRI](https://blog.darkwood.com/article/bonzai-creator-fabien-wager-menri-1)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
