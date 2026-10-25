@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://blog.darkwood.com/article/hacker-news-creator-openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-agents)
-- [💫 Reddit Creator - r/opensource: I built a tool to stream PC audio to a PS4 controller over Bluetooth — looking for testers 🎧](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-built-a-tool-to-stream-pc-audio-to-a-ps4-controller-over-bluetooth-looking-for-testers)
-- [💫 arXiv Creator - stat.ML: Phase Transition from Random Features to Fully Trainable Networks](https://blog.darkwood.com/article/arxiv-creator-stat-ml-phase-transition-from-random-features-to-fully-trainable-networks)
-- [💫 GitHub Creator - symfony: symfony/ai v0.15.0](https://blog.darkwood.com/article/github-creator-symfony-symfony-ai-v0-15-0)
-- [💫 Bonzai Creator - Fabien WAGER-MENRI](https://blog.darkwood.com/article/bonzai-creator-fabien-wager-menri-1)
+- [💫 Hacker News Creator - Dessa: Conversation Model trained only on speech](https://blog.darkwood.com/article/hacker-news-creator-dessa-conversation-model-trained-only-on-speech)
+- [💫 Reddit Creator - r/opensource: CopyShot [macOS] : local OCR with configurable Quick Actions, formula, QR and table capture](https://blog.darkwood.com/article/reddit-creator-r-opensource-copyshot-macos-local-ocr-with-configurable-quick-actions-formula-qr-and-table-capture)
+- [💫 GitHub Creator - cilium: cilium/cilium: 1.18.16](https://blog.darkwood.com/article/github-creator-cilium-cilium-cilium-1-18-16)
+- [💫 Bonzai Creator - Dada | Continuum⍟](https://blog.darkwood.com/article/bonzai-creator-dada-continuum-3)
+- [🤖 Darkwood Watch - 2026-10-24](https://blog.darkwood.com/article/darkwood-watch-2026-10-24)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
