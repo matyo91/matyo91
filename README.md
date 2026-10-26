@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Dessa: Conversation Model trained only on speech](https://blog.darkwood.com/article/hacker-news-creator-dessa-conversation-model-trained-only-on-speech)
-- [💫 Reddit Creator - r/opensource: CopyShot [macOS] : local OCR with configurable Quick Actions, formula, QR and table capture](https://blog.darkwood.com/article/reddit-creator-r-opensource-copyshot-macos-local-ocr-with-configurable-quick-actions-formula-qr-and-table-capture)
-- [💫 GitHub Creator - cilium: cilium/cilium: 1.18.16](https://blog.darkwood.com/article/github-creator-cilium-cilium-cilium-1-18-16)
-- [💫 Bonzai Creator - Dada | Continuum⍟](https://blog.darkwood.com/article/bonzai-creator-dada-continuum-3)
-- [🤖 Darkwood Watch - 2026-10-24](https://blog.darkwood.com/article/darkwood-watch-2026-10-24)
+- [🎧 DJ Matyo's Selection - October 25, 2026](https://blog.darkwood.com/article/dj-matyo-s-selection-october-25-2026)
+- [📈 Darkwood Investment Update - October 25, 2026](https://blog.darkwood.com/article/darkwood-investment-update-october-25-2026)
+- [🛡️ Holding the Core: Security Engineering Through Darkwaar40 — Breach](https://blog.darkwood.com/article/holding-the-core-security-engineering-through-darkwaar40-breach)
+- [💫 Hacker News Creator - No signs of AI payoff outside the tech sector](https://blog.darkwood.com/article/hacker-news-creator-no-signs-of-ai-payoff-outside-the-tech-sector)
+- [💫 Reddit Creator - r/php: Patching PHP2Shell on EOL PHP 7.1 / CentOS 7 by rebuilding the Webtatic RPMs (what worked, what bit us)](https://blog.darkwood.com/article/reddit-creator-r-php-patching-php2shell-on-eol-php-7-1-centos-7-by-rebuilding-the-webtatic-rpms-what-worked-what-bit-us)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
