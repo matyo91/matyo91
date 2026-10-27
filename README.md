@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🎧 DJ Matyo's Selection - October 25, 2026](https://blog.darkwood.com/article/dj-matyo-s-selection-october-25-2026)
-- [📈 Darkwood Investment Update - October 25, 2026](https://blog.darkwood.com/article/darkwood-investment-update-october-25-2026)
-- [🛡️ Holding the Core: Security Engineering Through Darkwaar40 — Breach](https://blog.darkwood.com/article/holding-the-core-security-engineering-through-darkwaar40-breach)
-- [💫 Hacker News Creator - No signs of AI payoff outside the tech sector](https://blog.darkwood.com/article/hacker-news-creator-no-signs-of-ai-payoff-outside-the-tech-sector)
-- [💫 Reddit Creator - r/php: Patching PHP2Shell on EOL PHP 7.1 / CentOS 7 by rebuilding the Webtatic RPMs (what worked, what bit us)](https://blog.darkwood.com/article/reddit-creator-r-php-patching-php2shell-on-eol-php-7-1-centos-7-by-rebuilding-the-webtatic-rpms-what-worked-what-bit-us)
+- [📈 Darkwood Investment Update - October 26, 2026](https://blog.darkwood.com/article/darkwood-investment-update-october-26-2026)
+- [💫 Mastodon Creator - PHP Ecosystem Insights](https://blog.darkwood.com/article/mastodon-creator-php-ecosystem-insights)
+- [💫 Hacker News Creator - Anthropic S-1](https://blog.darkwood.com/article/hacker-news-creator-anthropic-s-1)
+- [💫 Reddit Creator - r/php: Should regular users do anything after the recent PHP vulnerability?](https://blog.darkwood.com/article/reddit-creator-r-php-should-regular-users-do-anything-after-the-recent-php-vulnerability)
+- [💫 arXiv Creator - stat.ML: Singular Geometry of Low-Rank Adaptation](https://blog.darkwood.com/article/arxiv-creator-stat-ml-singular-geometry-of-low-rank-adaptation)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
