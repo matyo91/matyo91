@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [📈 Darkwood Investment Update - October 26, 2026](https://blog.darkwood.com/article/darkwood-investment-update-october-26-2026)
-- [💫 Mastodon Creator - PHP Ecosystem Insights](https://blog.darkwood.com/article/mastodon-creator-php-ecosystem-insights)
-- [💫 Hacker News Creator - Anthropic S-1](https://blog.darkwood.com/article/hacker-news-creator-anthropic-s-1)
-- [💫 Reddit Creator - r/php: Should regular users do anything after the recent PHP vulnerability?](https://blog.darkwood.com/article/reddit-creator-r-php-should-regular-users-do-anything-after-the-recent-php-vulnerability)
-- [💫 arXiv Creator - stat.ML: Singular Geometry of Low-Rank Adaptation](https://blog.darkwood.com/article/arxiv-creator-stat-ml-singular-geometry-of-low-rank-adaptation)
+- [📈 Darkwood Investment Update - October 27, 2026](https://blog.darkwood.com/article/darkwood-investment-update-october-27-2026)
+- [💫 Hacker News Creator - CSS-Tricks has a new owner](https://blog.darkwood.com/article/hacker-news-creator-css-tricks-has-a-new-owner)
+- [💫 Reddit Creator - r/php: Portly: a portable local PHP dev environment for Windows, free and open source](https://blog.darkwood.com/article/reddit-creator-r-php-portly-a-portable-local-php-dev-environment-for-windows-free-and-open-source)
+- [💫 arXiv Creator - stat.ML: Recertifying decisions via e-closure: uniform improvements of conformal risk control and randomized e-BH](https://blog.darkwood.com/article/arxiv-creator-stat-ml-recertifying-decisions-via-e-closure-uniform-improvements-of-conformal-risk-control-and-randomized-e-bh)
+- [💫 GitHub Creator - sebastianbergmann: PHPUnit 12.5.42](https://blog.darkwood.com/article/github-creator-sebastianbergmann-phpunit-12-5-42)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
