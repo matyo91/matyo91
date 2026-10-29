@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [📈 Darkwood Investment Update - October 27, 2026](https://blog.darkwood.com/article/darkwood-investment-update-october-27-2026)
-- [💫 Hacker News Creator - CSS-Tricks has a new owner](https://blog.darkwood.com/article/hacker-news-creator-css-tricks-has-a-new-owner)
-- [💫 Reddit Creator - r/php: Portly: a portable local PHP dev environment for Windows, free and open source](https://blog.darkwood.com/article/reddit-creator-r-php-portly-a-portable-local-php-dev-environment-for-windows-free-and-open-source)
-- [💫 arXiv Creator - stat.ML: Recertifying decisions via e-closure: uniform improvements of conformal risk control and randomized e-BH](https://blog.darkwood.com/article/arxiv-creator-stat-ml-recertifying-decisions-via-e-closure-uniform-improvements-of-conformal-risk-control-and-randomized-e-bh)
-- [💫 GitHub Creator - sebastianbergmann: PHPUnit 12.5.42](https://blog.darkwood.com/article/github-creator-sebastianbergmann-phpunit-12-5-42)
+- [📈 Darkwood Investment Update - October 28, 2026](https://blog.darkwood.com/article/darkwood-investment-update-october-28-2026)
+- [💫 Bluesky Creator - @martinfowler.com: Fragments on LLMs and Supervisory Control](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-llms-and-supervisory-control)
+- [💫 Hacker News Creator - Kentucky man becomes the first humanist granted religious exemption from AI](https://blog.darkwood.com/article/hacker-news-creator-kentucky-man-becomes-the-first-humanist-granted-religious-exemption-from-ai)
+- [💫 Reddit Creator - r/php: JumPHP: write retro 2D games in PHP that run on desktop, in the browser and on phones](https://blog.darkwood.com/article/reddit-creator-r-php-jumphp-write-retro-2d-games-in-php-that-run-on-desktop-in-the-browser-and-on-phones)
+- [💫 arXiv Creator - stat.ML: Agentic Distributional Regression: Conditional Density Estimation through Agent-Written Programs](https://blog.darkwood.com/article/arxiv-creator-stat-ml-agentic-distributional-regression-conditional-density-estimation-through-agent-written-programs)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
