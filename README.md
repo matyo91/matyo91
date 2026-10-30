@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Claude Code regularly sends each background agent’s transcript to its model](https://blog.darkwood.com/article/hacker-news-creator-claude-code-regularly-sends-each-background-agent-s-transcript-to-its-model)
+- [💫 Reddit Creator - r/php: I made a modern replacement for the XAMPP Control Panel (Windows, open source)](https://blog.darkwood.com/article/reddit-creator-r-php-i-made-a-modern-replacement-for-the-xampp-control-panel-windows-open-source)
+- [💫 GitHub Creator - composer: composer/composer: 2.11.0](https://blog.darkwood.com/article/github-creator-composer-composer-composer-2-11-0)
+- [🤖 Darkwood Watch - 2026-10-29](https://blog.darkwood.com/article/darkwood-watch-2026-10-29)
 - [📈 Darkwood Investment Update - October 28, 2026](https://blog.darkwood.com/article/darkwood-investment-update-october-28-2026)
-- [💫 Bluesky Creator - @martinfowler.com: Fragments on LLMs and Supervisory Control](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-llms-and-supervisory-control)
-- [💫 Hacker News Creator - Kentucky man becomes the first humanist granted religious exemption from AI](https://blog.darkwood.com/article/hacker-news-creator-kentucky-man-becomes-the-first-humanist-granted-religious-exemption-from-ai)
-- [💫 Reddit Creator - r/php: JumPHP: write retro 2D games in PHP that run on desktop, in the browser and on phones](https://blog.darkwood.com/article/reddit-creator-r-php-jumphp-write-retro-2d-games-in-php-that-run-on-desktop-in-the-browser-and-on-phones)
-- [💫 arXiv Creator - stat.ML: Agentic Distributional Regression: Conditional Density Estimation through Agent-Written Programs](https://blog.darkwood.com/article/arxiv-creator-stat-ml-agentic-distributional-regression-conditional-density-estimation-through-agent-written-programs)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
