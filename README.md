@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Hacker News Creator - Claude Code regularly sends each background agent’s transcript to its model](https://blog.darkwood.com/article/hacker-news-creator-claude-code-regularly-sends-each-background-agent-s-transcript-to-its-model)
-- [💫 Reddit Creator - r/php: I made a modern replacement for the XAMPP Control Panel (Windows, open source)](https://blog.darkwood.com/article/reddit-creator-r-php-i-made-a-modern-replacement-for-the-xampp-control-panel-windows-open-source)
-- [💫 GitHub Creator - composer: composer/composer: 2.11.0](https://blog.darkwood.com/article/github-creator-composer-composer-composer-2-11-0)
-- [🤖 Darkwood Watch - 2026-10-29](https://blog.darkwood.com/article/darkwood-watch-2026-10-29)
-- [📈 Darkwood Investment Update - October 28, 2026](https://blog.darkwood.com/article/darkwood-investment-update-october-28-2026)
+- [🤖 Darkwood Watch - 2026-11-02](https://blog.darkwood.com/article/darkwood-watch-2026-11-02)
+- [💫 Bluesky Creator - @martinfowler.com: Why are good developers so wary of agentic development?](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-why-are-good-developers-so-wary-of-agentic-development)
+- [🧊 Small Rules, Evolving Worlds: Strata Relay and Cross-Application Messaging with Symfony 8.2](https://blog.darkwood.com/article/small-rules-evolving-worlds-strata-relay-and-cross-application-messaging-with-symfony-8-2)
+- [💫 Hacker News Creator - Do the math: How we took over ChatGPT accounts](https://blog.darkwood.com/article/hacker-news-creator-do-the-math-how-we-took-over-chatgpt-accounts)
+- [💫 Reddit Creator - r/webdev: A synoptic to help my dev and DevOps colleagues to understand what I've done](https://blog.darkwood.com/article/reddit-creator-r-webdev-a-synoptic-to-help-my-dev-and-devops-colleagues-to-understand-what-i-ve-done)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
