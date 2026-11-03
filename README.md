@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-11-03](https://blog.darkwood.com/article/darkwood-watch-2026-11-03)
+- [💫 Bluesky Creator - @martinfowler.com: One of the curses of the growth of AI](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-one-of-the-curses-of-the-growth-of-ai)
+- [💫 Hacker News Creator - The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](https://blog.darkwood.com/article/hacker-news-creator-the-impact-of-generative-ai-on-critical-thinking-self-reported-2025)
+- [💫 Reddit Creator - r/webdev: The main thread is the wrong place for a data grid](https://blog.darkwood.com/article/reddit-creator-r-webdev-the-main-thread-is-the-wrong-place-for-a-data-grid)
 - [🤖 Darkwood Watch - 2026-11-02](https://blog.darkwood.com/article/darkwood-watch-2026-11-02)
-- [💫 Bluesky Creator - @martinfowler.com: Why are good developers so wary of agentic development?](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-why-are-good-developers-so-wary-of-agentic-development)
-- [🧊 Small Rules, Evolving Worlds: Strata Relay and Cross-Application Messaging with Symfony 8.2](https://blog.darkwood.com/article/small-rules-evolving-worlds-strata-relay-and-cross-application-messaging-with-symfony-8-2)
-- [💫 Hacker News Creator - Do the math: How we took over ChatGPT accounts](https://blog.darkwood.com/article/hacker-news-creator-do-the-math-how-we-took-over-chatgpt-accounts)
-- [💫 Reddit Creator - r/webdev: A synoptic to help my dev and DevOps colleagues to understand what I've done](https://blog.darkwood.com/article/reddit-creator-r-webdev-a-synoptic-to-help-my-dev-and-devops-colleagues-to-understand-what-i-ve-done)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
