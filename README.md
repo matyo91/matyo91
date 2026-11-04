@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Reddit Creator - r/webdev: [Showoff Saturday] - Free & open source Stock Market Earnings Calendar](https://blog.darkwood.com/article/reddit-creator-r-webdev-showoff-saturday-free-open-source-stock-market-earnings-calendar)
 - [🤖 Darkwood Watch - 2026-11-03](https://blog.darkwood.com/article/darkwood-watch-2026-11-03)
 - [💫 Bluesky Creator - @martinfowler.com: One of the curses of the growth of AI](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-one-of-the-curses-of-the-growth-of-ai)
 - [💫 Hacker News Creator - The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](https://blog.darkwood.com/article/hacker-news-creator-the-impact-of-generative-ai-on-critical-thinking-self-reported-2025)
 - [💫 Reddit Creator - r/webdev: The main thread is the wrong place for a data grid](https://blog.darkwood.com/article/reddit-creator-r-webdev-the-main-thread-is-the-wrong-place-for-a-data-grid)
-- [🤖 Darkwood Watch - 2026-11-02](https://blog.darkwood.com/article/darkwood-watch-2026-11-02)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
