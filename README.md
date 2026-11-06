@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-11-06](https://blog.darkwood.com/article/darkwood-watch-2026-11-06)
+- [💫 Hacker News Creator - Kimi K3.1 Pro model weights are out](https://blog.darkwood.com/article/hacker-news-creator-kimi-k3-1-pro-model-weights-are-out)
+- [💫 Reddit Creator - r/php: PHP was about to get their asses wooped](https://blog.darkwood.com/article/reddit-creator-r-php-php-was-about-to-get-their-asses-wooped)
+- [💫 arXiv Creator - stat.ML: Regression with Many Generated Controls](https://blog.darkwood.com/article/arxiv-creator-stat-ml-regression-with-many-generated-controls)
 - [🤖 Darkwood Watch - 2026-11-05](https://blog.darkwood.com/article/darkwood-watch-2026-11-05)
-- [📈 Darkwood Investment Watch - 2026-11-04](https://blog.darkwood.com/article/darkwood-investment-watch-2026-11-04)
-- [💫 Hacker News Creator - Postman silently auto-installs AI plugins and attempts to share all API data](https://blog.darkwood.com/article/hacker-news-creator-postman-silently-auto-installs-ai-plugins-and-attempts-to-share-all-api-data)
-- [💫 Reddit Creator - r/php: Just built a package that turns what your Laravel app already declares (routes, Artisan commands, jobs, actions and models) into an MCP server for AI agents.](https://blog.darkwood.com/article/reddit-creator-r-php-just-built-a-package-that-turns-what-your-laravel-app-already-declares-routes-artisan-commands-jobs-actions-and-models-into-an-mcp-server-for-ai-agents)
-- [💫 arXiv Creator - stat.ML: A simple adaptive accelerated optimistic dual averaging method for unconstrained convex optimization in $p$-norm geometry](https://blog.darkwood.com/article/arxiv-creator-stat-ml-a-simple-adaptive-accelerated-optimistic-dual-averaging-method-for-unconstrained-convex-optimization-in-p-norm-geometry)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
