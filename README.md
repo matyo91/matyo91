@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-11-06](https://blog.darkwood.com/article/darkwood-watch-2026-11-06)
-- [💫 Hacker News Creator - Kimi K3.1 Pro model weights are out](https://blog.darkwood.com/article/hacker-news-creator-kimi-k3-1-pro-model-weights-are-out)
-- [💫 Reddit Creator - r/php: PHP was about to get their asses wooped](https://blog.darkwood.com/article/reddit-creator-r-php-php-was-about-to-get-their-asses-wooped)
-- [💫 arXiv Creator - stat.ML: Regression with Many Generated Controls](https://blog.darkwood.com/article/arxiv-creator-stat-ml-regression-with-many-generated-controls)
-- [🤖 Darkwood Watch - 2026-11-05](https://blog.darkwood.com/article/darkwood-watch-2026-11-05)
+- [🤖 Darkwood Watch - 2026-11-07](https://blog.darkwood.com/article/darkwood-watch-2026-11-07)
+- [🎧 DJ Matyo Selection - 2026-11-06](https://blog.darkwood.com/article/dj-matyo-selection-2026-11-06)
+- [📈 Darkwood Investment Watch - 2026-11-06](https://blog.darkwood.com/article/darkwood-investment-watch-2026-11-06)
+- [💫 Bluesky Creator - @jerome.tamarelle.net: Boost Projects with GitHub Stars](https://blog.darkwood.com/article/bluesky-creator-jerome-tamarelle-net-boost-projects-with-github-stars)
+- [💫 Hacker News Creator - MCP Explained](https://blog.darkwood.com/article/hacker-news-creator-mcp-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
