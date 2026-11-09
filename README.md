@@ -67,3 +67,9 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 </p>
 
 Icons by [https://icons8.com](https://icons8.com)
+
+## Contributions
+
+This profile is maintained in the
+[`darkwood-com/darkwood`](https://github.com/darkwood-com/darkwood) monorepo
+under `library/matyo91`. Please open changes against the canonical source.
