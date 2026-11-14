@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-11-09](https://blog.darkwood.com/article/darkwood-watch-2026-11-09)
-- [🧠 Memory: What Makes Continuation Possible](https://blog.darkwood.com/article/memory-what-makes-continuation-possible)
-- [💫 Hacker News Creator - The end of Microsoft Research's AI Frontiers group](https://blog.darkwood.com/article/hacker-news-creator-the-end-of-microsoft-research-s-ai-frontiers-group)
-- [💫 Reddit Creator - r/php: Introducing FlockPHP v1.0!](https://blog.darkwood.com/article/reddit-creator-r-php-introducing-flockphp-v1-0)
-- [🤖 Darkwood Watch - 2026-11-08](https://blog.darkwood.com/article/darkwood-watch-2026-11-08)
+- [🤖 Darkwood Watch - 2026-11-14](https://blog.darkwood.com/article/darkwood-watch-2026-11-14)
+- [📈 Darkwood Investment Watch - 2026-11-13](https://blog.darkwood.com/article/darkwood-investment-watch-2026-11-13)
+- [💫 Hacker News Creator - Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://blog.darkwood.com/article/hacker-news-creator-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+- [💫 Reddit Creator - r/php: Aimeos Prisma 0.8: hundreds of fal.ai models plus Kling, Meta and Adobe Firefly through one PHP API](https://blog.darkwood.com/article/reddit-creator-r-php-aimeos-prisma-0-8-hundreds-of-fal-ai-models-plus-kling-meta-and-adobe-firefly-through-one-php-api)
+- [💫 arXiv Creator - cs.LG: Unbundling Multimodal Vision Encoding](https://blog.darkwood.com/article/arxiv-creator-cs-lg-unbundling-multimodal-vision-encoding)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
