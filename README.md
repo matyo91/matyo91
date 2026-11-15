@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://blog.darkwood.com/article/hacker-news-creator-nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- [💫 Reddit Creator - r/php: Draco Insomnis 0.1.24: captcha-free security, free and open source, for WordPress, PrestaShop, Drupal, Joomla, Moodle, Laravel — and any PHP site](https://blog.darkwood.com/article/reddit-creator-r-php-draco-insomnis-0-1-24-captcha-free-security-free-and-open-source-for-wordpress-prestashop-drupal-joomla-moodle-laravel-and-any-php-site)
+- [💫 GitHub Creator - doctrine: doctrine/orm: 3.7.7](https://blog.darkwood.com/article/github-creator-doctrine-doctrine-orm-3-7-7)
 - [🤖 Darkwood Watch - 2026-11-14](https://blog.darkwood.com/article/darkwood-watch-2026-11-14)
 - [📈 Darkwood Investment Watch - 2026-11-13](https://blog.darkwood.com/article/darkwood-investment-watch-2026-11-13)
-- [💫 Hacker News Creator - Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://blog.darkwood.com/article/hacker-news-creator-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
-- [💫 Reddit Creator - r/php: Aimeos Prisma 0.8: hundreds of fal.ai models plus Kling, Meta and Adobe Firefly through one PHP API](https://blog.darkwood.com/article/reddit-creator-r-php-aimeos-prisma-0-8-hundreds-of-fal-ai-models-plus-kling-meta-and-adobe-firefly-through-one-php-api)
-- [💫 arXiv Creator - cs.LG: Unbundling Multimodal Vision Encoding](https://blog.darkwood.com/article/arxiv-creator-cs-lg-unbundling-multimodal-vision-encoding)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
