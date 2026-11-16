@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-11-15](https://blog.darkwood.com/article/darkwood-watch-2026-11-15)
-- [💫 Hacker News Creator - Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://blog.darkwood.com/article/hacker-news-creator-nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
-- [💫 Reddit Creator - r/php: Draco Insomnis 0.1.24: captcha-free security, free and open source, for WordPress, PrestaShop, Drupal, Joomla, Moodle, Laravel — and any PHP site](https://blog.darkwood.com/article/reddit-creator-r-php-draco-insomnis-0-1-24-captcha-free-security-free-and-open-source-for-wordpress-prestashop-drupal-joomla-moodle-laravel-and-any-php-site)
-- [💫 GitHub Creator - doctrine: doctrine/orm: 3.7.7](https://blog.darkwood.com/article/github-creator-doctrine-doctrine-orm-3-7-7)
-- [🤖 Darkwood Watch - 2026-11-14](https://blog.darkwood.com/article/darkwood-watch-2026-11-14)
+- [🤖 Darkwood Watch - 2026-11-16](https://blog.darkwood.com/article/darkwood-watch-2026-11-16)
+- [🎧 DJ Matyo Selection - 2026-11-15](https://blog.darkwood.com/article/dj-matyo-selection-2026-11-15)
+- [💡 The intention: from thought to execution](https://blog.darkwood.com/article/the-intention-from-thought-to-execution)
+- [💫 Hacker News Creator - Tech companies are trying to shift the concept of privacy again](https://blog.darkwood.com/article/hacker-news-creator-tech-companies-are-trying-to-shift-the-concept-of-privacy-again)
+- [💫 Reddit Creator - r/php: ios shortcut to upload media](https://blog.darkwood.com/article/reddit-creator-r-php-ios-shortcut-to-upload-media)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
