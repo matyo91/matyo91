@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-11-16](https://blog.darkwood.com/article/darkwood-watch-2026-11-16)
-- [🎧 DJ Matyo Selection - 2026-11-15](https://blog.darkwood.com/article/dj-matyo-selection-2026-11-15)
-- [💡 The intention: from thought to execution](https://blog.darkwood.com/article/the-intention-from-thought-to-execution)
-- [💫 Hacker News Creator - Tech companies are trying to shift the concept of privacy again](https://blog.darkwood.com/article/hacker-news-creator-tech-companies-are-trying-to-shift-the-concept-of-privacy-again)
-- [💫 Reddit Creator - r/php: ios shortcut to upload media](https://blog.darkwood.com/article/reddit-creator-r-php-ios-shortcut-to-upload-media)
+- [🤖 Darkwood Watch - 2026-11-17](https://blog.darkwood.com/article/darkwood-watch-2026-11-17)
+- [💫 Hacker News Creator - Old Bitly links are being hijacked](https://blog.darkwood.com/article/hacker-news-creator-old-bitly-links-are-being-hijacked)
+- [💫 Reddit Creator - r/php: Building Maintainable PHP Applications: Architectures](https://blog.darkwood.com/article/reddit-creator-r-php-building-maintainable-php-applications-architectures)
+- [💫 arXiv Creator - stat.ML: Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond](https://blog.darkwood.com/article/arxiv-creator-stat-ml-elliptic-sampling-optimal-interpolant-schedules-for-gaussians-and-beyond)
+- [🖤 Darkwood 2.0: six domains connecting ideas with concrete results](https://blog.darkwood.com/article/darkwood-2-0-six-domains-connecting-ideas-with-concrete-results)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
