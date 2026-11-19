@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-11-19](https://blog.darkwood.com/article/darkwood-watch-2026-11-19)
+- [💫 Bluesky Creator - @martinfowler.com: Understanding Data Contracts](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-understanding-data-contracts)
+- [💫 Hacker News Creator - GPT‑6.2 Astra and Sol](https://blog.darkwood.com/article/hacker-news-creator-gpt-6-2-astra-and-sol)
+- [💫 arXiv Creator - cs.AI: Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](https://blog.darkwood.com/article/arxiv-creator-cs-ai-ambient-llms-data-efficient-supervised-fine-tuning-via-temperature-matching)
 - [🤖 Darkwood Watch - 2026-11-18](https://blog.darkwood.com/article/darkwood-watch-2026-11-18)
-- [📈 Investment Watch Darkwood - 2026-11-17](https://blog.darkwood.com/article/investment-watch-darkwood-2026-11-17)
-- [💫 Hacker News Creator - Windows 11 is collecting data on which coding agents and developer tools you use](https://blog.darkwood.com/article/hacker-news-creator-windows-11-is-collecting-data-on-which-coding-agents-and-developer-tools-you-use)
-- [💫 Reddit Creator - r/php: I built Phoxite, a free, open-source PHP/Laravel language server written in Rust &lpar;VS Code, Neovim, Helix, Zed…&rpar;](https://blog.darkwood.com/article/reddit-creator-r-php-i-built-phoxite-a-free-open-source-php-laravel-language-server-written-in-rust-vs-code-neovim-helix-zed)
-- [💫 arXiv Creator - stat.ML: Optimal Autoregressive Chain-of-Thought Learning via Bagging](https://blog.darkwood.com/article/arxiv-creator-stat-ml-optimal-autoregressive-chain-of-thought-learning-via-bagging)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
