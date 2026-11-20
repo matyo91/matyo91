@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-11-20](https://blog.darkwood.com/article/darkwood-watch-2026-11-20)
+- [🎧 DJ Matyo Selection - 2026-11-19](https://blog.darkwood.com/article/dj-matyo-selection-2026-11-19)
+- [💫 Hacker News Creator - Unauthenticated remote code execution in Nginx](https://blog.darkwood.com/article/hacker-news-creator-unauthenticated-remote-code-execution-in-nginx)
+- [💫 arXiv Creator - stat.ML: Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation](https://blog.darkwood.com/article/arxiv-creator-stat-ml-decomposing-sgd-dynamics-in-neural-networks-teacher-induced-spikes-and-variance-inflation)
 - [🤖 Darkwood Watch - 2026-11-19](https://blog.darkwood.com/article/darkwood-watch-2026-11-19)
-- [💫 Bluesky Creator - @martinfowler.com: Understanding Data Contracts](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-understanding-data-contracts)
-- [💫 Hacker News Creator - GPT‑6.2 Astra and Sol](https://blog.darkwood.com/article/hacker-news-creator-gpt-6-2-astra-and-sol)
-- [💫 arXiv Creator - cs.AI: Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](https://blog.darkwood.com/article/arxiv-creator-cs-ai-ambient-llms-data-efficient-supervised-fine-tuning-via-temperature-matching)
-- [🤖 Darkwood Watch - 2026-11-18](https://blog.darkwood.com/article/darkwood-watch-2026-11-18)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
