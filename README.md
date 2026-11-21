@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-11-21](https://blog.darkwood.com/article/darkwood-watch-2026-11-21)
+- [📈 Veille Investissement Darkwood - 2026-11-20](https://blog.darkwood.com/article/veille-investissement-darkwood-2026-11-20)
+- [💫 Hacker News Creator - Pete Warden on local AI, open models, voice interfaces, the future of hardware](https://blog.darkwood.com/article/hacker-news-creator-pete-warden-on-local-ai-open-models-voice-interfaces-the-future-of-hardware)
+- [💫 arXiv Creator - stat.ML: Simple Private Noisy SGD is Minimax-Optimal under Population Strong Convexity](https://blog.darkwood.com/article/arxiv-creator-stat-ml-simple-private-noisy-sgd-is-minimax-optimal-under-population-strong-convexity)
 - [🤖 Darkwood Watch - 2026-11-20](https://blog.darkwood.com/article/darkwood-watch-2026-11-20)
-- [🎧 DJ Matyo Selection - 2026-11-19](https://blog.darkwood.com/article/dj-matyo-selection-2026-11-19)
-- [💫 Hacker News Creator - Unauthenticated remote code execution in Nginx](https://blog.darkwood.com/article/hacker-news-creator-unauthenticated-remote-code-execution-in-nginx)
-- [💫 arXiv Creator - stat.ML: Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation](https://blog.darkwood.com/article/arxiv-creator-stat-ml-decomposing-sgd-dynamics-in-neural-networks-teacher-induced-spikes-and-variance-inflation)
-- [🤖 Darkwood Watch - 2026-11-19](https://blog.darkwood.com/article/darkwood-watch-2026-11-19)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
