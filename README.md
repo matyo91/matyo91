@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-11-21](https://blog.darkwood.com/article/darkwood-watch-2026-11-21)
-- [📈 Veille Investissement Darkwood - 2026-11-20](https://blog.darkwood.com/article/veille-investissement-darkwood-2026-11-20)
-- [💫 Hacker News Creator - Pete Warden on local AI, open models, voice interfaces, the future of hardware](https://blog.darkwood.com/article/hacker-news-creator-pete-warden-on-local-ai-open-models-voice-interfaces-the-future-of-hardware)
-- [💫 arXiv Creator - stat.ML: Simple Private Noisy SGD is Minimax-Optimal under Population Strong Convexity](https://blog.darkwood.com/article/arxiv-creator-stat-ml-simple-private-noisy-sgd-is-minimax-optimal-under-population-strong-convexity)
-- [🤖 Darkwood Watch - 2026-11-20](https://blog.darkwood.com/article/darkwood-watch-2026-11-20)
+- [🤖 Darkwood Watch - 2026-11-22](https://blog.darkwood.com/article/darkwood-watch-2026-11-22)
+- [🎧 DJ Matyo Selection - 2026-11-21](https://blog.darkwood.com/article/dj-matyo-selection-2026-11-21)
+- [💫 Bluesky Creator - @martinfowler.com: Fragments Insights](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-insights)
+- [💫 Hacker News Creator - I&#39;ll never buy Framework hardware again](https://blog.darkwood.com/article/hacker-news-creator-i-ll-never-buy-framework-hardware-again)
+- [💫 GitHub Creator - widelands: Development Builds](https://blog.darkwood.com/article/github-creator-widelands-development-builds)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links

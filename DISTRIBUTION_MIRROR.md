@@ -3,4 +3,4 @@
 This repository is a read-only distribution mirror. Development, issues, and pull requests belong in the [canonical Darkwood monorepo](https://github.com/darkwood-com/darkwood/tree/main/library/matyo91).
 
 Canonical source: `library/matyo91`<br>
-Canonical revision: `9dafb0e560b5164881fccde427aa3111b2c871c4`
+Canonical revision: `3d1b5482f43d18979073aac99b914cc04376ddac`
