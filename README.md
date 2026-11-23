@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-11-22](https://blog.darkwood.com/article/darkwood-watch-2026-11-22)
-- [🎧 DJ Matyo Selection - 2026-11-21](https://blog.darkwood.com/article/dj-matyo-selection-2026-11-21)
-- [💫 Bluesky Creator - @martinfowler.com: Fragments Insights](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-insights)
-- [💫 Hacker News Creator - I&#39;ll never buy Framework hardware again](https://blog.darkwood.com/article/hacker-news-creator-i-ll-never-buy-framework-hardware-again)
-- [💫 GitHub Creator - widelands: Development Builds](https://blog.darkwood.com/article/github-creator-widelands-development-builds)
+- [🤖 Darkwood Watch - 2026-11-23](https://blog.darkwood.com/article/darkwood-watch-2026-11-23)
+- [💫 Hacker News Creator - Toyota, Nissan, and Honda to standardize parts to lower costs](https://blog.darkwood.com/article/hacker-news-creator-toyota-nissan-and-honda-to-standardize-parts-to-lower-costs)
+- [💫 GitHub Creator - php: php/frankenphp: v1.14.0](https://blog.darkwood.com/article/github-creator-php-php-frankenphp-v1-14-0)
+- [💫 YouTube Creator - Devscast Software: PHP 8.6 : les nouvelles fonctionnalités](https://blog.darkwood.com/article/youtube-creator-devscast-software-php-8-6-les-nouvelles-fonctionnalites)
+- [🧮 Riemann Hypothesis — when AI and Lean change mathematical research](https://blog.darkwood.com/article/riemann-hypothesis-when-ai-and-lean-change-mathematical-research)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
