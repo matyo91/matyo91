@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-11-25](https://blog.darkwood.com/article/darkwood-watch-2026-11-25)
+- [📈 Investment Watch Darkwood - 2026-11-24](https://blog.darkwood.com/article/investment-watch-darkwood-2026-11-24)
+- [💫 Hacker News Creator - LLM agents work for their parent companies, not for you](https://blog.darkwood.com/article/hacker-news-creator-llm-agents-work-for-their-parent-companies-not-for-you)
+- [💫 arXiv Creator - stat.ML: AlphaDefect: Expert-Level AI for Slay the Spire 2](https://blog.darkwood.com/article/arxiv-creator-stat-ml-alphadefect-expert-level-ai-for-slay-the-spire-2)
 - [⭐ Darkwood Daily — Regaining balance: five creations around the recovery step](https://blog.darkwood.com/article/darkwood-daily-regaining-balance-five-creations-around-the-recovery-step)
-- [🤖 Darkwood Watch - 2026-11-24](https://blog.darkwood.com/article/darkwood-watch-2026-11-24)
-- [✈️ Hellcats Over The Pacific — Reconstruct a 1991 game with AI, without writing a single line of code](https://blog.darkwood.com/article/hellcats-over-the-pacific-reconstruct-a-1991-game-with-ai-without-writing-a-single-line-of-code)
-- [📈 Darkwood Investment Watch - 2026-11-23](https://blog.darkwood.com/article/darkwood-investment-watch-2026-11-23)
-- [💫 Hacker News Creator - GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://blog.darkwood.com/article/hacker-news-creator-glm-5-4-toward-generalized-coding-with-our-first-loop-transformer)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
