@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Darkwood Watch - 2026-11-25](https://blog.darkwood.com/article/darkwood-watch-2026-11-25)
-- [📈 Investment Watch Darkwood - 2026-11-24](https://blog.darkwood.com/article/investment-watch-darkwood-2026-11-24)
-- [💫 Hacker News Creator - LLM agents work for their parent companies, not for you](https://blog.darkwood.com/article/hacker-news-creator-llm-agents-work-for-their-parent-companies-not-for-you)
-- [💫 arXiv Creator - stat.ML: AlphaDefect: Expert-Level AI for Slay the Spire 2](https://blog.darkwood.com/article/arxiv-creator-stat-ml-alphadefect-expert-level-ai-for-slay-the-spire-2)
-- [⭐ Darkwood Daily — Regaining balance: five creations around the recovery step](https://blog.darkwood.com/article/darkwood-daily-regaining-balance-five-creations-around-the-recovery-step)
+- [⭐ Darkwood Daily — Branching from the Same State](https://blog.darkwood.com/article/darkwood-daily-branching-from-the-same-state)
+- [🤖 Darkwood Watch - 2026-11-26](https://blog.darkwood.com/article/darkwood-watch-2026-11-26)
+- [📈 Investment Watch Darkwood - 2026-11-25](https://blog.darkwood.com/article/investment-watch-darkwood-2026-11-25)
+- [💫 Hacker News Creator - Active intrusion campaign against Check Point security management servers](https://blog.darkwood.com/article/hacker-news-creator-active-intrusion-campaign-against-check-point-security-management-servers)
+- [💫 arXiv Creator - stat.ML: U-Statistics-Powered LLM Reasoning](https://blog.darkwood.com/article/arxiv-creator-stat-ml-u-statistics-powered-llm-reasoning)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
