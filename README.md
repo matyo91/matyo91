@@ -14,11 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [⭐ Darkwood Daily — Exchanging Fragments](https://blog.darkwood.com/article/darkwood-daily-exchanging-fragments)
+- [🤖 Darkwood Watch - 2026-11-27](https://blog.darkwood.com/article/darkwood-watch-2026-11-27)
+- [💫 Hacker News Creator - The New York Times warns photographers not to update Photoshop over AI features](https://blog.darkwood.com/article/hacker-news-creator-the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+- [💫 arXiv Creator - stat.ML: Sliding-Window Detection of Hidden Regimes under Stochastic Switching](https://blog.darkwood.com/article/arxiv-creator-stat-ml-sliding-window-detection-of-hidden-regimes-under-stochastic-switching)
 - [⭐ Darkwood Daily — Branching from the Same State](https://blog.darkwood.com/article/darkwood-daily-branching-from-the-same-state)
-- [🤖 Darkwood Watch - 2026-11-26](https://blog.darkwood.com/article/darkwood-watch-2026-11-26)
-- [📈 Investment Watch Darkwood - 2026-11-25](https://blog.darkwood.com/article/investment-watch-darkwood-2026-11-25)
-- [💫 Hacker News Creator - Active intrusion campaign against Check Point security management servers](https://blog.darkwood.com/article/hacker-news-creator-active-intrusion-campaign-against-check-point-security-management-servers)
-- [💫 arXiv Creator - stat.ML: U-Statistics-Powered LLM Reasoning](https://blog.darkwood.com/article/arxiv-creator-stat-ml-u-statistics-powered-llm-reasoning)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
